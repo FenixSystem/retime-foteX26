@@ -1,5 +1,15 @@
 {
   "episodios": [
+            {
+      "nome": "TESTE 1 (2026)",
+      "url": "plugin://plugin.video.Stream_player?url=&subs=https://h4bavhpsjorv.tnmr.org/vtt/02/03913/uv03l1vru7ij_por.vtt",
+      "imagem": "https://image.tmdb.org/t/p/original/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/tyRF4zi2D7x3vwsX2E24NUGPGVz.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia, Ficção científica[/COLOR]\nAdam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
+      "legenda": "",
+      "tipo": "filme"
+    },
         {
       "nome": "TESTE (2026)",
       "url": "plugin://plugin.video.Stream_player?url=https://luluvdo.com/e/uv03l1vru7ij",
