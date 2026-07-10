@@ -12,7 +12,7 @@
     },
         {
       "nome": "TESTE (2026)",
-      "url": "plugin://plugin.video.puretorrent/?action=play_torrent&uri=magnet:?xt=urn:btih:3317a8689432f1e10efc5dd6e26937ce77e720e6&dn&poster=https://image.tmdb.org/t/p/original/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg&fanart=https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg&clearlogo=https://image.tmdb.org/t/p/original/tyRF4zi2D7x3vwsX2E24NUGPGVz.png",
+      "url": "plugin://plugin.video.puretorrent/?action=play_torrent&uri=magnet:?xt=urn:btih:3317a8689432f1e10efc5dd6e26937ce77e720e6&dn",
       "imagem": "https://image.tmdb.org/t/p/original/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/tyRF4zi2D7x3vwsX2E24NUGPGVz.png",
