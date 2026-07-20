@@ -1,12 +1,12 @@
 {
   "episodios": [
-            {
-      "nome": "TESTE 1 (2026)",
-      "url": "plugin://plugin.video.puretorrent/?action=play_torrent&uri=magnet:?xt=urn:btih:3317a8689432f1e10efc5dd6e26937ce77e720e6&dn",
-      "imagem": "https://image.tmdb.org/t/p/original/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/tyRF4zi2D7x3vwsX2E24NUGPGVz.png",
-      "sinopse": "[COLOR yellow]Ação, Fantasia, Ficção científica[/COLOR]\nAdam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
+{
+      "nome": "Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLnB1cmV0b3JyZW50Lz9hY3Rpb249cGxheV90b3JyZW50JnVyaT1tYWduZXQ6P3h0PXVybjpidGloOjNjM2VhZDA5ZTJhZmNmN2U1Y2FkZjg5NGY2MmEwYjMwZDQwYjBkYzQ=",
+      "imagem": "https://image.tmdb.org/t/p/original/clYkNUIdjFhe1PJGYiFEBepyy6k.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/x9imrqD7LgaQRdhV8zdLrO8mJtH.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, História, Aventura[/COLOR]\nEnquanto cada grupo busca cumprir sua missão, uma batalha feroz se desenrola em torno dos prisioneiros tatuados. Quem é amigo e quem é inimigo? O conflito leva todos à Prisão de Abashiri, onde Noppera-bo — o homem que detém todas as respostas — está encarcerado...",
       "legenda": "",
       "tipo": "filme"
     },          
