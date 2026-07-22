@@ -1,6 +1,16 @@
 {
   "episodios": [
 {
+      "nome": "Dia D (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmEzMmE5OTJkYmMwYTFiNjhkOThjNjdmNzM0NDE4ZmM3NzhmNGNiNWQ=",
+      "imagem": "https://image.tmdb.org/t/p/original/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pW4Ah1A6SgZNQNmf5AgiIYPzFHF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2pWpVRlXwZCBPwhZianV98lKm4D.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Thriller[/COLOR]\nA existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
+      "legenda": "",
+      "tipo": "filme"
+    },    
+{
       "nome": "Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLnB1cmV0b3JyZW50Lz9hY3Rpb249cGxheV90b3JyZW50JnVyaT1tYWduZXQ6P3h0PXVybjpidGloOjNjM2VhZDA5ZTJhZmNmN2U1Y2FkZjg5NGY2MmEwYjMwZDQwYjBkYzQ=",
       "imagem": "https://image.tmdb.org/t/p/original/clYkNUIdjFhe1PJGYiFEBepyy6k.jpg",
