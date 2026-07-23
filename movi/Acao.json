@@ -1,5 +1,15 @@
 {
   "episodios": [
+   {
+      "nome": "O Cobrador de Dívidas (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjIyMTVlNmI3OTE0NTY4NTY5MzNlYzc1NWJjODNiNjA2ZDMzMjEwMw==",
+      "imagem": "https://image.tmdb.org/t/p/original/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9dnMTjJTOBAYCrjfa5lJM64LBFo.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nAssombrado pela culpa após a prisão, um ex-cobrador de dívidas corre contra uma doença terminal, retornando ao seu antigo mundo para vingar as vítimas dos agiotas.",
+      "legenda": "",
+      "tipo": "filme"
+    }, 
 
    {
       "nome": "O Justiceiro: Uma Última Morte (2026)",
