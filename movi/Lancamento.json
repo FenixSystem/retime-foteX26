@@ -1,6 +1,16 @@
 {
   "episodios": [
    {
+      "nome": "Descendentes: País das Maravilhas Malvado (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmUxNThlOGUxOTk1ZTYyOGNlOGI4OTE2Y2Y1YzdjOTk4ZDQ5MTExYzU=",
+      "imagem": "https://image.tmdb.org/t/p/original/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/h98RJxKKt9QSM2dc1VdgUwtnRq7.png",
+      "sinopse": "[COLOR yellow]Fantasia, Família, Cinema TV[/COLOR]\nAgora que a Rainha de Copas é boazinha e a Cinderela está a salvo, tudo parece perfeito para Red e Chloe. Mal sabem elas que mudar o passado criou um novo vilão: Maddox Hatter. Quando Maddox captura a Rainha de Copas, Red e Chloe se unem à nova irmã de Red, Pink, a Luis, filho de Luisa Madrigal, e a Max, filho de Maddox. Juntos, eles precisam salvar a rainha e o País das Maravilhas.",
+      "legenda": "",
+      "tipo": "filme"
+    } 
+   {
       "nome": "A Revolução dos Bichos (2026)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjQ1Y2I5Njk4N2ZiYTE0ZDBkNjMyMWViNjc2ZTgzODRiOWQxZTkyY2U=",
       "imagem": "https://image.tmdb.org/t/p/original/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg",
