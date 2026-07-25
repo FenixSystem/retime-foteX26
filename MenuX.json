@@ -123,6 +123,14 @@
       "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
+        {
+          "nome": "Star Trek: Strange New Worlds (2022)",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/serie/Star.Trek.Strange.New.Worlds.json",
+          "imagem": "https://image.tmdb.org/t/p/original/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+          "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nEm Star Trek: Strange New Worlds, o capitão Christopher Pike (Anson Mount) lidera a equipe do USS Enterprise pelos confins do universo em aventuras perigosas e intensas. Passando-se antes da trama da série original, Strange New Worlds explora mais profundamente o universo Star Trek antes da chegada do icônico Capitão Kirk (William Shatner). Pike, ainda inexperiente em liderar toda a Enterprise por conta própria, se apoia na ajuda de seus companheiros da nave, em especial Una Chin-Riley (Rebecca Romjin), segunda em comando depois dele. Além disso, ele conta a inteligência ímpar do popular personagem Spock (Ethan Peck), um alienígena meio humano meio vulcano.",
+          "tipo": "serie"
+        },
          {
           "nome": "Stranger Things: Histórias de 85 (2026)",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Stranger.Things.Tales.from.json",
