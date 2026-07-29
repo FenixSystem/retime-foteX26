@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "À Procura da Felicidade (2006)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjU3ZWNlYjVjMTg1NWVmNTNjMDgyNzk1YTVmMzE4NjM5ZjIxYzMzYWY=",
+      "imagem": "https://image.tmdb.org/t/p/original/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/iej1iI0zmjmmzJbOC51HAjvCRug.png",
+      "sinopse": "[COLOR yellow]Drama[/COLOR]\nChris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Conspiradores (2026)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk0MDVmYzE5NjQwM2M0MGQ0YmEyOThhNzRkZTU1YWIzNGQxMzFjNmE=",
       "imagem": "https://image.tmdb.org/t/p/original/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
