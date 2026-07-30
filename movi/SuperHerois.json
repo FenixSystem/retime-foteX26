@@ -90,6 +90,16 @@
   "legenda": "",
   "tipo": "filme"
  },
+ {
+      "nome": "Aquaman (2018)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOlBSUFlUQUFaWkVNSDVUWkxSTVBLNk9XMk1BRFZNN1k1",
+      "imagem": "https://image.tmdb.org/t/p/original/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/o2qWRluCmqMNqVw1xAZfoUF03pH.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Fantasia[/COLOR]\nA cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.",
+      "legenda": "",
+      "tipo": "filme"
+    },   
 {
   "nome": "Capitão América: Guerra Civil (2016)",
   "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e46520ae6ea01af037e5c04486eba577e1086650&",
