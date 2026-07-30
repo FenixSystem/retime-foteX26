@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "Última Parada (2026)",
+      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjQxZjZhMmU5MjI3NmI0YjY3ZTliN2Q5YTQwMDM4ZjFkMzYwZGNhOWU=",
+      "imagem": "https://image.tmdb.org/t/p/original/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/nwIfcILrAFbFN1ITrQidDRKN2Lz.png",
+      "sinopse": "[COLOR yellow]Thriller[/COLOR]\nOscar, Simon e Aïssa, três amigos de infância, viajam a Paris para celebrar boas notícias. No ônibus noturno N121 de volta, uma troca entre passageiros escala e a situação sai do controle, transformando a viagem em um intenso thriller urbano.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "À Procura da Felicidade (2006)",
       "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjU3ZWNlYjVjMTg1NWVmNTNjMDgyNzk1YTVmMzE4NjM5ZjIxYzMzYWY=",
       "imagem": "https://image.tmdb.org/t/p/original/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg",
