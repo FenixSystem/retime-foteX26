@@ -114,6 +114,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
           "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nUma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan John Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Avatar: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Avatar.json",
+          "imagem": "https://image.tmdb.org/t/p/original/up0L48w8u2eoEFE99mbrXvp0Owi.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nA Coleção Avatar conta a história do mundo de Pandora, habitado pelos humanóides indígenas, os Na'vi. O protagonista principal, Jake Sully, é enviado para Pandora como um avatar - um híbrido de humano e Na'vi. Durante sua missão, Jake descobre a beleza e a complexidade do mundo Na'vi e estabelece uma conexão profunda com os habitantes do planeta. A coleção centra-se no conflito entre os humanos e os Na'vi e na luta para salvar o mundo de Pandora.",
+          "tipo": "serie"
         }
         
 ]
