@@ -1,8 +1,8 @@
-{
+  {
   "episodios": [
     {
       "nome": "‎Um Grande Despertar (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjc5MDI5MGY1MDk5OWEzMzczMWE4MzNhZGU4NmI5OWJlMTU0MTk4ZWE=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVW0lMjBHcmFuZGUlMjBEZXNwZXJ0YXIlMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDUuMS5ta3Y/bGluaz03OTAyOTBmNTA5OTlhMzM3MzFhODMzYWRlODZiOTliZTE1NDE5OGVhJmluZGV4PTcmcGxheQ==",
       "imagem": "https://image.tmdb.org/t/p/original/qZf42h6r8BSkVTCBtTXTELcgTV1.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/iQodpfb5trczzmqxAgnsUYPw2rv.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/izUzO8KBLTCS7c8Cge46aKqoRUo.png",
@@ -12,8 +12,8 @@
     },
     {
       "nome": "Hit Para Dois (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk1ZGYxZjdmM2NlNzg4MWQ1YTlmZWU2OTNhZmUxNTA2N2ZlZjRhMDg=",
-      "imagem": "https://image.tmdb.org/t/p/original/yDsJmp32bCBhf6RH5rcnkpDPSIQ.jpg",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vSGl0JTIwcGFyYSUyMERvaXMlMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDUuMS5ta3Y/bGluaz05NWRmMWY3ZjNjZTc4ODFkNWE5ZmVlNjkzYWZlMTUwNjdmZWY0YTA4JmluZGV4PTUmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/9UDXiDRwsKt1G9pSVeXqNdzPAVm.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/7D7xAtJIzfpUj79wUz81m7DP7Q5.png",
       "sinopse": "[COLOR yellow]Comédia, Música, Drama[/COLOR]\nRick, um cantor de casamentos, apresenta uma de suas composições para Danny, um ex-astro pop adolescente que transforma a canção em um sucesso global e fica com todo o crédito. Em busca de justiça e reconhecimento, Rick mergulha em uma jornada obsessiva, sem perceber que pode acabar perdendo o que realmente importa em sua vida.",
@@ -22,57 +22,97 @@
     },
     {
       "nome": "Última Parada (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjQxZjZhMmU5MjI3NmI0YjY3ZTliN2Q5YTQwMDM4ZjFkMzYwZGNhOWU=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vJUMzJTlBbHRpbWElMjBQYXJhZGElMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDIuMC5ta3Y/bGluaz00MWY2YTJlOTIyNzZiNGI2N2U5YjdkOWE0MDAzOGYxZDM2MGRjYTllJmluZGV4PTcmcGxheQ==",
       "imagem": "https://image.tmdb.org/t/p/original/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/nwIfcILrAFbFN1ITrQidDRKN2Lz.png",
+      "clearlogo": "https://image.tmdb.org/t/p/original/jdMEcPLJrb5F9xkUthkWTUE9Pyk.png",
       "sinopse": "[COLOR yellow]Thriller[/COLOR]\nOscar, Simon e Aïssa, três amigos de infância, viajam a Paris para celebrar boas notícias. No ônibus noturno N121 de volta, uma troca entre passageiros escala e a situação sai do controle, transformando a viagem em um intenso thriller urbano.",
       "legenda": "",
       "tipo": "filme"
     },
     {
       "nome": "A Boca do Diabo (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmNlNmQ3MTMxZTI5MzM1MzlmYmJhZWE0Yzc1MzdhMTVlNjIxNTI5MTk=",
-      "imagem": "https://image.tmdb.org/t/p/original/kchMolHk6l6rPo460y4MQMzF2j9.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/w8z3ThhLehGPJuAShostzeKxJvK.jpg",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQS5Cb2NhLmRvLkRpYWJvLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPWNlNmQ3MTMxZTI5MzM1MzlmYmJhZWE0Yzc1MzdhMTVlNjIxNTI5MTkmaW5kZXg9MSZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/2CZecxLrTSmzngWqIGganSMg6gK.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/hwnTaa6eT7c5xxOiJL2NhcVt8qX.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/tTG2ovQRnhe9NX39XUZoiOu4BYZ.png",
-      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nCinco amigos exploram as cavernas da Boca do Diabo, na Tailândia, para uma última aventura antes de começar a vida real. Mas logo descobrem que há algo mortal à espreita embaixo d'água.… veloz, silencioso e letal. Na escuridão sufocante, a confiança se desfaz, o pânico se espalha e cada passo errado se torna uma luta pela sobrevivência.",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nCinco amigos exploram as cavernas da Boca do Diabo, na Tailândia, para uma última aventura antes de começar a vida real. Mas logo descobrem que há algo mortal à espreita embaixo d'água.... veloz, silencioso e letal. Na escuridão sufocante, a confiança se desfaz, o pânico se espalha e cada passo errado se torna uma luta pela sobrevivência.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Diabo Veste Prada 2 (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5EaWFiby5WZXN0ZS5QcmFkYS4yLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPWNmMTUxMDJiOWY5NThhOWU0NmQ5NzNmN2YyODgwN2Y0NTY0NTkwNDAmaW5kZXg9MyZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/50yWyY981TyUHhoxxSEKwO70FmQ.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/d4hqEtkFKQGP8Qypcbc6EZWmuka.png",
+      "sinopse": "[COLOR yellow]Comédia, Drama[/COLOR]\nMiranda Priestly navega por sua carreira em meio ao declínio das publicações tradicionais de revistas. Ela se confronta com Emily Charlton, sua ex-assistente, agora uma influente executiva de um grupo de luxo, que detém verbas publicitárias de que Miranda Priestly precisa desesperadamente.",
       "legenda": "",
       "tipo": "filme"
     },
     {
       "nome": "Supergirl (2026)",
-      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vU3VwZXJnaXJsLjIwMjYuV0VCLURMLjIxNjBwLngyNjUuSERSLkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz1mYmUxZmM2YjhhMDJjMmQxMjdlZjg4ODJiOGJkYTBhYjliNGQ1MTgzJmluZGV4PTQmcGxheQ==",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vU3VwZXJnaXJsLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTg1YWRmMDgzZTdmNWY4NTJhOTRlNjQwYjU2OTdmNjYxNTQ4OWVmN2MmaW5kZXg9NCZwbGF5",
       "imagem": "https://image.tmdb.org/t/p/original/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/xV8K4LlPlaq3OE7q1Agw25IOswi.png",
       "sinopse": "[COLOR yellow]Ação, Aventura, Ficção científica[/COLOR]\nKara Zor-El comemora seu aniversário de 21 anos viajando pela galáxia com seu cachorro Krypto. Ao longo do caminho, ela conhece a jovem Ruthye Marye Knoll e se depara com uma tragédia que a leva a uma “busca assassina por vingança\".",
       "legenda": "",
       "tipo": "filme"
     },
     {
-      "nome": "Conspiradores (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk0MDVmYzE5NjQwM2M0MGQ0YmEyOThhNzRkZTU1YWIzNGQxMzFjNmE=",
-      "imagem": "https://image.tmdb.org/t/p/original/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/5aZDrYijdGaSVIVIPfz4m0ACc0T.png",
-      "sinopse": "[COLOR yellow]Thriller, Drama, Mistério[/COLOR]\nApós a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "nome": "Mestres do Universo (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWVzdHJlcy5kby5Vbml2ZXJzby4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz0xYWNkZThhNTM5ZTNlYjJmZjc4ZWY2ZjE0MGZmZGZmMTI0NmUxM2E4JmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9Hjk0ZqdzUiJw1j5BBAcPNJAKra.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia, Ficção científica[/COLOR]\nAdam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Dia D (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRGlhLkQuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9YTMyYTk5MmRiYzBhMWI2OGQ5OGM2N2Y3MzQ0MThmYzc3OGY0Y2I1ZCZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2pWpVRlXwZCBPwhZianV98lKm4D.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Thriller[/COLOR]\nA existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Todo Mundo em Pânico (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVG9kby5NdW5kby5lbS5QJUMzJUEybmljby4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz1mNGZjMTBmNGE2ZGYxNjY4MGNkNzExOTM3NGY4ODYzOTk3NmI5ZGM1JmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/qmtIDx5UcewhaCfrGnwUC2pjCYR.png",
+      "sinopse": "[COLOR yellow]Comédia[/COLOR]\nVinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
       "legenda": "",
       "tipo": "filme"
     },
     {
       "nome": "Avatar Aang: O Último Mestre do Ar (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjYzOGQ4NWQ1NTlkMTg1MGZkNjVkMTdkNzkyNjI0OTliMjI4ZDk0NzE=",
-      "imagem": "https://image.tmdb.org/t/p/original/mTdadPqjkcjOphSsKXLiW2fgLMm.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/8kJrpxyQAs0PHmuC53TLNK51ogP.jpg",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQXZhdGFyLkFhbmcuTy4lQzMlOUFsdGltby5NZXN0cmUuZG8uQXIuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9NjM4ZDg1ZDU1OWQxODUwZmQ2NWQxN2Q3OTI2MjQ5OWIyMjhkOTQ3MSZpbmRleD0yJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/h0jCyR6FTvp6ULcPokfoXvV1t3O.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/p7MklBlRr0eRAxJSOnuV4rO08z4.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/x61imBVYQKjMaX4yNPPh0rjXq6H.png",
       "sinopse": "[COLOR yellow]Animação, Ação, Aventura, Fantasia[/COLOR]\nO Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
       "legenda": "",
       "tipo": "filme"
     },
     {
+      "nome": "72 Horas em Miami (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vNzIlMjBIb3JhcyUyMGVtJTIwTWlhbWklMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDUuMS5ta3Y/bGluaz0zNjgwMjc4NDVlOTkzZmY1OTA4MTc5MzUzMTZiYjZmOGU1YmY0OTBhJmluZGV4PTEmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/ilWWSjfS4q9kYt9RWO2C80evGOm.png",
+      "sinopse": "[COLOR yellow]Comédia, Crime[/COLOR]\nPara salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "The Dink - A Última Chance (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmRmZDkzMTE5OGEyMzg4MmE3NDdhYWUzMTA3NTExNDMyYTY5MDQ3Mzk=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVGhlJTIwRGluayUyMC0lMjBBJTIwJUMzJTlBbHRpbWElMjBDaGFuY2UlMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDUuMS5ta3Y/bGluaz1kZmQ5MzExOThhMjM4ODJhNzQ3YWFlMzEwNzUxMTQzMmE2OTA0NzM5JmluZGV4PTYmcGxheQ==",
       "imagem": "https://image.tmdb.org/t/p/original/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/tJQhL95q63ITeBy5OTGPx51sFks.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/3uq1yc9gSSsNpXaqmS1y6YkuDwI.png",
@@ -81,151 +121,308 @@
       "tipo": "filme"
     },
     {
-      "nome": "72 Horas em Miami (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjM2ODAyNzg0NWU5OTNmZjU5MDgxNzkzNTMxNmJiNmY4ZTViZjQ5MGE=",
-      "imagem": "https://image.tmdb.org/t/p/original/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/AsY9Aj37tmqrOJSnw2cBF3Si0vs.png",
-      "sinopse": "[COLOR yellow]Comédia[/COLOR]\nPara salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
+      "nome": "O Cobrador de Dívidas (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5Db2JyYWRvci5kZS5EJUMzJUFEdmlkYXMuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9MjIxNWU2Yjc5MTQ1Njg1NjkzM2VjNzU1YmM4M2I2MDZkMzMyMTAzZiZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/aIXeRp7hysyBKZSezCothhCpFqx.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nAssombrado pela culpa após a prisão, um ex-cobrador de dívidas corre contra uma doença terminal, retornando ao seu antigo mundo para vingar as vítimas dos agiotas.",
       "legenda": "",
       "tipo": "filme"
     },
- 
-   {
-      "nome": "Descendentes: País das Maravilhas Malvado (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmUxNThlOGUxOTk1ZTYyOGNlOGI4OTE2Y2Y1YzdjOTk4ZDQ5MTExYzU=",
-      "imagem": "https://image.tmdb.org/t/p/original/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/h98RJxKKt9QSM2dc1VdgUwtnRq7.png",
-      "sinopse": "[COLOR yellow]Fantasia, Família, Cinema TV[/COLOR]\nAgora que a Rainha de Copas é boazinha e a Cinderela está a salvo, tudo parece perfeito para Red e Chloe. Mal sabem elas que mudar o passado criou um novo vilão: Maddox Hatter. Quando Maddox captura a Rainha de Copas, Red e Chloe se unem à nova irmã de Red, Pink, a Luis, filho de Luisa Madrigal, e a Max, filho de Maddox. Juntos, eles precisam salvar a rainha e o País das Maravilhas.",
+    {
+      "nome": "A Fera do Pântano (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQS5GZXJhLmRvLlAlQzMlQTJudGFuby4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuMi4wLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz00ODYzMjRkNDVmZGE0ODUwMjdjM2MxOTMwOTcwMTZkMjAyYWVjMWU4JmluZGV4PTEmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/eZNYzB8ks9ncB1WIN7GQRYjqsA1.png",
+      "sinopse": "[COLOR yellow]Thriller, Terror[/COLOR]\nUm grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
       "legenda": "",
       "tipo": "filme"
-    }, 
-   {
+    },
+    {
       "nome": "A Revolução dos Bichos (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjQ1Y2I5Njk4N2ZiYTE0ZDBkNjMyMWViNjc2ZTgzODRiOWQxZTkyY2U=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQS5SZXZvbHUlQzMlQTclQzMlQTNvLmRvcy5CaWNob3MuMjAyNS5CbHVSYXkuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9NDVjYjk2OTg3ZmJhMTRkMGQ2MzIxZWI2NzZlODM4NGI5ZDFlOTJjZSZpbmRleD0xJnBsYXk=",
       "imagem": "https://image.tmdb.org/t/p/original/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/gXDJJKgzWpNPosTK1ysJJnzbKqS.png",
       "sinopse": "[COLOR yellow]Animação, Comédia, Drama, Família, Ficção científica[/COLOR]\nUm movimento pela igualdade é sistematicamente corrompido. À medida que os porcos consolidam o controle, a verdade é apagada e a fazenda se transforma em uma ditadura implacável.",
       "legenda": "",
       "tipo": "filme"
-    }, 
-  {
-      "nome": "Golpe Explosivo (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmRjY2QxMmQ2ZDRlNzAyNTc3ZWQwMmExYjRhOGU1MzM1ZTBlODU1MTU=",
-      "imagem": "https://image.tmdb.org/t/p/original/9ZxbfDA3OCcwAFwIgOGC4Rauogn.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/8wIaBCeGv3UhIn5CJOWQGHT1Cif.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/hToCgFAdq2KO3qdIijycplNdqQc.png",
-      "sinopse": "[COLOR yellow]Ação, Crime, Drama, Thriller[/COLOR]\nO centro de Londres entra em pânico com a descoberta de uma bomba da Segunda Guerra Mundial não detonada em um canteiro de obras. Em meio ao caos de uma evacuação em massa, uma quadrilha de criminosos inicia um assalto audacioso.",
-      "legenda": "",
-      "tipo": "filme"
-    },  
-  {
-      "nome": "O Cobrador de Dívidas (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjIyMTVlNmI3OTE0NTY4NTY5MzNlYzc1NWJjODNiNjA2ZDMzMjEwMw==",
-      "imagem": "https://image.tmdb.org/t/p/original/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/5Va6qlwvpneo0XLzGFlvgYH5ncP.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/9dnMTjJTOBAYCrjfa5lJM64LBFo.png",
-      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nAssombrado pela culpa após a prisão, um ex-cobrador de dívidas corre contra uma doença terminal, retornando ao seu antigo mundo para vingar as vítimas dos agiotas.",
-      "legenda": "",
-      "tipo": "filme"
-    },  
- {
-      "nome": "A Fera do Pântano (2026)",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2215e6b791456856933ec755bc83b606d332103f",
-      "imagem": "https://image.tmdb.org/t/p/original/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
-      "clearlogo": "",
-      "sinopse": "[COLOR yellow]Thriller, Terror[/COLOR]\nUm grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
-      "legenda": "",
-      "tipo": "filme"
-    },   
-{
-      "nome": "Dia D (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmEzMmE5OTJkYmMwYTFiNjhkOThjNjdmNzM0NDE4ZmM3NzhmNGNiNWQ=",
-      "imagem": "https://image.tmdb.org/t/p/original/pmff1wjKrgJi92PPr346lAifzlg.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/pW4Ah1A6SgZNQNmf5AgiIYPzFHF.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/2pWpVRlXwZCBPwhZianV98lKm4D.png",
-      "sinopse": "[COLOR yellow]Ficção científica, Thriller[/COLOR]\nA existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
-      "legenda": "",
-      "tipo": "filme"
-    },    
-{
-      "nome": "Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLnB1cmV0b3JyZW50Lz9hY3Rpb249cGxheV90b3JyZW50JnVyaT1tYWduZXQ6P3h0PXVybjpidGloOjNjM2VhZDA5ZTJhZmNmN2U1Y2FkZjg5NGY2MmEwYjMwZDQwYjBkYzQ=",
-      "imagem": "https://image.tmdb.org/t/p/original/clYkNUIdjFhe1PJGYiFEBepyy6k.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/x9imrqD7LgaQRdhV8zdLrO8mJtH.png",
-      "sinopse": "[COLOR yellow]Ação, Drama, História, Aventura[/COLOR]\nEnquanto cada grupo busca cumprir sua missão, uma batalha feroz se desenrola em torno dos prisioneiros tatuados. Quem é amigo e quem é inimigo? O conflito leva todos à Prisão de Abashiri, onde Noppera-bo — o homem que detém todas as respostas — está encarcerado...",
-      "legenda": "",
-      "tipo": "filme"
-    },          
-  {
-      "nome": "Todo Mundo em Pânico (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLnB1cmV0b3JyZW50Lz9hY3Rpb249cGxheV90b3JyZW50JnVyaT1tYWduZXQ6P3h0PXVybjpidGloOmY0ZmMxMGY0YTZkZjE2NjgwY2Q3MTE5Mzc0Zjg4NjM5OTc2YjlkYzU=",
-      "imagem": "https://image.tmdb.org/t/p/original/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/1OoK9NkATXlSqMmK34a6ZcC5mc3.png",
-      "sinopse": "[COLOR yellow]Comédia, Terror[/COLOR]\nVinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+    },
+    {
+      "nome": "Descendentes: País das Maravilhas Malvado (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRGVzY2VuZGVudGVzJTIwLSUyMFBhJUMzJUFEcyUyMGRhcyUyME1hcmF2aWxoYXMlMjBNYWx2YWRvJTIwMjAyNiUyMFdFQi1ETCUyMDEwODBwJTIweDI2NCUyMERVQUwlMjA1LjEubWt2P2xpbms9ZTE1OGU4ZTE5OTVlNjI4Y2U4Yjg5MTZjZjVjN2M5OThkNDkxMTFjNSZpbmRleD0yJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/h98RJxKKt9QSM2dc1VdgUwtnRq7.png",
+      "sinopse": "[COLOR yellow]Cinema TV, Família, Fantasia, Aventura[/COLOR]\nAgora que a Rainha de Copas é boazinha e a Cinderela está a salvo, tudo parece perfeito para Red e Chloe. Mal sabem elas que mudar o passado criou um novo vilão: Maddox Hatter. Quando Maddox captura a Rainha de Copas, Red e Chloe se unem à nova irmã de Red, Pink, a Luis, filho de Luisa Madrigal, e a Max, filho de Maddox. Juntos, eles precisam salvar a rainha e o País das Maravilhas.",
       "legenda": "",
       "tipo": "filme"
     },
     {
-      "nome": "Mestres do Universo (2026)",
-      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWVzdHJlcy5kby5Vbml2ZXJzby4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz0xYWNkZThhNTM5ZTNlYjJmZjc4ZWY2ZjE0MGZmZGZmMTI0NmUxM2E4JmluZGV4PTQmcGxheQ==",
-      "imagem": "https://image.tmdb.org/t/p/original/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/tyRF4zi2D7x3vwsX2E24NUGPGVz.png",
-      "sinopse": "[COLOR yellow]Ação, Fantasia, Ficção científica[/COLOR]\nAdam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
+      "nome": "Pai em Tempo Integral (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vUGFpLmVtLlRlbXBvLkludGVncmFsLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTcyNTVjMTUyYTA0YmI4YWU4ZGU2M2VhMjYyOGNmOTQ3Nzk5NGIwZjAmaW5kZXg9NCZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/k2TdrNWJHWpdTYZaJivu8bk5KAF.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wrysgfzupbMoSS0HFiHh0iCls0s.png",
+      "sinopse": "[COLOR yellow]Comédia, Família[/COLOR]\nPara Nate e as três filhas, Katie é a mãe perfeita, mas quando sua invenção doméstica rende uma oportunidade única no Shark Tank e a leva a uma longa viagem de trabalho, Nate precisa evitar que a casa (literalmente) desabe. Bem-vindo à era do pai.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Golden Kamuy 3 - Invasão a Prisão Abashiri (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vR29sZGVuLkthbXV5LjMuSW52YXMlQzMlQTNvLmEuUHJpcyVDMyVBM28uQWJhc2hpcmkuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9M2MzZWFkMDllMmFmY2Y3ZTVjYWRmODk0ZjYyYTBiMzBkNDBiMGRjNCZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/clYkNUIdjFhe1PJGYiFEBepyy6k.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eeiZikJBrnx5H5AQOaTD9Lt6DU3.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8PezG4jIK8VLQNer0Zb6IuGTBSI.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, História, Aventura[/COLOR]\nEm uma disputa acirrada pelo ouro do povo Ainu, Asirpa e Sugimoto seguem para a Prisão Abashiri, onde Noppera-Bo e a verdade sobre o pai dela os aguardam.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Gênio do Crime (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTyUyMEclQzMlQUFuaW8lMjBkbyUyMENyaW1lJTIwMjAyNiUyMFdFQi1ETCUyMDEwODBwJTIweDI2NCUyME5BQ0lPTkFMJTIwNS4xLm1rdj9saW5rPTYzNTE0MmM0OWI5ZDg4YjJmZTRhZTBjNTExNmNhN2ZhZGI3M2NlMDgmaW5kZXg9NiZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/g3Ztdj2KM1WUvYrPzq2SKM8V3Sd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9ISyiBOY6CCeGpSsUyVOCpFEpNQ.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/uYQ9X5NzyUglDtDY5FKkDjEcy0a.png",
+      "sinopse": "[COLOR yellow]Comédia, Aventura[/COLOR]\nDurante a Copa do Mundo, o álbum de figurinhas é a maior febre entre os alunos do Colégio Tres Bandeiras. Gordo, líder de um grupo empenhado em completar o álbum, descobre uma operação de falsificação de figurinhas, até então, impossível de ser desvendada. Ao lado dos amigos - e de Berenice, uma garota esperta por quem se apaixona - ele embarca numa investigação cheia de suspense, aventura e humor, onde a paixão pelo futebol se une à busca por justiça.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Trunfo (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vSWtrYSUyMDIwMjYlMjBXRUItREwlMjAxMDgwcCUyMHgyNjQlMjBEVUFMJTIwNS4xLm1rdj9saW5rPWRiNzc2NjI5NTFjMzgyOTYxMjg0NTBiOWQ3ZWRhOGE0M2QzMjQ5ZTkmaW5kZXg9NSZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/41SzF7q9iGfaa2hxnE9O9DD6t8P.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nCom a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Anjos da Guerra (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQW5qb3MlMjBkYSUyMEd1ZXJyYSUyMDIwMjYlMjBXRUItREwlMjAxMDgwcCUyMHgyNjQlMjBEVUFMJTIwMi4wLm1rdj9saW5rPWZkODFlYjQ0ODNlYzgzYjMxNWIzMGM3YWUxZTMzOWQzMjgzZmM0N2YmaW5kZXg9MSZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/cbYQM3LVXHFjdRcw4thB0SszV0X.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eREQrp6Z9D32LdbcEOBB9CnK3FG.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/kdpLK6VmLqtULUz5Y57WJefdTrg.png",
+      "sinopse": "[COLOR yellow]Drama, História, Guerra[/COLOR]\nEm novembro de 1941, no início do rigoroso inverno, jovens atletas de barcos no gelo cruzam gelo fino em Leningrado. Entregar munição se transforma em salvar órfãos, unindo ex-rivais para sobreviver e trazer esperança.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Passageiro do Mal (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vUGFzc2FnZWlyby5kby5NYWwuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9YmU3OWUyN2IzZjA4MmI4ZDYyZTZmODBmNWFhMGM4MzA5YWViOGRiNyZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2wdMrwQHQ28q69IMvqmc3SUAL8W.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nDurante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Casamento Sangrento: A Viúva (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQ2FzYW1lbnRvLlNhbmdyZW50by5BLlZpJUMzJUJBdmEuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9N2ZlNGY1OTUwOTM1N2YwOTA4YTAyZmUxZDFlYjkyYWRhN2EwZjEwNiZpbmRleD0zJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/u6OwPW7mO8nrtJoC27W541bRQ8F.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/JS1qn9wGxhXBM3ARCiiETJmDDr.png",
+      "sinopse": "[COLOR yellow]Terror, Comédia, Thriller[/COLOR]\nA noiva retorna em uma nova e sinistra rodada do tradicional jogo de esconde-esconde, agora com elementos sobrenaturais e demoníacos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Na Zona Cinzenta (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTmEuWm9uYS5DaW56ZW50YS4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz1kYjczNTQwZTBlMTk0MTg4NDRlN2U0MGQ3NTZlYzM3ZGVjYTlhODU3JmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/h1eUeDH35Tdvsfu7Ouefa7CPwLa.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8F1K9rw0qKogpZ5uL7KcbpJTfou.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nDois especialistas em resgates embarcam na difícil missão de recuperar uma fortuna bilionária roubada. Para isso, eles precisam traçar uma rota de fuga segura para uma experiente negociadora, mas o plano rapidamente se transforma em uma guerra explosiva de estratégia, traições e sobrevivência.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Enola Holmes 3 (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRW5vbGEuSG9sbWVzLjMuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9Y2MzZmUyNzM4MjRiNWFjMDQzMTlhYTBjYjIxNzRhN2U2YWUzYmUzYyZpbmRleD0zJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/yNcfMiULkoh1h2yyNKFm4T9FvRM.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
+      "sinopse": "[COLOR yellow]Aventura, Crime, Mistério[/COLOR]\nEm busca de aventura, a detetive Enola Holmes vai a Malta, mas o desaparecimento de Sherlock atrapalha seus planos e ela se vê envolvida em um caso desafiador.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Obsessão (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vT2JzZXNzJUMzJUEzby4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz1iMTRmZjJhZDI4NWYyOTg0YmQ0NTM1ZmU5NTY1NmZjYWVhMjI3ZWJkJmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/n1T5nDkaJ1LIpDGC0m2ewGNPJmp.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nSem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Little Brother (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWV1LklybSVDMyVBM28uJUMzJUE5LnVtLlByb2JsZW1hLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTg0MzNjM2JmZTE4Y2I0ZmJhMGM0ODYwNjQ3N2Q3NzA2ZTU1MDFkNjkmaW5kZXg9NCZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/as6Via6yUqgsF98HVBDI807uiHL.png",
+      "sinopse": "[COLOR yellow]Comédia[/COLOR]\nA vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "A Maldição do Casamento (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQSUyME1hbGRpJUMzJUE3JUMzJUEzbyUyMGRvJTIwQ2FzYW1lbnRvJTIwMjAyNiUyMFdFQi1ETCUyMDEwODBwJTIweDI2NCUyMERVQUwlMjA1LjEubWt2P2xpbms9ZmZiZjRiYzQxZTkyZjNhMmQ3NTJiODgxOGUxMDFjOTBmZWM5NjIzNiZpbmRleD0xJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/ftAgBfDGfzLfnuHEz8nDOup4PD3.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/1ryCKTMZ1xoTWZNqwYMB9TXnweD.png",
+      "sinopse": "[COLOR yellow]Terror, Comédia[/COLOR]\nUm homem planeja realizar o casamento da irmã no palácio que herdou. Mas o passado sombrio do lugar pode acabar com a festa.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "As Ovelhas Detetives (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQXMlMjBPdmVsaGFzJTIwRGV0ZXRpdmVzJTIwMjAyNiUyMFdFQi1ETCUyMDEwODBwJTIweDI2NCUyMERVQUwlMjA1LjEubWt2P2xpbms9ZmI4NWRmY2NkMjdjMjEwMDc5ZDAyNjZlYTRiZGY4ZjMxNGFjYWE0YSZpbmRleD0xJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/crW4rarCRUVRSRFy3Bufw8Mwf8l.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/W9yBdjQlPy5BtuZvKnZzGYJqwR.png",
+      "sinopse": "[COLOR yellow]Comédia, Família, Mistério[/COLOR]\nGeorge é um pastor que lê romances policiais para suas queridas ovelhas todas as noites, acreditando que elas não conseguem entender. Mas, quando um incidente misterioso interrompe a vida na fazenda, as ovelhas percebem que precisam se tornar as detetives. Ao seguir as pistas e investigar suspeitos humanos, elas provam que até mesmo ovelhas podem ser brilhantes solucionadoras de crimes.",
       "legenda": "",
       "tipo": "filme"
     },
     {
       "nome": "Maridos em Ação (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjI4QzY4NEIzNDU1MTQyMjQxQ0VBMENCQzI3OTExQURCODJFRjExQUQ=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWFyaWRvcyUyMGVtJTIwQSVDMyVBNyVDMyVBM28lMjAyMDI2JTIwV0VCLURMJTIwMTA4MHAlMjB4MjY0JTIwRFVBTCUyMDUuMS5ta3Y/bGluaz0yYzMyNDBlNDVjZGZmNjkxNDc5YmRhMDc4NTJkYzMzMTI4YTczNjAxJmluZGV4PTYmcGxheQ==",
       "imagem": "https://image.tmdb.org/t/p/original/mring2SRouYXnlLLRLbXb1tlmM3.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
-      "clearlogo": "",
+      "fanart": "https://image.tmdb.org/t/p/original/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8TOM6YOGGvQFSribguR1SojvxAu.png",
       "sinopse": "[COLOR yellow]Comédia, Ação[/COLOR]\nUm detetive se une ao novo marido da ex-esposa para caçar os sequestradores dela. Será que essa dupla inusitada consegue deixar as diferenças de lado em nome do resgate?",
-      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L0h1c2JhbmRzLmluLkFjdGlvbi4yMDI2LnNydA==",
+      "legenda": "",
       "tipo": "filme"
     },
     {
       "nome": "Sua Culpa: Londres (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjEzMjM4RTM5ODc3RDFERTI0NkY0RjIxMDVDQjZBQTJDMjVCNjIwNEI=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vU3VhJTIwQ3VscGElMjAtJTIwTG9uZHJlcyUyMDIwMjYlMjBXRUItREwlMjAxMDgwcCUyMHgyNjQlMjBEVUFMJTIwNS4xLm1rdj9saW5rPTBiNjA0ZDA5OTI4NmY1MGYyYjJmYzdkNmFlZTNmZGY5OGM3OGNhM2MmaW5kZXg9NiZwbGF5",
       "imagem": "https://image.tmdb.org/t/p/original/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/uWnBAqtQlSTTYUMehyvL9CoZrTq.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/wdvX4vhSV5iac1Q5o6Ntpg31p2p.png",
       "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nNick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
-      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L1lvdXIuRmF1bHQuTG9uZG9uLjIwMjYuc3J0",
+      "legenda": "",
       "tipo": "filme"
     },
-
     {
-      "nome": "Michael (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk1YmJhZjI1ZDUyYzYxY2JhMTM0NTRlNTczOWU2YzVlMTBiZmNhN2E=",
-      "imagem": "https://image.tmdb.org/t/p/original/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/zEMrTq3hkBW70iPcGDozW44taIz.png",
-      "sinopse": "[COLOR yellow]Música, Drama[/COLOR]\nA história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
-      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L01JQ0hBRUwuc3J0",
+      "nome": "O Golpe Final (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5Hb2xwZS5GaW5hbC4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz01MmZkNGE3NmVmODk0YzFhYWFmYjYyMmY3Mzg0NThkZTAwYzkxNzM5JmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/vnjTVk9nopft9ds8lTDeJG0LLs9.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pgVvGaqM77sQR90OeMMVNvQAxbg.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/eAWfl8B1nsFziK7nQb9WDmekiKw.png",
+      "sinopse": "[COLOR yellow]Thriller, Ação[/COLOR]\nApós anos cometendo assaltos sofisticados para saldar uma dívida perigosa com o crime organizado, um casal decide executar seu maior e último golpe. O alvo é a residência de um influente advogado de defesa, aparentemente uma tarefa simples para profissionais experientes.",
+      "legenda": "",
       "tipo": "filme"
     },
-
+    {
+      "nome": "Eu sou Frankelda (2025)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vU291JTIwYSUyMEZyYW5rZWxkYSUyMDIwMjYlMjBXRUItREwlMjAxMDgwcCUyMHgyNjQlMjBEVUFMJTIwNS4xLm1rdj9saW5rPTIxNWMyNTExMTYxMjlkMzY3Y2RjMzVhMTcyMDhmZDc5ZTA4MWRjZDQmaW5kZXg9MSZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/d7BsXPE4vv6UFaD52J4rlQq5pWU.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pme7D46PxaOdNWika46q5VUS2CR.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/oCePwThPypIbP9xwrf4QoWzrFJz.png",
+      "sinopse": "[COLOR yellow]Animação, Fantasia, Terror, Aventura, Família[/COLOR]\nUma jovem e talentosa escritora do México do século XIX viaja para o seu subconsciente e se depara com personagens de suas próprias histórias assustadoras.",
+      "legenda": "",
+      "tipo": "filme"
+    },
     {
       "nome": "Mortal Kombat 2 (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjU3QTcwRjM4NjYwRDFDQTgwNDEyREIwOTczMjY5NUVCMkY1OTVBMjE=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTW9ydGFsLktvbWJhdC4yLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTk2OTgzOGY5ZGY1OWQ2ZjE4MDBmNmZlMmE3NjhhZTA4NjQyZWIzMTEmaW5kZXg9NCZwbGF5",
       "imagem": "https://image.tmdb.org/t/p/original/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/laR2dpcNpbv83jdlRUNAYPPjH90.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png",
+      "fanart": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/vXnxYz3yP9GOV9L9tblSeUAVLKD.png",
       "sinopse": "[COLOR yellow]Ação, Fantasia, Aventura[/COLOR]\nOs campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn.",
-      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L01vcnRhbC5Lb21iYXQuSUkuMjAyNi5zcnQ=",
+      "legenda": "",
       "tipo": "filme"
     },
-{
+    {
+      "nome": "Dhurandhar: A Vingança (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRGh1cmFuZGhhci5BLlZpbmdhbiVDMyVBN2EuMjAyNi4xMDgwcC5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9ZGYwNzQ4OWY2YzA1OGYxZGFkYmM0ZjE1ZTkwMGI3ZmIwMGM4N2YwMiZpbmRleD0zJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/75u9zAPjWQ8zKMJOzWsATaUdM7x.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/br4Ra4dRpvR0R7a1zPPkOwGkcky.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/s7VHVLsGZgmafbsqkJ5jFsZPhyo.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nMovido por uma tragédia pessoal, Hamza mergulha ainda mais fundo na missão de acabar com o submundo do crime do Paquistão nesta sequência inédita de Dhurandhar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Na Rota do Crime (2025)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTmEuUm90YS5kby5DcmltZS4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz0wOTdhNmFlZjU2NDA4ZGRiODcyMjFjNzc5N2I0ZjZjMjE0MDA4ZDhkJmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/oaiKorwyK6hmgLLopaDrDtq1PoT.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vxOUVzvezd6BsLHPgK9c1T2kR2W.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zEPAQ9QXaX7zZwlJ4iSJlJDkxmY.png",
+      "sinopse": "[COLOR yellow]Crime, Thriller, Faroeste, Ação[/COLOR]\nUm xerife solitário descobre uma operação criminosa de transporte de gado roubado. Entre confrontos brutais e dilemas morais, ele deve decidir até onde irá para manter a lei e proteger os inocentes, mesmo com tudo jogando contra ele.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Cara de Um, Focinho de Outro (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQ2FyYS5kZS5VbS5Gb2NpbmhvLmRlLk91dHJvLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTdkODdmNDg1NmViNzA2NjNjODVjOTlhODk3ODExODViZjdkNmNjM2QmaW5kZXg9MyZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/ib7qnSUbm2zACid6oSVgG1kt3ZG.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família, Ficção científica[/COLOR]\nMabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Expresso Galático Metrô Via-Lácteo: O Filme (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRXhwcmVzc28uR2FsJUMzJUExdGljby5NZXRyJUMzJUI0LlZpYS1MJUMzJUExY3Rlby5PLkZpbG1lLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC4yLjAtU1RBUkNLRklMTUVTLm1rdj9saW5rPWU3NjJhOTc5ZjM0YjAzZWVjZjczNTUwNzliMDYwZWYwYzI3OWMxNWEmaW5kZXg9MyZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/c4hNnIwY1gA1RrxPF05pl9NqLvy.png",
+      "sinopse": "[COLOR yellow]Animação, Ação, Aventura, Comédia, Ficção científica[/COLOR]\nSeis delinquentes precisam limpar um trem como parte de um programa de serviços comunitários. Até que o trem decola de repente e provoca um verdadeiro caos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maldição da Múmia (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWFsZGklQzMlQTclQzMlQTNvLmRhLk0lQzMlQkFtaWEuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9OTFkNWRmMjRjNGY0ZDBlNmM5M2U1NGU2NWFiMWE5ZjdmZTAwMDExYSZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/fI6XBw8k5CWNwxLEYZwpjA89TPg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/rt3B3G4ZJsuMU7EyQwJM0RWcDXr.png",
+      "sinopse": "[COLOR yellow]Terror, Mistério, Fantasia[/COLOR]\nA filha de um jornalista desaparece num deserto sem deixar rastros, deixando a família dilacerada e em luto. Até que, oito anos mais tarde, a jovem garota reaparece, deixando todos chocados. O problema é que esse encontro aparentemente feliz se transforma em um pesadelo de proporções gigantes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Enterrando os Mortos (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRW50ZXJyYW5kby5vcy5Nb3J0b3MuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjIuMC1TVEFSQ0tGSUxNRVMubWt2P2xpbms9NmZlMDQ5NTFhMjIxNDRmODFiMDNmMTYwZmVmM2M5ZWM2ZjE1MzcxMSZpbmRleD0zJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/x6H4DtBRIfwTcOIK64R8pSXNpvN.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/31Pc5gJ9TUwFs4T1wnOSG8U8oK7.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nUm desastre militar catastrófico não apenas trouxe os mortos de volta à vida, como os transformaram em caçadores. Após a declaração do exército de que as criaturas eram lentas e inofensivas, Ava entra numa zona de quarentena a procura de seu marido mas acaba descobrindo a terrível verdade: os mortos-vivos estão se tornando cada vez mais perigos e violentos ao passar de cada segundo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Jack Ryan de Tom Clancy: Guerra Fantasma (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vSmFjay5SeWFuLkd1ZXJyYS5GYW50YXNtYS4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz1kNTIxZWFlYTI4ZjEwMTU3OTRhOGI1OGEzOGU5ZWIxZTNjNWUxZGVhJmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/bPue4NKPiGNrIbZFeOsZfnovFAM.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/dd31qJxOarrHyGZwYsCzOjobQzP.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/tNixUUmOiVsRAR3WuINj4fcrPR9.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nNeste novo filme, Jack Ryan volta ao mundo da espionagem contra a sua vontade quando uma missão secreta internacional acaba revelando uma conspiração. Numa corrida contra o tempo, ele se junta aos seus aliados da CIA, Mike November e James Greer, e à perspicaz agente do MI6, Emma Marlowe, para combater uma unidade de operações secreta rebelde numa luta arriscada e extremamente pessoal.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Super Mario Galaxy: O Filme (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vU3VwZXIuTWFyaW8uR2FsYXh5Lk8uRmlsbWUuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9YzM0MzY0NmI0MmVjN2UwZGU3NDRhMjI2ZDU5Y2QzMTA3ZTU4MTExMCZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wDGKAxgMR56fzkgdY4424NV40IR.png",
+      "sinopse": "[COLOR yellow]Família, Comédia, Aventura, Fantasia, Animação[/COLOR]\nDepois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "O Justiceiro: Uma Última Morte (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjI4NzVhZWUyNzA5MzM5ODExYjgzYzBkYmYxNTdhYWJkNjE3YTdmNTA=",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5KdXN0aWNlaXJvLlVtYS4lQzMlOUFsdGltYS5Nb3J0ZS4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FLm1rdj9saW5rPTI4NzVhZWUyNzA5MzM5ODExYjgzYzBkYmYxNTdhYWJkNjE3YTdmNTAmaW5kZXg9NCZwbGF5",
       "imagem": "https://image.tmdb.org/t/p/original/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/jp1Jhzh36b6JPZ0dibj7AJUGvdY.png",
@@ -233,7 +430,267 @@
       "legenda": "",
       "tipo": "filme"
     },
-{
+    {
+      "nome": "Além do Dever (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQWwlQzMlQTltJTIwZG8lMjBEZXZlciUyMDIwMjYlMjBXRUItREwlMjAxMDgwcCUyMHgyNjQlMjBEVUFMJTIwNS4xLm1rdj9saW5rPWIwNmIwYTI0MDRjMmYwOWZhN2VhYjZkODc5YjVkNGJiNmJiYzM2YzkmaW5kZXg9MSZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/mHm73HhpvGWfRkXNErcwc15Czrv.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/em4iKNvWj1eoDX8esIuE609Q6xB.png",
+      "sinopse": "[COLOR yellow]Crime, Drama, Thriller[/COLOR]\nCom a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Vingadora (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVmluZ2Fkb3JhLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTJkMGRiZGY2YzQxYzdjMjg1NjUyOGZkZDk0Njc4NTkxYzBhNjMxZDMmaW5kZXg9NCZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/l4WzNZC5o9KXnps4smVt45v1nYX.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/hiiEqTLqqv2PrnrDKw1xU65tUjP.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nNikki é uma ex-militar que lutou nos piores campos de batalha da guerra, mas nada se compara à dor de ter sua filha sequestrada. Caçada por bandidos e policiais, ela usará cada habilidade mortal que aprendeu em combate para invadir o submundo do crime e resgatar a única coisa que importa para ela.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Como Mágica (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQ29tbyUyME0lQzMlQTFnaWNhJTIwMjAyNiUyMFdFQi1ETCUyMDEwODBwJTIweDI2NCUyMERVQUwlMjA1LjEubWt2P2xpbms9MDQ1MTBkYmI3ZTI5MDU0N2Q4MGZhYTg0MjcwNmU5YjIyYjQ0YWIxNiZpbmRleD0yJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/2TZiL4ZYOwWeIjGfz3glpMuPqpN.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Família, Fantasia[/COLOR]\nUma pequena criatura da floresta e um pássaro majestoso trocam de corpo e precisam se unir para sobreviver à aventura mais incrível de suas vidas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Missão Refúgio (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWlzcyVDMyVBM28uUmVmJUMzJUJBZ2lvLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTgwNzY3ZmYxYTU0MjhhYWU5MmE5NzA5MDliZGU0MThjZjhhOTMxZmImaW5kZXg9NCZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/g9ZMGjZH7pvn5wvbWkr8clqTqCy.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nUm ex-assassino de aluguel, agora um homem recluso numa ilha costeira remota, salva uma garota de uma tempestade terrível, colocando os dois na mira do perigo. Forçado a sair da aposentadoria e do isolamento, o homem é obrigado a enfrentar seu passado perigoso para proteger a menina enquanto tenta sobreviver uma jornada tensa repleta de perigos e redenção.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Eles Vão te Matar (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRWxlcy5WJUMzJUEzby5UZS5NYXRhci4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz03MTdiMTU3N2YwMDZjYjIxZDMwOGViNzk1NTY2Y2JmM2RlNGMwZjI3JmluZGV4PTMmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/kPiqEJ8reCWKZXIWgweQd6eR2tP.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/c1jT6y0PMeBtMuCWWzRbKi7c1I9.png",
+      "sinopse": "[COLOR yellow]Ação, Comédia, Terror[/COLOR]\nUma mulher aceita um emprego como governanta em um arranha-céu de Nova York, sem saber da história de desaparecimentos do prédio. Ela logo percebe que a comunidade está envolta em mistério.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Jogo do Predador (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5Kb2dvLmRvLlByZWRhZG9yLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTU5MzQwYzE2NmNlNWIxZjc2M2EwZjBkNWYzMTZkMjhjNzQ4OTAwZWQmaW5kZXg9NCZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/t5WY7fBNee2SMkdIlClfJZw5QvW.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nUma mulher em luto embarca sozinha em uma aventura pela natureza selvagem da Austrália, mas acaba se envolvendo em um jogo cruel de gato e rato com um assassino.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Uma Segunda Chance (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVW1hLlNlZ3VuZGEuQ2hhbmNlLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU1RBUkNLRklMTUVTLm1rdj9saW5rPTdlYTdjMGI1ZjM0OTExMTg4ZDk5MmJlZTFlNjQ1Y2Q4OTk4YWJlZjYmaW5kZXg9NCZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/yC3byha23vhC2GMR139p4W42n36.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sCse8Ng1BBOYkqyC8dJbqDJgEO4.png",
+      "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nKenna comete um erro imperdoável que a leva à prisão. Sete anos depois, ela retorna à sua cidade natal, no Wyoming, na esperança de reconstruir a vida e conquistar a chance de se reencontrar com sua filha pequena, a quem nunca conheceu.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Bola pra Cima (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQm9sYS5wcmEuQ2ltYS4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNGLm1rdj9saW5rPTI5OGUwODk4MmQ3ZmI0M2M4MDI4MjZlMjU3YmVmNjBjYzFmNWFkYTUmaW5kZXg9MyZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/9uMTLWiDPFWYxEwP11G9Sp9cVAk.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/qE0FswzjACs2kvAycYVS2zcmgec.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/lwzKV2DGEvSWbwSAmSoRTkilKJb.png",
+      "sinopse": "[COLOR yellow]Comédia, Ação, Aventura[/COLOR]\nNesta comédia, os executivos de marketing Brad e Elijah se arriscam e apresentam uma proposta de patrocínio ousado de uma marca de preservativos para a Copa do Mundo. Quando a comemoração no Brasil provoca um escândalo global, eles precisam fugir de torcedores furiosos, criminosos e dirigentes ambiciosos para salvar suas carreiras e voltar para casa vivos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Alerta Apocalipse (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQWxlcnRhLkFwb2NhbGlwc2UuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TVEFSQ0tGSUxNRVMubWt2P2xpbms9MDExYzQ4NTllZmNiNzM1YmQ1YjUzNWIyM2U3YWMwOGI0MWM3NjZmMiZpbmRleD0yJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/cRA0Phdz9jWTgZjDRRWn0yjwYbm.png",
+      "sinopse": "[COLOR yellow]Terror, Ficção científica, Comédia[/COLOR]\nQuando um fungo altamente perigoso escapa de um laboratório secreto, Robert Quinn, um ex-agente de bioterrorismo que só queria curtir a aposentadoria em paz, é chamado de volta à ação. Ao lado de Travis e Naomi, dois jovens funcionários que definitivamente não ganham o suficiente para isso, ele precisa enfrentar uma ameaça invisível e fora de controle. Em uma corrida contra o tempo, o trio descobre que salvar o mundo dá muito mais trabalho do que parece.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Ataque Brutal (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQXRhcXVlLkJydXRhbC4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz0wMzE1ZTM0MDNlNTlkMTNmZDUwOGVmOWZjZmI2ZTVlZjBiZGJjZGVjJmluZGV4PTImcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9W2XKtve9vkJQvH7bxTdZOp30YR.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nEm meio a um furacão devastador, uma comunidade costeira luta pela sobrevivência, assolada não apenas pelas forças destrutivas da natureza, mas também pela ameaça implacável de tubarões. Lutando contra a chuva torrencial, ruas cobertas de destroços e a escuridão avassaladora, eles precisam se unir para repelir esses predadores mortais se quiserem ter alguma chance de sobreviver à tempestade.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Caminhos do Crime (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQ2FtaW5ob3MuZG8uQ3JpbWUuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz05MDZlNWVkYjg0YTlmY2YzYWNlNmE4ZWNkZjI0MDJiZjI3Nzg1NzkxJmluZGV4PTImcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zE3O6uWTqiRaM839l0lot3i66uU.png",
+      "sinopse": "[COLOR yellow]Crime, Thriller[/COLOR]\nUm ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Comer, Rezar, Ladrar (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQ29tZXIlMkMlMjBSZXphciUyQyUyMExhZHJhciUyMDIwMjYlMjBXRUItREwlMjAxMDgwcCUyMHgyNjQlMjBEVUFMJTIwNS4xLm1rdj9saW5rPTQ0NzY4YzA1MzE1NTE5ZThmZGQ3YTRmMTE3YjEzNDUxYzBlN2Y5NmQmaW5kZXg9MiZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/zzjhOgtbXePGcKuacjeDmy5t4RH.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/7weSO3kEzMpMgdmte4AasS0tbeV.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8jWVJ5knxUL6Cz9C8hHiJqCE8ix.png",
+      "sinopse": "[COLOR yellow]Comédia[/COLOR]\nCinco tutores procuram a ajuda de um adestrador lendário nas montanhas para lidar com seus cães arteiros. Mas talvez não sejam os pets que precisam de treinamento.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Pânico 7 (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vUGFuaWNvLjcuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz1kZGU5NWQyOTcwMzM0ODVkMjU4N2Y3NmFmODRkZjMyY2ZjZDQ3ZmQzJmluZGV4PTMmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/rEevavl5vebCVEd5imx7D1k8nmV.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/49ndGPY8akkaKemPCYLX6asWxkK.png",
+      "sinopse": "[COLOR yellow]Terror, Mistério, Crime[/COLOR]\nQuando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Corajosa 3 (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWFyZGFhbmkuMy4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNGLm1rdj9saW5rPWVkYzE5YTIwODY5YzU2ZWNlODU1NzlkM2I0OWNiMzZmMTBiZTI0ZGUmaW5kZXg9MyZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/odEZ7CY6TlELZHptwEyNy65XaRg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/m4iEtQdRWB4ZpFzuqCJtG9akOHJ.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nA destemida policial Shivani Shivaji Roy está de volta para derrubar uma quadrilha impiedosa, responsável por sequestrar mais de 90 meninas na Índia.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Mike & Nick & Nick & Alice (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWlrZS5hbmQuTmljay5hbmQuTmljay5hbmQuQWxpY2UuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz01ZjUxOTZhNjU4ZTllNzRlNmQyMTEwNmE1YjVhZDFlYzM2NGIyOTg5JmluZGV4PTMmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wSMDyDezeBMVjBUyRzVPiDmh5p1.png",
+      "sinopse": "[COLOR yellow]Comédia, Ficção científica, Crime[/COLOR]\nUma comédia de ação hilária e estilizada, para maiores de 18 anos, sobre dois gângsteres e a mulher que eles amam, tentando sobreviver à noite mais perigosa de suas vidas. Como se isso não bastasse, tem um ingrediente inusitado na mistura: uma máquina do tempo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Destruição Final 2 (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRGVzdHJ1aSVDMyVBNyVDMyVBM28uRmluYWwuMi4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNGLm1rdj9saW5rPTcwYTRiNmVhN2QwNmVkMDZjZDI0OGZmOWIxNjJlMTc3NTAzNGI2MGYmaW5kZXg9MiZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/s6nzVekLSd1y0vGjLz8WPfC1Sau.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/se08hzYqHAiDixqV1mymn7sWBKq.png",
+      "sinopse": "[COLOR yellow]Aventura, Thriller, Ficção científica[/COLOR]\nTendo encontrado a segurança do bunker da Groenlândia depois que o cometa Clarke dizimou a Terra, a família Garrity deve agora arriscar tudo para embarcar em uma jornada angustiante através do deserto da Europa para encontrar um novo lar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Lindas e Letais (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTGluZGFzLmUuTGV0YWlzLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU0YubWt2P2xpbms9MmViNDUyNDlhNzJhYjZkMzA5MTk0YmFlN2ViZWY5MjU3ZjliYjhhNyZpbmRleD0zJnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/3PdG3VE95F7fcawJrAfm9bdUvMy.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/oA4OyOzAp9EuNWptxTDt8kqvBHA.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Terror[/COLOR]\nUm thriller repleto de ação no qual cinco bailarinas, perdidas em uma floresta remota a caminho de uma competição de dança, encontram abrigo em uma pousada sinistra à beira da estrada, administrada por Devora Kasimer, e precisam usar seu treinamento de elite como arma para sobreviver.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Um Cabra Bom de Bola (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVW0uQ2FicmEuQm9tLmRlLkJvbGEuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz1iZGQ5M2NjZmQwZDIzNWZhMjkwYjViNDY5MGI3ZDc5MmJlZjM2MmUyJmluZGV4PTMmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/e5HUaDHGUXCgEmblAhbwsegts5V.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Família[/COLOR]\nUma pequena cabra com grandes sonhos recebe uma oportunidade única na vida de se juntar aos profissionais e jogar berrobol, um esporte de alta intensidade, misto e de contato total, dominado pelos animais mais rápidos e ferozes do mundo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Agente Zeta (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQWdlbnRlLlpldGEuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz0yYmU0MWQzZWE1MzQwN2JjMDI4ZTk4MGRmMmJjNjg1ZWJmNDc3NzBkJmluZGV4PTEmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ptcyGmBonW6mDQmrPhXbt6Rjrlp.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da \"Operação Ciénaga\" décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a \"Ciénaga\" do que ele.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Diário de Pilar na Amazônia (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5EaSVDMyVBMXJpby5kZS5QaWxhci5uYS5BbWF6JUMzJUI0bmlhLjIwMjYuV0VCLURMLjEwODBwLngyNjQuTkFDSU9OQUwuNS4xLVNGLm1rdj9saW5rPWNiZGYwMGJiOTJmMzY1ZTlhOWI5ODlmNDIxNTFhZWE3ZmZhZGQ2OWMmaW5kZXg9MyZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/kFBWjlAhdGgVFYXFN6hI5Pflezy.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/zcJCJnuiycqm8tkC8kpsGoksU1D.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/yBRI0R3tpppN7FE1HKV5U4egyDU.png",
+      "sinopse": "[COLOR yellow]Aventura[/COLOR]\nPilar, uma jovem curiosa e exploradora, embarca com o melhor amigo Breno e o gato Samba numa missão na floresta amazônica. Lá, eles conhecem Maiara, uma jovem ribeirinha cuja comunidade foi destruída por madeireiros. No caminho, encontram Bira, um jovem pescador que conhece bem a floresta. Pilar e seus amigos partem em busca dos pais de Maiara, até que descobrem uma quadrilha de madeireiros que estão cortando árvores ilegalmente. Com a ajuda de uma tribo indígena e dos seres mitológicos, Pilar e seus amigos conseguem deter os madeireiros, mais decididos que nunca a salvar a natureza e a reflorestar o planeta.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Refúgio (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTy5SZWYlQzMlQkFnaW8uMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz01OThiMjE5NDJmMWYyN2EyZGZmNGQyOTQxNzYyNGFkNDQ3MDc1NGNjJmluZGV4PTMmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wxom2NHhkU29TCJXCz2HfGGKSAa.png",
+      "sinopse": "[COLOR yellow]Drama, Ação, Thriller[/COLOR]\nQuando a vida tranquila numa ilha remota chega ao fim com a volta de um ex-capitão vingativo, uma habilidosa ex-pirata precisa confrontar seu passado sangrento e usar seu talento mortal para salvar a família de um cerco implacável.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Pavana (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vUGF2YW5hLjIwMjYuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU0YubWt2P2xpbms9NDFhM2M3ZDBiNjcxOTMyZGViMjMwNjM1MjMyMzllMTA5N2JiYjJiYyZpbmRleD00JnBsYXk=",
+      "imagem": "https://image.tmdb.org/t/p/original/onUWCAs2uhNuUX5nY2wiEHAfR3T.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wVvLQ21Gi6yvxXSrarpifuan3lp.png",
+      "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nTrês pessoas solitárias se conhecem trabalhando em uma loja de departamento e encontram consolo umas nas outras, explorando a conexão e a natureza do amor.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Corta-fogo (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQ29ydGEuZm9nby4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNGLm1rdj9saW5rPTcwMzVlNmJlZDY0ODkyZDE2OWE4NzBhMzU0N2NjYjFiZDMyNjcwNDAmaW5kZXg9MiZwbGF5",
+      "imagem": "https://image.tmdb.org/t/p/original/6V0FLzciqJh7d1Y4zXyyqLAKnTs.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8nm9Q5Q6EdX4zhTh5yuFrNRZHub.png",
+      "sinopse": "[COLOR yellow]Thriller, Drama[/COLOR]\nA pequena Lide desaparece na floresta enquanto a família se prepara para deixar a casa. Agora, sua mãe precisa encontrá-la antes do incêndio que se aproxima.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Justiça Artificial (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vSnVzdGklQzMlQTdhLkFydGlmaWNpYWwuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz1iZWVmNzEwMWExMjMwYTdkNzkwYTI2NDkxZWMwNWIwOGU5NWY5NWM3JmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/vI7bNC07BaSEvZ9ATzV57wpAYwQ.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/Ak7kolcNMcILQrSgWmT7PtAbpQg.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller[/COLOR]\nEm um futuro próximo, um detetive é acusado de assassinar a própria esposa. Ele tem 90 minutos para provar sua inocência à avançada justiça de Inteligência Artificial que ele mesmo ajudou a implementar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Amor Demais (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vQW1vci5EZW1haXMuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz1kYTdjYWVkMWU3MzQ3MzAxZDYzMjMwMTRhZmEwZjFjZjgxYjI1NzM0JmluZGV4PTEmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zitxuY6oOHP7rBfXqIKIK6nA0Bv.png",
+      "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nApós a morte de seu irmão, June recomeça a vida em Milão, namorando Will, um cara perfeito da sua nova escola internacional. Mas quando o melhor amigo do rapaz, o perigoso James que participa de lutas clandestinas de MMA, desperta uma rivalidade que rapidamente se transforma numa atração irresistível, June precisa escolher entre a segurança e um amor que transforma tudo que ela pensou que queria.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Dupla Perigosa (2026)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vRHVwbGEuUGVyaWdvc2EuMjAyNi5XRUItREwuMTA4MHAueDI2NC5EVUFMLjUuMS1TRi5ta3Y/bGluaz0wYTgxZjEzYjE5OTg5MTI2MTVhMzA0MmJmMTRjNmRkMzMyZGEwMzU0JmluZGV4PTImcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wu1xtcU5TjTgQv3WivPw4jHtxMX.png",
+      "sinopse": "[COLOR yellow]Ação, Comédia, Crime, Mistério[/COLOR]\nDois meios-irmãos que não se falavam há muito, Jonny e James, se reencontram após a morte misteriosa do pai deles. Ao buscarem a verdade, desvendam segredos de uma conspiração que pode destruir a família.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Máquina de Guerra (2026)",
       "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTSVDMyVBMXF1aW5hLmRlLkd1ZXJyYS4yMDI2LldFQi1ETC4xMDgwcC54MjY0LkRVQUwuNS4xLVNGLm1rdj9saW5rPTNhYjA3NzY3ODRjZjk5NDAyNDE5ZmNkNmZiMWYxN2I1ZTUwMDZkOTEmaW5kZXg9MyZwbGF5",
       "imagem": "https://image.tmdb.org/t/p/original/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",
@@ -243,6 +700,5 @@
       "legenda": "",
       "tipo": "filme"
     }
-    
   ]
 }
