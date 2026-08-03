@@ -91,6 +91,14 @@
       "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
+        {
+          "nome": "Destruição Final: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/DestruicaoFinal.json",
+          "imagem": "https://image.tmdb.org/t/p/original/pgQu4N5ezDyXFXQrB8O4X4oJGca.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/1bWiBEEmdQCkdI4pQ5iVpURznxn.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nUma série de filmes de ficção científica sobre desastres, que acompanha os esforços de uma família para sobreviver ao impacto de um cometa capaz de destruir o planeta.",
+          "tipo": "serie"
+        },
              {
           "nome": "Harry Potter: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Harry.Potter.json",
