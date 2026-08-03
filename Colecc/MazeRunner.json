@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Maze Runner: A Cura Mortal (2018)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWF6ZS5SdW5uZXIuQS5DdXJhLk1vcnRhbC4yMDE4LkJsdVJheS4xMDgwcC54MjY0LkRVQUwuMi4wLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz02ZWYxNzY3YWYzNTc2YjVmOTNlYmIxZWZlMWVkMmM2M2JjMjgyZjIxJmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ufUAOM5aVizNf8d5YLoutqrrlhq.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/iDHxMQHx0DSr64Q9qeIfWIZbIRv.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura, Thriller[/COLOR]\nNo terceiro filme da saga, Thomas (Dylan O' Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maze Runner: Prova de Fogo (2015)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWF6ZS5SdW5uZXIuUHJvdmEuZGUuRm9nby4yMDE1LkJsdVJheS4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz05MGVkZTQ1ZjhmZTJjMGE2Y2MzZjM4OTNkYTZkMmU2ZTk4NzA2NjUxJmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/qpb5p5hPU3Bkb0wXJQPmONjOejh.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/fg7AnPonEFDz4zNrJaIRW1zice0.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller, Aventura[/COLOR]\nApós escapar do labirinto, Thomas e os garotos que o acompanharam em sua fuga da Clareira precisam agora lidar com uma realidade bem diferente: a superfície da Terra foi queimada pelo sol e eles precisam lidar com criaturas disformes chamadas Cranks, que desejam devorá-los vivos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maze Runner: Correr ou Morrer (2014)",
+      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vTWF6ZS5SdW5uZXIuQ29ycmVyLm91Lk1vcnJlci4yMDE0LkJsdVJheS4xMDgwcC54MjY0LkRVQUwuNS4xLVNUQVJDS0ZJTE1FUy5ta3Y/bGluaz0zNGM4NjdhMzIxOTE2Y2JjYWQxYmI0OTVkZjU0NWEzYjc5MTY2MjUwJmluZGV4PTQmcGxheQ==",
+      "imagem": "https://image.tmdb.org/t/p/original/efAJzIyjYlgdO7fzfMBJcFZqI5v.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/lQAsnu25fq8iAdCXvbduw36HAZm.png",
+      "sinopse": "[COLOR yellow]Ação, Mistério, Ficção científica, Thriller[/COLOR]\nNum cenário pós-apocalíptico, uma comunidade de rapazes descobre que estão presos num labirinto misterioso. Juntos, terão de descobrir como escapar, resolver o enigma e revelar o arrepiante segredo acerca de quem os colocou ali e por que razão.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
