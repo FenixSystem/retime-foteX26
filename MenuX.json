@@ -138,6 +138,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg",
           "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nA Coleção Avatar conta a história do mundo de Pandora, habitado pelos humanóides indígenas, os Na'vi. O protagonista principal, Jake Sully, é enviado para Pandora como um avatar - um híbrido de humano e Na'vi. Durante sua missão, Jake descobre a beleza e a complexidade do mundo Na'vi e estabelece uma conexão profunda com os habitantes do planeta. A coleção centra-se no conflito entre os humanos e os Na'vi e na luta para salvar o mundo de Pandora.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Anjos da Noite: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Underworld.json",
+          "imagem": "https://image.tmdb.org/t/p/original/eoxZtI96bM8kHginiTpFkeCqR7Z.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nAnjos da Noite é uma coletânea composta por cinco filmes, estrelada por Kate Beckinsale, na personagem de Selene, uma vampira guerreira. Anjos da Noite (2003), Anjos da Noite: A Evolução (2006), Anjos da Noite: A Rebelião (2009), Anjos da Noite: O Despertar (2012) e Anjos da Noite: Guerras de Sangue (2016).",
+          "tipo": "serie"
         }
         
 ]
