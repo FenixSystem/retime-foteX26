@@ -1,135 +1,14 @@
 {
   "episodios": [
     {
-      "nome": "Supergirl (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjg1YWRmMDgzZTdmNWY4NTJhOTRlNjQwYjU2OTdmNjYxNTQ4OWVmN2M=",
-      "imagem": "https://image.tmdb.org/t/p/original/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/xV8K4LlPlaq3OE7q1Agw25IOswi.png",
-      "sinopse": "[COLOR yellow]Ação, Aventura, Ficção científica[/COLOR]\nKara Zor-El comemora seu aniversário de 21 anos viajando pela galáxia com seu cachorro Krypto. Ao longo do caminho, ela conhece a jovem Ruthye Marye Knoll e se depara com uma tragédia que a leva a uma “busca assassina por vingança\".",
+      "nome": "O Incrível Hulk (2008)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9zdXBlcmhlcm9pcy9PLkluY3IlYzMlYWR2ZWwuSHVsay4yMDA4Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/euwOg3SwHHCRLmGc1W3TEnQpZtg.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura[/COLOR]\nVivendo escondido e longe de Betty Ross, a mulher que ama, o cientista Bruce Banner busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross, seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.",
       "legenda": "",
       "tipo": "filme"
-    },
-    {
-      "nome": "Mestres do Universo (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjFhY2RlOGE1MzllM2ViMmZmNzhlZjZmMTQwZmZkZmYxMjQ2ZTEzYTg=",
-      "imagem": "https://image.tmdb.org/t/p/original/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/tyRF4zi2D7x3vwsX2E24NUGPGVz.png",
-      "sinopse": "[COLOR yellow]Ação, Fantasia, Ficção científica[/COLOR]\nAdam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-    {
-      "nome": "O Justiceiro: Uma Última Morte (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjI4NzVhZWUyNzA5MzM5ODExYjgzYzBkYmYxNTdhYWJkNjE3YTdmNTA=",
-      "imagem": "https://image.tmdb.org/t/p/original/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/jp1Jhzh36b6JPZ0dibj7AJUGvdY.png",
-      "sinopse": "[COLOR yellow]Ação, Drama, Crime[/COLOR]\nEnquanto Frank Castle busca um significado além da vingança, uma força inesperada o arrasta de volta para a luta.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-  {
-  "nome": "Thunderbolts* (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e281f3a2b8aaec37529da78c2e2cf40807df7261&",
-  "imagem": "https://image.tmdb.org/t/p/original/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/rthMuZfFv4fqEU4JVbgSW9wQ8rs.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/majLMXfIqGaoQS3K66aKrNld0Vg.png",
-  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nEm Thunderbolts, Yelena faz parte de uma equipe composta por ex-supervilões redimidos, prontos para agir em nome de causas controversas. Thunderbolts traz uma nova abordagem ao explorar personagens desajustados e suas lutas internas, enquanto enfrentam desafios de alto risco para o governo, misturando ação, humor e dilemas morais.",
-  "legenda": "",
-  "tipo": "filme"
- },  
- {
-  "nome": "Superman (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25f1876dc1c2d516ad7263a7025eec856db98126&",
-  "imagem": "https://image.tmdb.org/t/p/original/xeZ8oG6W60fEPf9yCjERUXiHRBF.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/ApRxyHFuvv5yghedxXPJSm9FEDe.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/4n2XmYzjNfCsIhy1AYjPC48hzT.png",
-  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nUm herói movido pela crença e pela esperança na bondade da humanidade. Em Superman, acompanhamos a jornada do super-herói em tentar conciliar suas duas personas: sua herança extraterrestre como kryptoniano e sua vida humana, criado como Clark Kent (David Corenswet) na cidade de Smallville no Kansas. Dirigido por James Gunn, o novo filme irá reunir personagens, heróis e vilões clássicos da história de Superman, como Lex Luthor (Nicholas Hoult), Lois Lane (Rachel Brosnahan), Lanterna Verde (Nathan Fillion), Mulher-Gavião (Isabela Merced), entre outros. O chamado de Superman será colocado à prova através de uma série de novas aventuras épicas e diante de uma sociedade que enxerga seus valores de justiça e verdade como antiquados.",
-  "legenda": "",
-  "tipo": "filme"
- },   
-{
-  "nome": "Quarteto Fantástico: Primeiros Passos (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ea3c653e7366648ad74dee20e09fdce6af174ba&",
-  "imagem": "https://image.tmdb.org/t/p/original/pEFX3Md51q59zsnSfVgHZAiHQ3z.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/AivoPyTewh6WXoPLFEx18SQNJpG.png",
-  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nForçados a equilibrar seus papéis como heróis com a força dos laços familiares que os unem, eles devem defender a Terra de um voraz deus espacial chamado Galactus e seu enigmático arauto, a Surfista Prateada. E, se o plano de Galactus de devorar o planeta inteiro já não fosse ruim o suficiente, tudo fica ainda mais pessoal.",
-  "legenda": "",
-  "tipo": "filme"
- },
- {
-  "nome": "Capitão América: Admirável Mundo Novo (2025)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57c91b14ab303c75fd6906616da96029f4fefbf&",
-  "imagem": "https://image.tmdb.org/t/p/original/5nbSgP8f5LMCI0PwVRRaHJaUmR3.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/8eifdha9GQeZAkexgtD45546XKx.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/wptoNXZySQF0HyGF9avivae6lGU.png",
-  "sinopse": "[COLOR yellow]Ação, Ficção, Suspense[/COLOR]\nCapitão América: Admirável Mundo Novo é o próximo filme do famoso herói da Marvel. Desta vez, o filme dá continuidade à minissérie de televisão Falcão e o Soldado Invernal, onde o escudo está nas mãos de Sam Wilson (Anthony Mackie), após Steve Rogers (Chris Evans) o entregar em Vingadores: Ultimato. Durante a série, Sam aceita seu dever como o novo Capitão América ao lado de Bucky Barnes (Sebastian Stan). Admirável Mundo Novo compõe a Fase Cinco do Universo Cinematográfico Marvel (UCM). O enredo promete explorar os desafios e responsabilidades de Wilson em seu novo papel, enquanto enfrenta novas ameaças e aliados inesperados. A direção está a cargo de Julius Onah, conhecido por seu trabalho em The Cloverfield Paradox, e o roteiro foi escrito por Malcolm Spellman, que também foi o showrunner de Falcão e o Soldado Invernal.",
-  "legenda": "",
-  "tipo": "filme"
- },
-  {
-      "nome": "Aquaman 2: O Reino Perdido (2023)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOlkySk5JR0hMNk5UVzRGRDJOQUdLWFJBQU1LUExHUlFG",
-      "imagem": "https://image.tmdb.org/t/p/original/2Mys5JCHhUH6DE9YxLFFZaCsOHu.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/fJY706h5IgKTl24rQeL3w5sq8Ec.png",
-      "sinopse": "[COLOR yellow]Ação, Aventura, Fantasia[/COLOR]\nAgora mais temível do que nunca, Arraia Negra detém o poder do mítico Tridente Preto e sua ancestral força malévola. Para derrotá-lo, Aquaman recorrerá a seu irmão Orm, o ex-Rei da Atlântida, ainda na prisão, para forjar uma aliança improvável. Juntos, eles vão ter que deixar de lado suas diferenças para proteger seu reino, salvar a família de Aquaman e o mundo da irreversível destruição.",
-      "legenda": "",
-      "tipo": "filme"
-    },  
- {
-      "nome": "Morbius (2022)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjFhMDM3OTgwMDIyOTEzZDgwNmNmOWQ2NDA0NzlkOTMwYzczMmI3MzY=",
-      "imagem": "https://image.tmdb.org/t/p/original/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/jzWT0zd8U77fqWg5WgUfYaMzSFz.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/ySBEWxbk8JydeGyPAGB9CVKyNaV.png",
-      "sinopse": "[COLOR yellow]Ação, Ficção científica, Fantasia[/COLOR]\nGravemente doente com um raro distúrbio sanguíneo e determinado a salvar outros sofrendo o mesmo destino, o Dr. Morbius tenta uma aposta desesperada. O que primeiramente parece ser um sucesso radical, libera uma escuridão dentro dele e transforma esse médico em um caçador.",
-      "legenda": "",
-      "tipo": "filme"
-    },   
-{
-  "nome": "Viúva Negra (2021)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe829d5506ee2e131e266dedf333fe1f339d8a9c&",
-  "imagem": "https://image.tmdb.org/t/p/original/vrKLlMWRAqQMleU5OvwOi3kYhpn.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/sXQmbUKQAPslOx8ySAdib8QQYNQ.png",
-  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nNatasha Romanoff “Viúva Negra” precisa confrontar partes de sua história quando surge uma conspiração perigosa ligada ao seu passado. Perseguida por uma força que não irá parar até derrotá-la, Natasha terá que lidar com sua antiga vida de espiã, e também reencontrar membros de sua família que deixou para trás antes de se tornar parte dos Vingadores.",
-  "legenda": "",
-  "tipo": "filme"
- },
- {
-      "nome": "Aquaman (2018)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOlBSUFlUQUFaWkVNSDVUWkxSTVBLNk9XMk1BRFZNN1k1",
-      "imagem": "https://image.tmdb.org/t/p/original/wbo0CYG6SOFxFkoe9BiqvivLggN.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/o2qWRluCmqMNqVw1xAZfoUF03pH.png",
-      "sinopse": "[COLOR yellow]Ação, Aventura, Fantasia[/COLOR]\nA cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas.",
-      "legenda": "",
-      "tipo": "filme"
-    },   
-{
-  "nome": "Capitão América: Guerra Civil (2016)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e46520ae6ea01af037e5c04486eba577e1086650&",
-  "imagem": "https://image.tmdb.org/t/p/original/dsvUR5aEVSkB1Sro7nT6Khqik71.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/7FWlcZq3r6525LWOcvO9kNWurN1.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/2JtA3oRSALwFnFUlBH3HtJFp2Xs.png",
-  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nSteve Rogers (Chris Evans) é o atual líder dos Vingadores, super-grupo de heróis formado por Viúva Negra (Scarlett Johansson), Feiticeira Escarlate (Elizabeth Olsen), Visão (Paul Bettany), Falcão (Anthony Mackie) e Máquina de Combate (Don Cheadle). O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark (Robert Downey Jr.), o Homem de Ferro. ",
-  "legenda": "",
-  "tipo": "filme"
- },
- {
-  "nome": "Capitão América: O Primeiro Vingador (2011)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fab853b5c2237d47dbe3599f164e973895e6477&",
-  "imagem": "https://image.tmdb.org/t/p/original/19wxfSXHhuJBRbbfUweCsfXFhpv.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/sabtvYDGWAyx1W0sBJS1dg4WaYD.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/aVRucgEmhTZzgnLo97uiqGOKFme.png",
-  "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\n2ª Guerra Mundial. Steve Rogers (Chris Evans) é um jovem que aceitou ser voluntário em uma série de experiências que visam criar o supersoldado americano. Os militares conseguem transformá-lo em uma arma humana, mas logo percebem que o supersoldado é valioso demais para pôr em risco na luta contra os nazistas. Desta forma, Rogers é usado como uma celebridade do exército, marcando presença em paradas realizadas pela Europa no intuito de levantar a estima dos combatentes. Para tanto passa a usar uma vestimenta com as cores da bandeira dos Estados Unidos, azul, branca e vermelha. Só que um plano nazista faz com que Rogers entre em ação e assuma a alcunha de Capitão América, usando seus dons para combatê-los em plenas trincheiras da guerra.",
-  "legenda": "",
-  "tipo": "filme"
- }   
-    
+    }
   ]
 }
