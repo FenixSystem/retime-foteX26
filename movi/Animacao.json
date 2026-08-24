@@ -2,34 +2,44 @@
   "episodios": [
    {
       "nome": "Avatar Aang: O Último Mestre do Ar (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjYzOGQ4NWQ1NTlkMTg1MGZkNjVkMTdkNzkyNjI0OTliMjI4ZDk0NzE=",
-      "imagem": "https://image.tmdb.org/t/p/original/mTdadPqjkcjOphSsKXLiW2fgLMm.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/8kJrpxyQAs0PHmuC53TLNK51ogP.jpg",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0F2YXRhci5BYW5nLk8uVWx0aW1vLk1lc3RyZS5kby5Bci4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/x61imBVYQKjMaX4yNPPh0rjXq6H.png",
       "sinopse": "[COLOR yellow]Animação, Ação, Aventura, Fantasia[/COLOR]\nO Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
       "legenda": "",
       "tipo": "filme"
-    }, 
-   {
-      "nome": "A Revolução dos Bichos (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjQ1Y2I5Njk4N2ZiYTE0ZDBkNjMyMWViNjc2ZTgzODRiOWQxZTkyY2U=",
-      "imagem": "https://image.tmdb.org/t/p/original/j2svEVdHI5QfmeXAbuPye5l6y0I.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/gXDJJKgzWpNPosTK1ysJJnzbKqS.png",
-      "sinopse": "[COLOR yellow]Animação, Comédia, Drama, Família, Ficção científica[/COLOR]\nUm movimento pela igualdade é sistematicamente corrompido. À medida que os porcos consolidam o controle, a verdade é apagada e a fazenda se transforma em uma ditadura implacável.",
+    },
+    {
+      "nome": "Cara de Um, Focinho de Outro (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0NhcmEuZGUuVW0uRm9jaW5oby5kZS5PdXRyby4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3Jj0A10NVu2dWnoEL5t5oT79L1Y.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/ib7qnSUbm2zACid6oSVgG1kt3ZG.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família, Ficção científica[/COLOR]\nMabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
       "legenda": "",
       "tipo": "filme"
-    }, 
-  {
-      "nome": "Eu sou Frankelda (2025)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjIxNWMyNTExMTYxMjlkMzY3Y2RjMzVhMTcyMDhmZDc5ZTA4MWRjZDQ=",
-      "imagem": "https://image.tmdb.org/t/p/original/d7BsXPE4vv6UFaD52J4rlQq5pWU.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/pme7D46PxaOdNWika46q5VUS2CR.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/oCePwThPypIbP9xwrf4QoWzrFJz.png",
-      "sinopse": "[COLOR yellow]Animação, Família, Fantasia, Terror, Aventura[/COLOR]\nUma jovem e talentosa escritora do México do século XIX viaja para o seu subconsciente e se depara com personagens de suas próprias histórias assustadoras.",
+    },
+    {
+      "nome": "Minions & Monstros (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01pbmlvbnMuZS5Nb25zdHJvcy4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/s0T90COXRqTSZ8d9pv8jTRLBFA2.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família, Fantasia[/COLOR]\nEsta é a frenética, ridícula e totalmente verdadeira história de como os Minions conquistaram Hollywood, se tornaram estrelas de cinema, perderam tudo, libertaram monstros pelo mundo e, depois, se uniram para tentar salvar o planeta do caos que eles mesmos haviam acabado de criar.",
       "legenda": "",
       "tipo": "filme"
-    }  
+    },
+    {
+      "nome": "Super Mario Galaxy: O Filme (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1N1cGVyLk1hcmlvLkdhbGF4eS5PLkZpbG1lLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/b3WeTp42eJSRuE4UZfyPCOJW4c.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wDGKAxgMR56fzkgdY4424NV40IR.png",
+      "sinopse": "[COLOR yellow]Família, Comédia, Aventura, Fantasia, Animação[/COLOR]\nDepois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+      "legenda": "",
+      "tipo": "filme"
+    }
  
   ]
 }
