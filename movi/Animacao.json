@@ -1,5 +1,15 @@
 {
   "episodios": [
+        {
+      "nome": "A Revolução dos Bichos (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0EuUmV2b2x1Y2FvLmRvcy5CaWNob3MuMjAyNS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/k8gLdDCymMWSHivaxoWy7eOzdjQ.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/gXDJJKgzWpNPosTK1ysJJnzbKqS.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Drama, Família, Ficção científica[/COLOR]\nUm movimento pela igualdade é sistematicamente corrompido. À medida que os porcos consolidam o controle, a verdade é apagada e a fazenda se transforma em uma ditadura implacável.",
+      "legenda": "",
+      "tipo": "filme"
+    },
    {
       "nome": "Avatar Aang: O Último Mestre do Ar (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0F2YXRhci5BYW5nLk8uVWx0aW1vLk1lc3RyZS5kby5Bci4yMDI2Lm1rdg==",
@@ -37,6 +47,176 @@
       "fanart": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/wDGKAxgMR56fzkgdY4424NV40IR.png",
       "sinopse": "[COLOR yellow]Família, Comédia, Aventura, Fantasia, Animação[/COLOR]\nDepois de salvar o Reino dos Cogumelos, Mario e seus amigos se encontram em uma missão intergaláctica para deter um novo vilão ameaçador.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Carros (2006)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0NhcnJvcy4yMDA2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/A7nssMRIPauZhEVf2dzwsf4EALO.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/sOLgkBKf1gjMRc4yXxM5aciXdfr.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/jrZp7apZ5hPvrMdOG3NPjPP7VNG.png",
+      "sinopse": "[COLOR yellow]Animação, Aventura, Comédia, Família[/COLOR]\nAo viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Carros 2 (2011)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0NhcnJvcy4yLjIwMTEubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/fIKaabvE40T39nOIngcZPcPJeYe.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/robYRZk9LxJTwD7GlZCginji5k.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bBosggzlBFDc9Os90IBBYt5rxCK.png",
+      "sinopse": "[COLOR yellow]Animação, Família, Aventura, Comédia[/COLOR]\nO astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Carros 3 (2017)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0NhcnJvcy4yMDA2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/oEmdfjqQnAWe1t23WiiW0icFhGv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4mlS1MitcOqdPLhxEFyk9Qwf5rr.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2XEnqamYARXyFrTM4ZlqgHCST0L.png",
+      "sinopse": "[COLOR yellow]Animação, Drama, Família, Aventura[/COLOR]\nDurante mais uma disputa eletrizante nas pistas, o campeão Relâmpago McQueen acelerou demais e acabou perdendo o controle. Agora, após ter capotando várias vezes e quase ter partido dessa para melhor, o vermelhinho vai ter sua vida alterada para sempre. O acidente foi tão grave que, com os estragos, McQueen pode ter que se aposentar de vez.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Meu Malvado Favorito 4 (2024)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01ldS5NYWx2YWRvLkZhdm9yaXRvLjQubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/s8BefU3RIJrfipTpsDtOiatlp8j.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/iHpYd13Bh9dZ1lzaJRCOhYdF9Tx.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Ação, Ficção científica, Família[/COLOR]\nNesta sequência, o vilão mais amado do planeta retorna e agora Gru, Lucy, Margo, Edith e Agnes dão as boas-vindas a um novo membro da família: Gru Jr., que pretende atormentar seu pai. Enquanto se adapta com o pequeno, Gru enfrenta um novo inimigo, Maxime Le Mal, forçando sua namorada Valentina e a família a fugir do perigo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Meu Malvado Favorito 3 (2017)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01ldS5NYWx2YWRvLkZhdm9yaXRvLjMuMjAxNy5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/6z0KlRIrXfkgNz3IJOCAQxdVXAg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9366kAyqk1SAe81Jp4RqDnlkWUV.png",
+      "sinopse": "[COLOR yellow]Ação, Animação, Comédia, Família, Aventura[/COLOR]\nO ex-ator mirim e astro de TV, Balthazar Bratt, foi um típico malvado bem-sucedido nos anos 80 e agora está de volta à ativa. Ele vai aterrorizar a vida de Gru, Agnes, Margo, Edith, Dr. Nefario e os atrapalhados Minions. Em meio a tudo isso, Gru também vai encontrar o seu irmão gêmeo, Drew.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Meu Malvado Favorito 2 (2013)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01ldS5NYWx2YWRvLkZhdm9yaXRvLjIuMjAxMy5tcDQ=",
+      "imagem": "https://image.tmdb.org/t/p/original/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uD267eSiACfWLxp47t3gYymOQRj.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/eIJDJuVk2A7sUaCFl1YwDQ0OVSh.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Família, Ficção científica[/COLOR]\nGru mudou radicalmente sua vida e se dedica às filhotas Agnes, Edith e Margo, deixando de lado os tempos de vilão. Ele só não contava que seu passado fosse responsável pelo seu recrutamento pela Liga Antivilões para salvar o mundo na companhia da agente Lucy. Juntos, eles precisam localizar o criminoso que roubou a fórmula PX41 e Gru desconfia que seu antigo concorrente El Macho possa ser o responsável.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Meu Malvado Favorito (2010)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01ldS5NYWx2YWRvLkZhdm9yaXRvLjIwMTAubXA0",
+      "imagem": "https://image.tmdb.org/t/p/original/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/vJn2FALh5Ny4NxXxFk9QezwwB7w.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Crime, Ficção científica, Família[/COLOR]\nUm homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Minions (2015)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01pbmlvbnMuMjAxNS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/92R6YRQXySRYdgw1Jv1z5dVCIhn.png",
+      "sinopse": "[COLOR yellow]Família, Animação, Aventura, Comédia[/COLOR]\nSeres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill, que ambiciona ser a primeira mulher a dominar o mundo.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01pbmlvbnMuMjAxNS5Gb3JjZWQuc3J0",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Rei Leão (2019)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL08uUmVpLkxlYW8uMjAxOS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/wrHr8eEJYDAA7WYybyH162s4oZ4.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/c0wvcqLOnW2WoTXdUgNaaD0v9O1.png",
+      "sinopse": "[COLOR yellow]Aventura, Drama, Família, Animação[/COLOR]\nSimba é um jovem leão cujo destino é se tornar o rei da selva. Entretanto, uma armadilha elaborada por seu tio Scar faz com que Mufasa, o atual rei, morra ao tentar salvar o filhote. Consumido pela culpa, Simba deixa o reino rumo a um local distante, onde encontra amigos que o ensinam a mais uma vez ter prazer pela vida.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Shrek Para Sempre (2010)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1NocmVrLlBhcmEuU2VtcHJlLjIwMTAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uzzTystB8lL0mRDII5Sfs5HxgkI.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/qMAeXPi7Rh5gsnH4yuODAa7M795.png",
+      "sinopse": "[COLOR yellow]Comédia, Aventura, Fantasia, Animação, Família[/COLOR]\nShrek faz um pacto com Rumpelstiltskin para sentir-se como um ogro de verdade novamente, mas ele é enganado e enviado para uma versão distorcida de Tão, Tão Distante - onde Rumpelstiltskin é rei, ogros são caçados, e ele e Fiona nunca se encontraram - ele decide restaurar o seu mundo e recuperar seu verdadeiro amor.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Shrek Terceiro (2007)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1NocmVrLlRlcmNlaXJvLjIwMDcubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/abw1mIJIjG9X3xSEffE9siLcOkN.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bFncQlOjLkTBFs44nBXrtOMj3fU.png",
+      "sinopse": "[COLOR yellow]Fantasia, Aventura, Animação, Comédia, Família[/COLOR]\nO rei Harold, pai de Fiona, morre repentinamente. Com isto Shrek precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro e o Gato de Botas, ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie, um jovem desprezado por todos em sua escola, que é primo de Fiona.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Shrek 2 (2004)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1NocmVrLjIuMjAwNC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+      "clearlogo": "",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Família, Fantasia, Romance[/COLOR]\nApós se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro. Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe, a quem havia sido prometida, e enviam o Gato de Botas para separá-los.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Shrek (2001)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1NocmVrLjIwMDEubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/wxeqfC221YMptRRdzxlijAh7q8l.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+      "clearlogo": "",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Fantasia, Aventura, Família[/COLOR]\nEm um pântano distante vive Shrek, um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada. Todos eles foram expulsos de suas casas pelo maligno Lorde Farquaad. Determinado a recuperar a tranquilidade, Shrek faz um acordo com Farquaad: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro resgatarem uma princesa que foi aprisionada por um dragão.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Toy Story 4 (2019)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1RveS5TdG9yeS40LjIwMTkubXA0",
+      "imagem": "https://image.tmdb.org/t/p/original/csiyO6q8rR74pfgJDjwINzhoick.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/xrTa6Y59uC1rURuGHllbzH5Qz2c.png",
+      "sinopse": "[COLOR yellow]Família, Comédia, Animação, Aventura[/COLOR]\nAgora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Garfinho, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Garfinho fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Toy Story 3 (2010)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1RveS5TdG9yeS4zLjIwMTAubXA0",
+      "imagem": "https://image.tmdb.org/t/p/original/rf67AeS9nP8DD7dZYbvhjEVoIBf.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/rtVRqcMq5zbimjlp2Dw1NbG9FeH.png",
+      "sinopse": "[COLOR yellow]Animação, Família, Comédia[/COLOR]\nWoody, Buzz e o resto dos brinquedos de Andy não são usados há anos. Com Andy prestes a ir para a faculdade, o grupo acaba por ser deixado acidentalmente numa creche. Os brinquedos devem se unir para escapar e voltar para casa de Andy.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Toy Story 2 (1999)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1RveSUyMFN0b3J5LjIuMTk5OS5tcDQ=",
+      "imagem": "https://image.tmdb.org/t/p/original/xVhEI1WCgNCCa5I86AqiwuZoog3.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/e1gUNSkn6yiSCk3UTlhuPCyKHEg.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Família[/COLOR]\nQuando Andy viaja para um acampamento de verão, Woody é sequestrado por Al, um ambiocioso colecionador, que precisa do brinquedo favorito de Andy para completar sua coleção da Gangue do Rodeio. Junto com Jessie, Bala no Alvo e Mineiro, Woody corre o risco de ter que passar o resto de sua vida em exposição num museu. Agora, Buzz, Sr. Cabeça de Batata, Porquinho, Rex e Slinky terão que salvar seu amigo e trazê-lo de volta à vida de brinquedos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Toy Story: Um Mundo de Aventuras (1995)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL1RveS5TdG9yeS4xOTk1Lm1wNA==",
+      "imagem": "https://image.tmdb.org/t/p/original/686F0CEPmI4ZXjFbWtIHQOBwnfI.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/nh1Cmd11NvmXJWY2VFX4VLcUCoX.png",
+      "sinopse": "[COLOR yellow]Família, Comédia, Animação, Aventura[/COLOR]\nBuzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
       "legenda": "",
       "tipo": "filme"
     }
