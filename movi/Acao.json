@@ -1,5 +1,15 @@
 {
   "episodios": [
+        {
+      "nome": "O Último Conquistador (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLlVsdGltby5Db25xdWlzdGFkb3IuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9gWrxuOJeArUbvnqrZALSjhPv9Y.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/mrGDz2u9KcD93jj6StaPQ3K6IA6.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Guerra[/COLOR]\nCom o colapso do Império Mongol, um guerreiro marcado pela guerra encara o próprio destino e rompe lealdades para proteger o futuro da Rota da Seda.",
+      "legenda": "",
+      "tipo": "filme"
+    },
     {
       "nome": "O Último Grande Assalto (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLlVsdGltby5HcmFuZGUuQXNzYWx0by4yMDI2Lm1rdg==",
