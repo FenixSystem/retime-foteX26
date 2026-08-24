@@ -51,6 +51,26 @@
       "tipo": "filme"
     },
     {
+      "nome": "Moana 2 (2024)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01vYW5hLjIuMjAyNC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/dnqgkKoIGf6hErzRm6VtaK1OJrD.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vYqt6kb4lcF8wwqsMMaULkP9OEn.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2v8qAztkmqQcKUbj0a1s86dT8wo.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família, Fantasia[/COLOR]\nDepois de receber um chamado inesperado de seus ancestrais navegadores, Moana vai viajar para mares distantes da Oceania, em águas perdidas em uma aventura perigosa.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Moana: Um Mar de Aventuras (2016)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01vYW5hLlVtLk1hci5kZS5BdmVudHVyYXMuMjAxNy5tcDQ=",
+      "imagem": "https://image.tmdb.org/t/p/original/4rxEeTzN1oZPJo1GBoPOnA3NeJv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/qLVNZFHYUR6Li64He67SWl6BHQe.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8wQpKywzeAF2VYsBwEW52IC9IXY.png",
+      "sinopse": "[COLOR yellow]Aventura, Comédia, Família, Animação[/COLOR]\nMoana Waialiki é uma corajosa jovem, filha do chefe de uma tribo na Oceania, vinda de uma longa linhagem de navegadores. Querendo descobrir mais sobre seu passado e ajudar a família, ela resolve partir em busca de seus ancestrais, habitantes de uma ilha mítica que ninguém sabe onde é. Acompanhada pelo lendário semideus Maui, Moana começa sua jornada em mar aberto, onde enfrenta terríveis criaturas marinhas e descobre histórias do submundo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Carros (2006)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0NhcnJvcy4yMDA2Lm1rdg==",
       "imagem": "https://image.tmdb.org/t/p/original/A7nssMRIPauZhEVf2dzwsf4EALO.jpg",
