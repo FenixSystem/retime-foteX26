@@ -121,6 +121,26 @@
       "tipo": "filme"
     },
     {
+      "nome": "Frozen II (2019)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0Zyb3plbi4yLjIwMTkubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/yK9wazsgpZ9QfmITC96biaMzndV.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/AoSZyb37ljMAxw0RdeQEBHKtgcc.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/dQgPJPbzc56JWzxQ0ZM8dVaRX6t.png",
+      "sinopse": "[COLOR yellow]Família, Animação, Aventura, Comédia, Fantasia[/COLOR]\nElsa, Anna, Kristoff, Olaf e Sven se aventuram na floresta encantada e nos mares escuros além de Arendelle – onde Elsa descobre não apenas a verdade sobre seu passado, mas uma ameaça ao seu reino.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Frozen: Uma Aventura Congelante (2013)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0Zyb3plbi4yMDEzLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/hOZKUJGN0m717LRSQDxhgABqWrf.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/kOc5QAmMzT3zsyVSjCuN1e5SmgG.png",
+      "sinopse": "[COLOR yellow]Animação, Família, Aventura, Fantasia[/COLOR]\nA destemida e otimista Anna sai em uma jornada épica, ao lado de Kristoff e sua leal rena Sven, para encontrar sua irmã Elsa, cujos poderes congelantes aprisionaram o reino de Arendelle em um inverno eterno. Encontrando condições de Everest, trolls místicos e um hilário boneco de neve chamado Olaf, Anna e Kristoff enfrentam obstáculos em uma corrida para salvar o reino.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0Zyb3plbi4yMDEzLkZPUkNFRC5zcnQ=",
+      "tipo": "filme"
+    },
+    {
       "nome": "Minions 2: A Origem de Gru (2022)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01pbmlvbnMuMi5BLk9yaWdlbS5kZS5HcnUuMjAyMi5ta3Y=",
       "imagem": "https://image.tmdb.org/t/p/original/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg",
