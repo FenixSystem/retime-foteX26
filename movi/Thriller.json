@@ -1,4 +1,6 @@
 {
+  "episodios": [
+{
       "nome": "Última Parada (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy91bHRpbWEuUGFyYWRhLjIwMjYubWt2",
       "imagem": "https://image.tmdb.org/t/p/original/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg",
@@ -17,4 +19,6 @@
       "sinopse": "[COLOR yellow]Thriller, Crime[/COLOR]\nAva tenta se endireitar após sair da prisão, mas sua irmã gêmea é assassinada e, sendo testemunha do tiroteio, ela é forçada a fugir para salvar sua vida.",
       "legenda": "",
       "tipo": "filme"
-    },
+    }
+]
+}
