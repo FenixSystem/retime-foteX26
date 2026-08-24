@@ -219,6 +219,36 @@
       "sinopse": "[COLOR yellow]Família, Comédia, Animação, Aventura[/COLOR]\nBuzz Lightyear é o novo e sofisticado astronauta de brinquedo do garoto Andy. Buzz não imaginava que encontraria um rival: Woody, um cowboy de brinquedo que, dominado pelo ciúme, acredita ter perdido um lugar precioso no coração do seu dono. Os dois brinquedos vivem brigando até que vão parar nas garras do vizinho, um verdadeiro destruidor de brinquedos. Agora, mais do que nunca, Buzz e Woody precisam precisam se unir para escapar do perigo. Com a ajuda de seus amigos da caixa de brinquedos, eles vão viver uma incrível aventura.",
       "legenda": "",
       "tipo": "filme"
+    },
+    {
+      "nome": "Madagascar 3: Os Procurados (2012)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01hZGFnYXNjYXIuMy5Pcy5Qcm9jdXJhZG9zLjIwMTIubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/bPRvFj9MGeLeqidaTniUf8yQ0PW.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uDR9UjSuykTL8g3N3bh3siZ4n3C.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/25A2GSR2myKYlXq2V9e3Vc654xY.png",
+      "sinopse": "[COLOR yellow]Animação, Família, Comédia, Aventura[/COLOR]\nOs amigos Alex, Marty, Melman, Gloria, rei Julien e os pinguins deixam o continente africano rumo à Europa. Eles vão parar em Mônaco, onde passam a ser perseguidos por uma obcecada agente de controle animal. Em plena fuga, o grupo encontra abrigo em um circo em crise. Logo eles passam a ajudá-lo, iniciando um processo de revitalização que poderá levá-los a uma turnê nos Estados Unidos e, consequentemente, de volta para casa.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Madagascar 2 (2008)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01hZGFnYXNjYXIuMi5BLkdyYW5kZS5Fc2NhcGFkYS4yMDA4Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/xBOKF6ks8aFtvanyKPRfeZWErm.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3yXLkSTrVhG66MIAr3X6C4gjccw.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/i3ZC6yGV4qqKElaon7Qi7M5dJDO.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família[/COLOR]\nAlex e seus amigos tentam voltar para casa, mas o avião em que eles estavam cai no meio da savana africana. A partir daí, muitas aventuras acontecem nessa viagem selvagem de volta ao lar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Madagascar (2005)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01hZGFnYXNjYXIuMjAwNS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/9OFYnKQBdSfoSunwkImoTtYo9S9.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/uHjz0Ozrlo4dArVfRNWeu3gGThK.png",
+      "sinopse": "[COLOR yellow]Aventura, Animação, Comédia, Família[/COLOR]\nO leão Alex é a grande atração do zoológico do Central Park, em Nova York. Ele e seus melhores amigos, a zebra Marty, a girafa Melman e a hipopótamo Gloria, sempre passaram a vida em cativeiro e desconhecem o que é morar na selva. Curioso em saber o que há por trás dos muros do zoo, Marty decide fugir e explorar o mundo. Ao perceberem, Alex, Gloria e Melman decidem partir à sua procura. O trio encontra Marty na estação Grand Central do metrô, mas antes que consigam voltar para casa são atingidos por dardos tranquilizantes e capturados. Embarcados em um navio rumo à África, eles acabam na ilha de Madagascar, onde precisam encontrar meios de sobrevivência em uma selva verdadeira.",
+      "legenda": "",
+      "tipo": "filme"
     }
  
   ]
