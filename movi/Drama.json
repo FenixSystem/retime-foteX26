@@ -1,65 +1,105 @@
 {
   "episodios": [
+{
+      "nome": "18 Rosas (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy8xOC5Sb3Nhcy4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/1TApAJqCQekKeoRV1Nza2damyfz.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/txRa7DJvgCzm6nbnckF2c04IRCD.png",
+      "sinopse": "[COLOR yellow]Drama, Romance, Comédia[/COLOR]\nNeste romance de amadurecimento, o aluno novo entra em conflito com a garota mais popular da escola. Mas ele logo percebe que vai precisar dela para várias coisas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+{
+      "nome": "Agente Zeta (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BZ2VudGUuWmV0YS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ptcyGmBonW6mDQmrPhXbt6Rjrlp.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da \"Operação Ciénaga\" décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a \"Ciénaga\" do que ele.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Anjos da Guerra (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9Bbmpvcy5kYS5HdWVycmEuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/cbYQM3LVXHFjdRcw4thB0SszV0X.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eREQrp6Z9D32LdbcEOBB9CnK3FG.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/kdpLK6VmLqtULUz5Y57WJefdTrg.png",
+      "sinopse": "[COLOR yellow]Drama, História, Guerra[/COLOR]\nEm novembro de 1941, no início do rigoroso inverno, jovens atletas de barcos no gelo cruzam gelo fino em Leningrado. Entregar munição se transforma em salvar órfãos, unindo ex-rivais para sobreviver e trazer esperança.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Corta-fogo (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9Db3J0YS5mb2dvLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/6V0FLzciqJh7d1Y4zXyyqLAKnTs.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8nm9Q5Q6EdX4zhTh5yuFrNRZHub.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nA pequena Lide desaparece na floresta enquanto a família se prepara para deixar a casa. Agora, sua mãe precisa encontrá-la antes do incêndio que se aproxima.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Feras no Limite (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9GZXJhcy5uby5MaW1pdGUuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vIYxi7G0nK64cgiiVwSV0sFeQ7F.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8IKdznNUyygwmOa5wHk7YaLzk3l.png",
+      "sinopse": "[COLOR yellow]Drama, Aventura[/COLOR]\nInspirado em uma história real, este filme acompanha cinco amigos aventureiros que arriscam a vida voando de wingsuit e descobrem novas emoções.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Hungria: A Escolha de um Sonho (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9IdW5ncmlhLkEuRXNjb2xoYS5kZS51bS5Tb25oby4yMDI2Lk5BQ0lPTkFMLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/bwruAdJdxbZrUShcNJdPLz5QYwr.jpg",
+      "fanart": "",
+      "clearlogo": "https://image.tmdb.org/t/p/original/6ahD6JVyFOQtnrwPZj7JjewHGr0.png",
+      "sinopse": "[COLOR yellow]Drama[/COLOR]\nGustavo da Hungria cresceu com um sonho enquanto tudo ao redor conspirava contra ele. Enquanto o rap da época seguia um estilo próprio, Gustavo decide inovar, falando de carros, conquistas e ostentação. Essa escolha tem um preço: rejeição dentro do próprio movimento, pressão familiar e dificuldades que nunca parecem ter fim.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Trunfo (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9Ja2thLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/41SzF7q9iGfaa2hxnE9O9DD6t8P.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nCom a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Michael (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9NaWNoYWVsLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/gXh43JopeO8BlA661BvlkR6yeqs.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zEMrTq3hkBW70iPcGDozW44taIz.png",
+      "sinopse": "[COLOR yellow]Drama, Música[/COLOR]\nA história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Refúgio (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLlJlZnVnaW8uMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/rbFqLPKj6D2JyRh5mOfA7jqX0Qk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wxom2NHhkU29TCJXCz2HfGGKSAa.png",
+      "sinopse": "[COLOR yellow]Drama, Ação, Thriller[/COLOR]\nQuando a vida tranquila numa ilha remota chega ao fim com a volta de um ex-capitão vingativo, uma habilidosa ex-pirata precisa confrontar seu passado sangrento e usar seu talento mortal para salvar a família de um cerco implacável.",
+      "legenda": "",
+      "tipo": "filme"
+    },
     {
       "nome": "‎Um Grande Despertar (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjc5MDI5MGY1MDk5OWEzMzczMWE4MzNhZGU4NmI5OWJlMTU0MTk4ZWE=",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9VbS5HcmFuZGUuRGVzcGVydGFyLjIwMjYubWt2",
       "imagem": "https://image.tmdb.org/t/p/original/qZf42h6r8BSkVTCBtTXTELcgTV1.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/iQodpfb5trczzmqxAgnsUYPw2rv.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/izUzO8KBLTCS7c8Cge46aKqoRUo.png",
       "sinopse": "[COLOR yellow]Drama, História[/COLOR]\nEm meio às tensões que antecedem a Revolução Americana, o carismático pregador George Whitefield e o cético Benjamin Franklin desenvolvem uma amizade improvável. Enquanto os sermões de Whitefield inspiram milhares de pessoas durante o movimento conhecido como Grande Despertar, Franklin ajuda a espalhar sua mensagem, e juntos acabam influenciando um período decisivo da história dos Estados Unidos. Baseado em fatos reais.",
       "legenda": "",
       "tipo": "filme"
-    },
-    {
-      "nome": "Última Parada (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjQxZjZhMmU5MjI3NmI0YjY3ZTliN2Q5YTQwMDM4ZjFkMzYwZGNhOWU=",
-      "imagem": "https://image.tmdb.org/t/p/original/Aqt0yVqtkDuBtOeY0UHLtfYhzN9.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/nwIfcILrAFbFN1ITrQidDRKN2Lz.png",
-      "sinopse": "[COLOR yellow]Thriller[/COLOR]\nOscar, Simon e Aïssa, três amigos de infância, viajam a Paris para celebrar boas notícias. No ônibus noturno N121 de volta, uma troca entre passageiros escala e a situação sai do controle, transformando a viagem em um intenso thriller urbano.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-    {
-      "nome": "À Procura da Felicidade (2006)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjU3ZWNlYjVjMTg1NWVmNTNjMDgyNzk1YTVmMzE4NjM5ZjIxYzMzYWY=",
-      "imagem": "https://image.tmdb.org/t/p/original/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/5jhG1lTgV0MS6tDkBMQSSitttTT.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/iej1iI0zmjmmzJbOC51HAjvCRug.png",
-      "sinopse": "[COLOR yellow]Drama[/COLOR]\nChris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-    {
-      "nome": "Conspiradores (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk0MDVmYzE5NjQwM2M0MGQ0YmEyOThhNzRkZTU1YWIzNGQxMzFjNmE=",
-      "imagem": "https://image.tmdb.org/t/p/original/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/5aZDrYijdGaSVIVIPfz4m0ACc0T.png",
-      "sinopse": "[COLOR yellow]Thriller, Drama, Mistério[/COLOR]\nApós a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-    {
-      "nome": "Sua Culpa: Londres (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjEzMjM4RTM5ODc3RDFERTI0NkY0RjIxMDVDQjZBQTJDMjVCNjIwNEI=",
-      "imagem": "https://image.tmdb.org/t/p/original/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/uWnBAqtQlSTTYUMehyvL9CoZrTq.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/wdvX4vhSV5iac1Q5o6Ntpg31p2p.png",
-      "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nNick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
-      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L1lvdXIuRmF1bHQuTG9uZG9uLjIwMjYuc3J0",
-      "tipo": "filme"
-    },
-   {
-      "nome": "Michael (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk1YmJhZjI1ZDUyYzYxY2JhMTM0NTRlNTczOWU2YzVlMTBiZmNhN2E=",
-      "imagem": "https://image.tmdb.org/t/p/original/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/zEMrTq3hkBW70iPcGDozW44taIz.png",
-      "sinopse": "[COLOR yellow]Música, Drama[/COLOR]\nA história da vida de Michael Jackson além da música, traçando sua jornada desde a descoberta de seu talento extraordinário como líder dos Jackson Five até o artista visionário cuja ambição criativa impulsionou uma busca implacável para se tornar o maior artista do mundo.",
-      "legenda": "aHR0cHM6Ly9naXRodWIuY29tL0Zlbml4U3lzdGVtL3JldGltZS1mb3RlWDI2L3Jhdy9yZWZzL2hlYWRzL21haW4vdnZ0L01JQ0hBRUwuc3J0",
-      "tipo": "filme"
-    } 
+    }
 
   ]
 }
