@@ -1,65 +1,95 @@
 {
   "episodios": [
-  {
+      {
       "nome": "A Boca do Diabo (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmNlNmQ3MTMxZTI5MzM1MzlmYmJhZWE0Yzc1MzdhMTVlNjIxNTI5MTk=",
-      "imagem": "https://image.tmdb.org/t/p/original/kchMolHk6l6rPo460y4MQMzF2j9.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/w8z3ThhLehGPJuAShostzeKxJvK.jpg",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BLkJvY2EuZG8uRGlhYm8uMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/2CZecxLrTSmzngWqIGganSMg6gK.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4wmvU2Px3C8v3qqyNpBmgJrWQEx.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/tTG2ovQRnhe9NX39XUZoiOu4BYZ.png",
-      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nCinco amigos exploram as cavernas da Boca do Diabo, na Tailândia, para uma última aventura antes de começar a vida real. Mas logo descobrem que há algo mortal à espreita embaixo d'água.… veloz, silencioso e letal. Na escuridão sufocante, a confiança se desfaz, o pânico se espalha e cada passo errado se torna uma luta pela sobrevivência.",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nCinco amigos exploram as cavernas da Boca do Diabo, na Tailândia, para uma última aventura antes de começar a vida real. Mas logo descobrem que há algo mortal à espreita embaixo d'água.... veloz, silencioso e letal. Na escuridão sufocante, a confiança se desfaz, o pânico se espalha e cada passo errado se torna uma luta pela sobrevivência.",
       "legenda": "",
       "tipo": "filme"
-    },  
- {
+    },
+    {
       "nome": "A Fera do Pântano (2026)",
-      "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2215e6b791456856933ec755bc83b606d332103f",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BLkZlcmEuZG8uUGFudGFuby4yMDI2Lm1rdg==",
       "imagem": "https://image.tmdb.org/t/p/original/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/ikyzq678qnHtRY8ZiQJzK4hiOyW.jpg",
-      "clearlogo": "",
-      "sinopse": "[COLOR yellow]Thriller, Terror[/COLOR]\nUm grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
+      "fanart": "https://image.tmdb.org/t/p/original/sUfwD6yMR740c2xvYopzv6JqOL3.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/eZNYzB8ks9ncB1WIN7GQRYjqsA1.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nUm grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
       "legenda": "",
       "tipo": "filme"
-    },   
- {
-      "nome": "undertone (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmZlN2RlMzJhMjc5Zjk4M2E1YjA5OWE2YmFmMDIzMzg3MmRlZGE2OTk=",
-      "imagem": "https://image.tmdb.org/t/p/original/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/711jYfJrsY5x2R0Yh0pFeJTPWA7.jpg",
-      "clearlogo": "",
-      "sinopse": "[COLOR yellow]Terror, Mistério[/COLOR]\nA apresentadora de um popular podcast paranormal passa a ser assombrada por gravações aterrorizantes misteriosamente enviadas a ela.",
+    },
+    {
+      "nome": "A Última Casa (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BLlVsdGltYS5DYXNhLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/AqOwuZ4X0Ssi3LIsYqXNw52IIvW.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wBJqtq4PuQPEV0j4kZe3VQixH78.png",
+      "sinopse": "[COLOR yellow]Terror, Ficção científica, Thriller[/COLOR]\nUma família trancada misteriosamente na própria casa precisa se unir para sobreviver à escassez de recursos e à força sombria que a mantém presa.",
       "legenda": "",
       "tipo": "filme"
-    },   
- {
-  "nome": "Terror em Silent Hill: Regresso para o Inferno (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e4a28f55f09ef87b662973c818ad3ccc5c6fb79&",
-  "imagem": "https://image.tmdb.org/t/p/original/7aoMkiW85yn54oga0jHTzAkXgj3.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/uzteIXZd8Cgmjb0wuNoZBzUnksz.png",
-  "sinopse": "[COLOR yellow]Terror, Mistério[/COLOR]\nQuando uma carta misteriosa chama James de volta a Silent Hill em busca de seu verdadeiro amor, ele encontra uma cidade antes reconhecível, transformada por um mal desconhecido. À medida que James se aprofunda na escuridão, ele encontra figuras aterrorizantes, tanto familiares quanto novas, e começa a questionar sua própria sanidade enquanto luta para entender a realidade e se manter firme por tempo suficiente para salvar seu amor perdido. ",
-  "legenda": "",
-  "tipo": "filme"
- },   
- {
-  "nome": "Pânico 7 (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dde95d297033485d2587f76af84df32cfcd47fd3&",
-  "imagem": "https://image.tmdb.org/t/p/original/rEevavl5vebCVEd5imx7D1k8nmV.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/5g72qKCTW85O3MPmnyfYRNp0Ak5.png",
-  "sinopse": "[COLOR yellow]Terror, Mistério, Suspense[/COLOR]\nQuando um novo Ghostface surge na pacata cidade onde Sidney Prescott reconstruiu sua vida, seus medos mais sombrios se tornam reais enquanto sua filha se torna o próximo alvo do assassino. Determinada a proteger sua família, Sidney terá que enfrentar os horrores do seu passado para acabar com o massacre de uma vez por todas. ",
-  "legenda": "",
-  "tipo": "filme"
- },   
-{
-  "nome": "Ataque Brutal (2026)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0315e3403e59d13fd508ef9fcfb6e5ef0bdbcdec&",
-  "imagem": "https://image.tmdb.org/t/p/original/fK4lTlqtiaeyoiPBoDF52ZikGyK.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/sd8CA6b4jzoJtFOHYIIGr8Z6EWn.png",
-  "sinopse": "[COLOR yellow]Terror, Suspense|[/COLOR]\nEm meio a um furacão catastrófico, uma cidade costeira luta contra a ira da natureza e um ataque de tubarões. Enfrentando chuvas torrenciais, detritos e escuridão, se unem para sobreviver aos predadores mortais e sobreviver à tempestade. ",
-  "legenda": "",
-  "tipo": "filme"
- }
+    },
+    {
+      "nome": "Ataque Brutal (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BdGFxdWUuQnJ1dGFsLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/349RbnEbWd38iLlqzELTUppjSt2.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/hniERZojXCEc7Fp3yljZUigOAhm.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sfBOCtbfdKt7dZ5P0HgOaBiYBuF.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nApós um furacão catastrófico, os moradores de uma cidade lutam para sobreviver ao avanço das águas infestadas de tubarões vorazes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Casamento Sangrento: A Viúva (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9DYXNhbWVudG8uU2FuZ3JlbnRvLkEuVml1dmEuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/u6OwPW7mO8nrtJoC27W541bRQ8F.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/JS1qn9wGxhXBM3ARCiiETJmDDr.png",
+      "sinopse": "[COLOR yellow]Terror, Comédia[/COLOR]\nA noiva retorna em uma nova e sinistra rodada do tradicional jogo de esconde-esconde, agora com elementos sobrenaturais e demoníacos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Enterrando os Mortos (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9FbnRlcnJhbmRvLm9zLk1vcnRvcy4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/x6H4DtBRIfwTcOIK64R8pSXNpvN.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/31Pc5gJ9TUwFs4T1wnOSG8U8oK7.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nUm desastre militar catastrófico não apenas trouxe os mortos de volta à vida, como os transformaram em caçadores. Após a declaração do exército de que as criaturas eram lentas e inofensivas, Ava entra numa zona de quarentena a procura de seu marido mas acaba descobrindo a terrível verdade: os mortos-vivos estão se tornando cada vez mais perigos e violentos ao passar de cada segundo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Extermínio: O Templo dos Ossos (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9FeHRlcm1pbmlvLk8uVGVtcGxvLmRvcy5Pc3Nvcy4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/eB3ZLyKG6KO8bnmdqFYchiW2mlP.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller, Ficção científica[/COLOR]\nDr. Kelson se vê envolvido num novo relacionamento chocante – com consequências que podem mudar o mundo como eles o conhecem – e o encontro de Spike com Jimmy Crystal se torna um pesadelo do qual ele não consegue escapar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maldição da Múmia (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9NYWxkaWNhby5kYS5NdW1pYS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/fI6XBw8k5CWNwxLEYZwpjA89TPg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/rt3B3G4ZJsuMU7EyQwJM0RWcDXr.png",
+      "sinopse": "[COLOR yellow]Terror, Mistério[/COLOR]\nA filha de um jornalista desaparece num deserto sem deixar rastros, deixando a família dilacerada e em luto. Até que, oito anos mais tarde, a jovem garota reaparece, deixando todos chocados. O problema é que esse encontro aparentemente feliz se transforma em um pesadelo de proporções gigantes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Passageiro do Mal (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9QYXNzYWdlaXJvLmRvLk1hbC4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2wdMrwQHQ28q69IMvqmc3SUAL8W.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nDurante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "legenda": "",
+      "tipo": "filme"
+    },
 
   ]
 }
