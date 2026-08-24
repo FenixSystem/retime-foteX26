@@ -171,6 +171,16 @@
       "tipo": "filme"
     },
     {
+      "nome": "Monstros S.A. (2001)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01vbnN0cm9zLlMuQS4yMDAxLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/5p6cdAeUevsLOX0oI1T4JIul4QO.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/lr3OwmjV4mYwMsbJtHssvjZsava.png",
+      "sinopse": "[COLOR yellow]Animação, Comédia, Família, Fantasia[/COLOR]\nO astro do susto, Sulley, e seu falante assistente, Mike, trabalham na Monstros S.A., a maior fábrica de processamento de gritos da cidade de Monstrópolis. A principal fonte de energia do mundo dos monstros provém da coleta dos gritos das crianças humanas. Os monstros acreditam que as crianças são tóxicas, e entram em pânico quando uma menininha invade seu mundo. Sulley e Mike fazem de tudo para levar a garota de volta para casa, mas enfrentam desafios monstruosos e algumas situações hilárias em suas atrapalhadas aventuras.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Minions 2: A Origem de Gru (2022)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL01pbmlvbnMuMi5BLk9yaWdlbS5kZS5HcnUuMjAyMi5ta3Y=",
       "imagem": "https://image.tmdb.org/t/p/original/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg",
