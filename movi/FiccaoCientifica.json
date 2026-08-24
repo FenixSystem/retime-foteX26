@@ -1,12 +1,32 @@
 {
   "episodios": [
     {
-      "nome": "Tron: Ares (2025)",
-      "url": "aHR0cDovLzE1OC42OS4yNDcuNzg6MjYyNi9zdHJlYW0vVHJvbi5BcmVzLjIwMjUuV0VCLURMLjEwODBwLngyNjQuRFVBTC41LjEtU0YubWt2P2xpbms9Y2IxNmJiYTljOWZkZmZkYzMyNjQ2MTZhMmI3N2I5Zjk0OTE0ZTRkOCZpbmRleD00JnBsYXk=",
-      "imagem": "https://image.tmdb.org/t/p/original/zRjRAxrPA4JFadT6SQaV3N10ZcO.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/esSXybFAmQH3G85QABqZuyRCIUN.png",
-      "sinopse": "[COLOR yellow]Ficção científica, Aventura, Ação[/COLOR]\nUm programa de IA altamente avançado chamado Ares (Jared Leto) que é enviado do mundo digital (A Grade) para o mundo real em uma missão perigosa, sendo o primeiro encontro da humanidade com inteligência artificial que transcende o ciberespaço, explorando temas de consciência e a linha tênue entre homem e máquina em meio a uma corrida tecnológica entre duas empresas, Dillinger e Encon",
+      "nome": "Dia D (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9EaWEuRC4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2pWpVRlXwZCBPwhZianV98lKm4D.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Thriller[/COLOR]\nO mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Em Um Piscar de Olhos (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9FbS51bS5QaXNjYXIuZGUuT2xob3MuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/460xBh6sxhl80TldOgaZSFc6Syq.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/24kg8zjwTkpiXV1PRwatxdJHdIj.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Drama[/COLOR]\nTrês histórias que atravessam milênios se cruzam, refletindo sobre esperança, conexão e o ciclo da vida.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Justiça Artificial (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9KdXN0aWNhLkFydGlmaWNpYWwuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/vI7bNC07BaSEvZ9ATzV57wpAYwQ.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gIClklFGYBe0uiOoiP2vtocJbss.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/Ak7kolcNMcILQrSgWmT7PtAbpQg.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller[/COLOR]\nEm um futuro próximo, um detetive é acusado de assassinar a própria esposa. Ele tem 90 minutos para provar sua inocência à avançada justiça de Inteligência Artificial que ele mesmo ajudou a implementar.",
       "legenda": "",
       "tipo": "filme"
     }
