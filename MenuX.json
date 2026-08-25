@@ -6,9 +6,10 @@
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
         {
-          "nome": "4k",
+          "nome": "Cinema",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
           "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+          "sinopse": " A SUA SLA DE CINEMA ",
           "tipo": "serie"
         },
         {
