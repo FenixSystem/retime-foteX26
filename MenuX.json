@@ -7,12 +7,26 @@
       "sinopse": "[B][COLOR aqua]SALA DE CINEMA 1[/COLOR]\n[COLOR lime]SALA DE CINEMA 2[/COLOR]\nSALA DE CINEMA 3[/B]",
       "itens": [
         {
-          "nome": "Cinema",
+          "nome": "Sala Cinema 1",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
+          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+          "sinopse": "SALA DE CINEMA 1\nSALA DE CINEMA 2\nSALA DE CINEMA 3  ",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Sala Cinema 2",
           "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
           "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
           "sinopse": "SALA DE CINEMA 1\nSALA DE CINEMA 2\nSALA DE CINEMA 3  ",
           "tipo": "serie"
         }
+        {
+          "nome": "Sala Cinema 3",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
+          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+          "sinopse": "SALA DE CINEMA 1\nSALA DE CINEMA 2\nSALA DE CINEMA 3  ",
+          "tipo": "serie"
+        },
 ]
     },
     {
