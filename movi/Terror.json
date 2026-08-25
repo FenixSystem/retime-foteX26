@@ -100,6 +100,16 @@
       "legenda": "",
       "tipo": "filme"
     },
+        {
+      "nome": "De Olhos Bem Abertos (2025)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvRGUuT2xob3MuQmVtLkFiZXJ0b3MuMjAyNS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/mgteCoPVupMqCj9HjWcWki1gZjF.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/7U6sslMcPXPs9MIH5IvAl8ttTth.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/y9OngITejtqkCjpDh8bafgCTmaS.png",
+      "sinopse": "[COLOR yellow]Terror, Ficção científica, Thriller[/COLOR]\nUma jovem faz uma pausa em sua vida conturbada e consegue um emprego em uma torre de vigilância de incêndio, apenas para tomar uma reviravolta assustadora quando fenômenos sobrenaturais começam a se desenrolar.",
+      "legenda": "",
+      "tipo": "filme"
+    }
 
   ]
 }
