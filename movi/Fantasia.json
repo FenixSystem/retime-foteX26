@@ -1,12 +1,22 @@
 {
   "episodios": [
-{
-      "nome": "Descendentes: País das Maravilhas Malvado (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOmUxNThlOGUxOTk1ZTYyOGNlOGI4OTE2Y2Y1YzdjOTk4ZDQ5MTExYzU=",
-      "imagem": "https://image.tmdb.org/t/p/original/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/h98RJxKKt9QSM2dc1VdgUwtnRq7.png",
-      "sinopse": "[COLOR yellow]Fantasia, Família, Cinema TV[/COLOR]\nAgora que a Rainha de Copas é boazinha e a Cinderela está a salvo, tudo parece perfeito para Red e Chloe. Mal sabem elas que mudar o passado criou um novo vilão: Maddox Hatter. Quando Maddox captura a Rainha de Copas, Red e Chloe se unem à nova irmã de Red, Pink, a Luis, filho de Luisa Madrigal, e a Max, filho de Maddox. Juntos, eles precisam salvar a rainha e o País das Maravilhas.",
+    {
+      "nome": "O Aprendiz de Feiticeiro (2010)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvTy5BcHJlbmRpei5kZS5GZWl0aWNlaXJvLjIwMTAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/bYySizWljBGpNlulo6OHwciQQdv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/mtrfLUfUoQunolDhmQy0GfbRclC.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/tfECAJxiatv8WJYhfVP8225TveG.png",
+      "sinopse": "[COLOR yellow]Fantasia, Aventura, Ação[/COLOR]\nBalthazar Blake é um feiticeiro que mora em Manhattan. Ele busca defender a cidade de seu arquinimigo, Maxim Horvarth, mas não é capaz de cumprir esta tarefa sozinho. Para tanto ele recruta Dave Stutler, um rapaz comum, mas com um potencial oculto para ser seu aprendiz. Balthazar passa então a ministrar um rápido curso na arte e ciência da magia, de forma a torná-lo seu aliado na luta constante contra as forças de Horvarth.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+        {
+      "nome": "Como Treinar o Seu Dragão (2025)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvQ29tby5UcmVpbmFyLm8uU2V1LkRyYWdhby4yMDI1Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/nJreUuUhGP5mYYtgUs2dvbZoIvT.png",
+      "sinopse": "[COLOR yellow]Fantasia, Família, Ação, Aventura[/COLOR]\nNa montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking.",
       "legenda": "",
       "tipo": "filme"
     }
