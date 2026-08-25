@@ -1,22 +1,12 @@
 {
   "episodios": [
- {
-      "nome": "teste (2026)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BZ2VudGUuWmV0YS4yMDI2Lm1rdg==",
-      "imagem": "https://image.tmdb.org/t/p/original/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/5aZDrYijdGaSVIVIPfz4m0ACc0T.png",
-      "sinopse": "[COLOR yellow]Thriller, Drama, Mistério[/COLOR]\nApós a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "legenda": "",
-      "tipo": "filme"
-    },   
-{
-      "nome": "Conspiradores (2026)",
-      "url": "cGx1Z2luOi8vcGx1Z2luLnZpZGVvLmVsZW1lbnR1bS9wbGF5P3VyaT1tYWduZXQ6P3h0PXVybjpidGloOjk0MDVmYzE5NjQwM2M0MGQ0YmEyOThhNzRkZTU1YWIzNGQxMzFjNmE=",
-      "imagem": "https://image.tmdb.org/t/p/original/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/5aZDrYijdGaSVIVIPfz4m0ACc0T.png",
-      "sinopse": "[COLOR yellow]Thriller, Drama, Mistério[/COLOR]\nApós a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+    {
+      "nome": "Hypnotic: Ameaça Invisível (2023)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvSHlwbm90aWMuQW1lYWNhLkludmlzaXZlbC4yMDIzLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/qU5OoGW31ahW9ANZU5tIwmPydKC.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/d1Vu0DRCeJ43YX98UKMi9xJNwrR.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bOILShsoJlmsYMiJaKG53u4YNyz.png",
+      "sinopse": "[COLOR yellow]Mistério, Ficção científica, Thriller[/COLOR]\nUm detetive se envolve em um mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de crimes que distorcem a realidade.",
       "legenda": "",
       "tipo": "filme"
     }
