@@ -1,12 +1,22 @@
 {
   "episodios": [
+{
+      "nome": "Mestres do Universo (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9zdXBlcmhlcm9pcy9NZXN0cmVzLmRvLlVuaXZlcnNvLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/yQIdU11DYQQp0neGtGtGxbGfRer.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9Hjk0ZqdzUiJw1j5BBAcPNJAKra.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia, Ficção científica[/COLOR]\nAdam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
+      "legenda": "",
+      "tipo": "filme"
+    },
     {
-      "nome": "O Incrível Hulk (2008)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9zdXBlcmhlcm9pcy9PLkluY3IlYzMlYWR2ZWwuSHVsay4yMDA4Lm1rdg==",
-      "imagem": "https://image.tmdb.org/t/p/original/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/euwOg3SwHHCRLmGc1W3TEnQpZtg.png",
-      "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura[/COLOR]\nVivendo escondido e longe de Betty Ross, a mulher que ama, o cientista Bruce Banner busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross, seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.",
+      "nome": "Supergirl (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9zdXBlcmhlcm9pcy9TdXBlcmdpcmwuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Ficção científica[/COLOR]\nQuando um adversário implacável atinge alguém muito próximo dela, Kara Zor-El relutantemente une forças com uma companheira improvável em uma épica jornada interestelar de vingança e justiça.",
       "legenda": "",
       "tipo": "filme"
     }
