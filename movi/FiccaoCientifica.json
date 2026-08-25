@@ -29,6 +29,26 @@
       "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller[/COLOR]\nEm um futuro próximo, um detetive é acusado de assassinar a própria esposa. Ele tem 90 minutos para provar sua inocência à avançada justiça de Inteligência Artificial que ele mesmo ajudou a implementar.",
       "legenda": "",
       "tipo": "filme"
+    },
+        {
+      "nome": "Entre Montanhas (2025)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvRW50cmUuTW9udGFuaGFzLjIwMjUubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/7zL6RxMPmpPSdU5OTdVC4dtiKcr.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9nhjGaFLKtddDPtPaX5EmKqsWdH.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/s3pKTBqSpqsDbegMDyykaugnYAH.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Thriller[/COLOR]\nDois agentes altamente treinados se aproximam à distância após serem enviados para proteger lados opostos de um desfiladeiro misterioso. Quando um mal emerge, eles precisam trabalhar juntos para sobreviver ao que está lá dentro.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+       {
+      "nome": "Lilo & Stitch (2025)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvTGlsby5hbmQuU3RpdGNoLjIwMjUubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/m58Oxr3OZZbP2kTX2tj8TiAMLSv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/7Zx3wDG5bBtcfk8lcnCWDOLM4Y4.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/pnSzwPTvfpnUjE8AqZaiBb2GEoM.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Comédia[/COLOR]\nStitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
+      "legenda": "",
+      "tipo": "filme"
     }
   ]
 }
