@@ -1,6 +1,20 @@
 {
   "categorias": [
     {
+      "nome": "● [B]Cinema[/B] ●",
+      "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
+      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+      "itens": [
+        {
+          "nome": "Cinema",
+          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
+          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+          "sinopse": " A SUA SALA DE CINEMA ",
+          "tipo": "serie"
+        }
+]
+    },
+    {
       "nome": "● [B]Filmes[/B] ●",
       "imagem": "https://i.postimg.cc/v82f6zVM/movi.jpg",
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
