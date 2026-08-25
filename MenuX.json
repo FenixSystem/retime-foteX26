@@ -4,7 +4,7 @@
       "nome": "● [B]Cinema[/B] ●",
       "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
-      "sinopse": "[B]SALA DE CINEMA 1\nSALA DE CINEMA 2\nSALA DE CINEMA 3[/B]",
+      "sinopse": "[B][COLOR aqua]SALA DE CINEMA 1[/COLOR]\n[COLOR lime]SALA DE CINEMA 2[/COLOR]\nSALA DE CINEMA 3[/B]",
       "itens": [
         {
           "nome": "Cinema",
