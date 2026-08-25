@@ -9,7 +9,37 @@
       "sinopse": "[COLOR yellow]Aventura[/COLOR]\nPilar, uma jovem curiosa e exploradora, embarca com o melhor amigo Breno e o gato Samba numa missão na floresta amazônica. Lá, eles conhecem Maiara, uma jovem ribeirinha cuja comunidade foi destruída por madeireiros. No caminho, encontram Bira, um jovem pescador que conhece bem a floresta. Pilar e seus amigos partem em busca dos pais de Maiara, até que descobrem uma quadrilha de madeireiros que estão cortando árvores ilegalmente. Com a ajuda de uma tribo indígena e dos seres mitológicos, Pilar e seus amigos conseguem deter os madeireiros, mais decididos que nunca a salvar a natureza e a reflorestar o planeta.",
       "legenda": "",
       "tipo": "filme"
-    }
+    },
+        {
+      "nome": "Alfa (2018)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvQWxmYS4yMDE4Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/bhfrjfefZYngXXbt7773roQ599N.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/Gn7CHQKw5rgQrnVQhvGnlOaD8F.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wyJQ5xFAdbzefBjO06hAv4injsO.png",
+      "sinopse": "[COLOR yellow]Aventura, Drama[/COLOR]\nHá 20 mil anos, durante a Era do Gelo, a humanidade lutava em meio à selvageria por sobrevivência. Neste cenário, um rapaz se afasta de sua tribo e dá de cara com inimigos. Sua única chance de viver mais um dia é se aliar a uma criatura que quase o matou. Uma jornada de aprendizagem, luta, sobrevivência. Conheça a origem de um relacionamento que mudou nosso mundo para sempre.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+        {
+      "nome": "Anaconda (2025)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvQW5hY29uZGEuMjAyNS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/hRzpf8QELtzJnMt4SiDoFUmZ9KM.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/cfHwHczgqHx4LGf6a1W5xSbmCQB.png",
+      "sinopse": "[COLOR yellow]Aventura, Comédia, Terror[/COLOR]\nUma crise de meia-idade inspira Doug e Griff a irem até a floresta amazônica para refazer o filme favorito da juventude, mas tudo muda quando uma anaconda gigante de verdade aparece, transformando o cenário comicamente caótico em uma situação mortal. O filme que eles estão morrendo de vontade de fazer? Pode acabar matando-os.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+        {
+      "nome": "Dungeons & Dragons: Honra Entre Rebeldes (2023)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvRHVuZ2VvbnMuZS5EcmFnb25zLkhvbnJhLkVudHJlLlJlYmVsZGVzLjIwMjMubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/tt23D7Mkg0dHhsWn3aN0hbslaFw.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/5nHgD5bHXMHoRkbFPJOTqndYJmJ.png",
+      "sinopse": "[COLOR yellow]Aventura, Fantasia, Comédia[/COLOR]\nUm ladrão charmoso e um grupo de aventureiros improváveis empreendem um assalto épico para recuperar uma relíquia perdida, mas as coisas dão perigosamente errado quando eles entram em conflito com as pessoas erradas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
 
   ]
 }
