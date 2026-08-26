@@ -242,6 +242,22 @@
           "tipo": "serie"
         }
       ]
+      },
+      {
+  "nome": "● [B]Rádios[/B] ●",
+  "imagem": "https://i.postimg.cc/SK4Mp1wc/SERIESo1.jpg",
+  "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+  "itens": [
+    {
+      "nome": "Rádio Maricá (Radio Garden)",
+      "url": "http://radio.garden/api/ara/content/listen/KZ0TaR9b/channel.mp3",
+      "imagem": "https://i.postimg.cc/ncWGpXHq/Copilot-20260322-011929.png",
+      "sinopse": "[COLOR yellow]Transmissão ao vivo[/COLOR]\nCidade: Maricá - RJ\nOuça diretamente pelo Radio Garden.",
+      "tipo": "audio"
+    }
+  ]
+}
+
     }
   ]
 }
