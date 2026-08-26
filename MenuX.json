@@ -7,8 +7,8 @@
       "sinopse": "[B][COLOR aqua]SALA DE CINEMA 1[/COLOR]\n[COLOR lime]SALA DE CINEMA 2[/COLOR]\nSALA DE CINEMA 3[/B]",
       "itens": [
         {
-          "nome": "Sala Cinema 1",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
+          "nome": "Sala Cinema 1 [COLOR lime]4K[/COLOR]",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala1.json",
           "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
           "sinopse": "Realizadores: Jean-François Richet\nAtores: Jason Statham, Jason Wong, Annabelle Wallis\nDuração: 1h 35min\nGênero: Ação\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 16 anos",
           "tipo": "serie"
