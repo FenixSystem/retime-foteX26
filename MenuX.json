@@ -6,9 +6,9 @@
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
         {
-          "nome": "Sala Cinema 1 [COLOR lime]4K[/COLOR]",
+          "nome": "Sala Cinema 1 [COLOR lime]Código: Vingança 4K[/COLOR]",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala1.json",
-          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
+          "imagem": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
           "sinopse": "Realizadores: Jean-François Richet\nAtores: Jason Statham, Jason Wong, Annabelle Wallis\nDuração: 1h 35min\nGênero: Ação\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 16 anos",
           "tipo": "serie"
         },
