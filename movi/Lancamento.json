@@ -1,6 +1,56 @@
 {
   "episodios": [
     {
+      "nome": "O Homem que Sussurra (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLkhvbWVtLnF1ZS5TdXNzdXJyYS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wHWJ1d9hqZ2iY0057xoLm3I3m8r.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/j8Wy7e1yuJfTsC3LU0nAQKV44RJ.png",
+      "sinopse": "[COLOR yellow]Crime, Drama, Thriller[/COLOR]\nApós o sequestro de seu filho, um escritor de romances policiais pede ajuda ao pai, um detetive aposentado, e descobre uma ligação inesperada com um assassino em série condenado há décadas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "De Volta Aos Anos 90 (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9EZS5Wb2x0YS5Bb3MuQW5vcy45MC4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/pKgzdwNqFPKJNcibY37klP6ySqE.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wJaqJIBZB8D5rPTwQDnGyhTX6RB.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bSWpHrS4GfpShLVqL1NhuWsDHy4.png",
+      "sinopse": "[COLOR yellow]Romance, Comédia, Música[/COLOR]\nQuando uma falha misteriosa manda uma boy band para o ano de 1995, poucos dias antes da apresentação mais importante de suas vidas, os cinco amigos correm contra o tempo para voltar. Mas conexões inesperadas surgem e o passado os envolve cada vez mais, fazendo com que voltar para casa signifique enfrentar o que estão dispostos a deixar para trás e quem eles realmente são uns para os outros.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "The Mortuary Assistant (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9UaGUuTW9ydHVhcnkuQXNzaXN0YW50LjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/mc3nj2DI1MZeFoAR08zSRDxezzf.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sZ5Q6x8FJVuMEWj3iXcfchCtAzS.png",
+      "sinopse": "[COLOR yellow]Terror, Mistério[/COLOR]\nRebecca Owens, recém-formada em ciências mortuárias, aceita um emprego noturno na funerária River Fields. O que começa como um trabalho rotineiro logo se transforma em algo sinistro, à medida que ela se depara com forças sobrenaturais aterrorizantes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Convite (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLkNvbnZpdGUuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/mCRRIzvGBDkzmKpuS2MyejDHHCF.png",
+      "sinopse": "[COLOR yellow]Comédia, Drama, Romance[/COLOR]\nO casamento de Joe e Angela está por um fio. Quando eles convidam seus enigmáticos vizinhos do andar de cima para um jantar, a noite toma rumos inesperados.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Último Nascer do Sol (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLlVsdGltby5OYXNjZXIuZG8uU29sLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/osathK1mhwWim3LnzuqjsOSxovE.png",
+      "sinopse": "[COLOR yellow]Romance, Drama[/COLOR]\nRy é uma estudante universitária que convive com uma doença crônica. Durante uma viagem de férias para a ilha de Maiorca com a sua mãe, Ry se apaixona inesperadamente por Julián. À medida que aprende a se entregar ao presente, o agravamento de sua condição de saúde e segredos familiares guardados há anos ameaçam desmoronar tudo antes que o verão chegue ao fim.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "A Morte do Demônio: Em Chamas (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BLk1vcnRlLmRvLkRlbW9uaW8uRW0uQ2hhbWFzLjIwMjYubWt2",
       "imagem": "https://image.tmdb.org/t/p/original/3kd359Lz9w6vkEKKwgVXcmVTedw.jpg",
