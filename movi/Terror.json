@@ -1,5 +1,15 @@
 {
   "episodios": [
+        {
+      "nome": "The Mortuary Assistant (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9UaGUuTW9ydHVhcnkuQXNzaXN0YW50LjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/mc3nj2DI1MZeFoAR08zSRDxezzf.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sZ5Q6x8FJVuMEWj3iXcfchCtAzS.png",
+      "sinopse": "[COLOR yellow]Terror, Mistério[/COLOR]\nRebecca Owens, recém-formada em ciências mortuárias, aceita um emprego noturno na funerária River Fields. O que começa como um trabalho rotineiro logo se transforma em algo sinistro, à medida que ela se depara com forças sobrenaturais aterrorizantes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
     {
       "nome": "A Morte do Demônio: Em Chamas (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9BLk1vcnRlLmRvLkRlbW9uaW8uRW0uQ2hhbWFzLjIwMjYubWt2",
