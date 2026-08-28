@@ -1,5 +1,25 @@
 {
   "episodios": [
+    {
+      "nome": "O Homem que Sussurra (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLkhvbWVtLnF1ZS5TdXNzdXJyYS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wHWJ1d9hqZ2iY0057xoLm3I3m8r.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/j8Wy7e1yuJfTsC3LU0nAQKV44RJ.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nApós o sequestro de seu filho, um escritor de romances policiais pede ajuda ao pai, um detetive aposentado, e descobre uma ligação inesperada com um assassino em série condenado há décadas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+        {
+      "nome": "O Último Nascer do Sol (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLlVsdGltby5OYXNjZXIuZG8uU29sLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5lB7yPaRhJHQ9dx7AnvPUi0GZDU.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/osathK1mhwWim3LnzuqjsOSxovE.png",
+      "sinopse": "[COLOR yellow]Drama[/COLOR]\nRy é uma estudante universitária que convive com uma doença crônica. Durante uma viagem de férias para a ilha de Maiorca com a sua mãe, Ry se apaixona inesperadamente por Julián. À medida que aprende a se entregar ao presente, o agravamento de sua condição de saúde e segredos familiares guardados há anos ameaçam desmoronar tudo antes que o verão chegue ao fim.",
+      "legenda": "",
+      "tipo": "filme"
+    },
 {
       "nome": "18 Rosas (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy8xOC5Sb3Nhcy4yMDI2Lm1rdg==",
