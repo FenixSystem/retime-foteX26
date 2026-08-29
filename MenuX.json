@@ -120,6 +120,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/7uzE6sskGVmxCPq2VD9BvCpT8Yu.jpg",
           "sinopse": "[COLOR yellow]Aventura, Ficção científica, Ação e Terror[/COLOR]\nAlien vs. Predador (também conhecida como AVP) é uma série de filmes de ficção científica que reúne as criaturas homônimas das séries Alien e Predador.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Alien: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Alien.json",
+          "imagem": "https://image.tmdb.org/t/p/original/gWFHIY77cRVoBRGERwMHqpD27gc.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/q8blDNHTRWKCeJxL1LjN5bB8I72.jpg",
+          "sinopse": "[COLOR yellow]Terror e Ficção científica[/COLOR]\nA franquia de filmes de terror de ficção científica, com foco no personagem Tenente Ellen Ripley (Sigourney Weaver) e sua batalha com uma forma de vida extraterrestre, comumente referido como o alien. Produzido pela 20th Century Fox, a série começou com o filme de 1979 Alien: O Oitavo Passageiro, depois veio Aliens: O Resgate em 1996 seguido de Alien 3 em 1992, e por fim Alien: A Ressurreição em 1997.",
+          "tipo": "serie"
         }
         
         
