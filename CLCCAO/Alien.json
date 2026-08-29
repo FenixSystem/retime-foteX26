@@ -1,0 +1,44 @@
+{
+  "episodios": [
+    {
+      "nome": "Alien: O Oitavo Passageiro (1979)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9BbGllbi9BbGllbi4xOTc5Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/rFHzJrkO1kNIezb6rFog5oCJUEn.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/1Ghh8XEZuuwR0pjExA3rznK02td.png",
+      "sinopse": "[COLOR yellow]Terror, Ficção científica[/COLOR]\nQuando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Aliens: O Resgate (1986)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9BbGllbi9BbGllbnMuTy5SZXNnYXRlLjE5ODYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/dopA5H3VYKcTE1lDXkTwRx7uy2G.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/cZmqJyu70xnAkxhoEtuQ01IBg6F.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Ficção científica[/COLOR]\nCinquenta e quatro anos após escapar da \"Nostromo\", a tenente Ripley é encontrada a flutuar, perdida no espaço, ainda adormecida. De volta ao nosso planeta, ela conta tudo o que lhe aconteceu, mas ninguém acredita realmente nela, ou lhe parece dar crédito, até que uma colônia de humanos, criada no planeta onde ela encontrou o primeiro Alienígena, deixa de emitir comunicações subitamente. Ela então é convocada para auxiliar uma expedição militar ao local, sendo a única aparentemente consciente de que o pesadelo está longe do fim.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Alien³ (1992)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9BbGllbi9BbGllbi4zLjE5OTIubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/9TM6DMFUJju7GgvxAufZlNLDlki.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/lU0zVj8KcQVkPczdGGraYGiRC72.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/vLX1gger0xysHMhn1oMZho7R3QR.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Terror[/COLOR]\nA tenente Ripley é encarregada de ir a um planeta que é usado como colônia penal de segurança máxima. Este é o novo palco de assassinatos do Alien, que está matando tudo o que se move, menos a própria tenente Ripley, que aparentemente não é atacada pelo monstro.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Alien: A Ressurreição (1997)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9BbGllbi9BbGllbi5BLlJlc3N1cnJlaWNhby4xOTk3Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/lBQihuqaiRFZEzQh3M5uKXfmW15.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/zQI8yxl61JTpjCB3MrTbcQBOT82.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/nEGSeo6v1qlOjR5Ydq4Sr4Hv7kS.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Terror, Ação[/COLOR]\nDuzentos anos se passaram desde que Ripley sacrificou sua vida em Fiorina 161. Agora, depois de tanto tempo, e após sete pavorosos fracassos, os cientistas finalmente conseguiram clonar uma réplica perfeita de Ripley, o que inclui DNA da Rainha alienígena que se desenvolvia dentro dela quando Ripley morreu. Mas essa nova geração de aliens é muito mais inteligente do que foram seus antecessores - um fato que os cientistas só percebem após a nave The Betty ter chegado com mais hospedeiros humanos.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
