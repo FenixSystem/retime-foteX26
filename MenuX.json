@@ -114,61 +114,14 @@
       "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
       "itens": [
         {
-          "nome": "Maze Runner: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/MazeRunner.json",
-          "imagem": "https://image.tmdb.org/t/p/original/mbDTfE2eRShfWFandGZWcTkgNpO.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/eQ8iwAvGfuNnPjBCKTIVp5PsFw.jpg",
-          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nA série de filmes consiste em filmes de aventura, ação distópica de ficção científica com base na trilogia de livros Maze Runner do autor americano James Dashner. Eles começam com Thomas, que acorda preso em um labirinto com um grupo de outros meninos, ele não tem memória do mundo exterior além dos sonhos sobre uma organização conhecida como CRUEL. Somente juntando fragmentos de seu passado com pistas que ele descobre no labirinto, Thomas pode descobrir seu propósito e uma maneira de escapar.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Destruição Final: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/DestruicaoFinal.json",
-          "imagem": "https://image.tmdb.org/t/p/original/pgQu4N5ezDyXFXQrB8O4X4oJGca.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/1bWiBEEmdQCkdI4pQ5iVpURznxn.jpg",
-          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nUma série de filmes de ficção científica sobre desastres, que acompanha os esforços de uma família para sobreviver ao impacto de um cometa capaz de destruir o planeta.",
-          "tipo": "serie"
-        },
-             {
-          "nome": "Harry Potter: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Harry.Potter.json",
-          "imagem": "https://image.tmdb.org/t/p/original/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/hWK8gTH2riuv65Ej43hPSeE16Mu.jpg",
-          "sinopse": "[COLOR yellow]Aventura e Fantasia[/COLOR]\nAssista o fenômeno cinematográfico de uma vida em toda sua brilhante e alta definição. Redescubra o mundo de Harry Potter através de 7 filmes e de um processo de produção que durou uma década inteira. ",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Jurassic Park: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Jurassic.Park.json",
-          "imagem": "https://image.tmdb.org/t/p/original/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/njFixYzIxX8jsn6KMSEtAzi4avi.jpg",
-          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nUma série americana de filmes de aventura de ficção científica com base no romance do mesmo nome de Michael Crichton. Os filmes se centram na ilustre Isla Nublar, perto da Costa Rica, na Costa do Pacífico Centro-Americana, onde um filantropo bilionário e uma pequena equipe de cientistas genéticos criaram um parque de diversões de dinossauros clonados.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "John Wick: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/John.Wick.json",
-          "imagem": "https://image.tmdb.org/t/p/original/c3ZmwpkeLKrT8KONf9E0mKxALsg.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/fSwYa5q2xRkBoOOjueLpkLf3N1m.jpg",
-          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nUma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan John Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Avatar: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Avatar.json",
-          "imagem": "https://image.tmdb.org/t/p/original/up0L48w8u2eoEFE99mbrXvp0Owi.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg",
-          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nA Coleção Avatar conta a história do mundo de Pandora, habitado pelos humanóides indígenas, os Na'vi. O protagonista principal, Jake Sully, é enviado para Pandora como um avatar - um híbrido de humano e Na'vi. Durante sua missão, Jake descobre a beleza e a complexidade do mundo Na'vi e estabelece uma conexão profunda com os habitantes do planeta. A coleção centra-se no conflito entre os humanos e os Na'vi e na luta para salvar o mundo de Pandora.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Anjos da Noite: Coleção",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/Colecc/Underworld.json",
-          "imagem": "https://image.tmdb.org/t/p/original/eoxZtI96bM8kHginiTpFkeCqR7Z.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg",
-          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Ação[/COLOR]\nAnjos da Noite é uma coletânea composta por cinco filmes, estrelada por Kate Beckinsale, na personagem de Selene, uma vampira guerreira. Anjos da Noite (2003), Anjos da Noite: A Evolução (2006), Anjos da Noite: A Rebelião (2009), Anjos da Noite: O Despertar (2012) e Anjos da Noite: Guerras de Sangue (2016).",
+          "nome": "Alien vs. Predador: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Alien.Predador.json",
+          "imagem": "https://image.tmdb.org/t/p/original/bPJMLYhRZxXKrArJrEV9fT24YRj.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/7uzE6sskGVmxCPq2VD9BvCpT8Yu.jpg",
+          "sinopse": "[COLOR yellow]Aventura, Ficção científica, Ação e Terror[/COLOR]\nAlien vs. Predador (também conhecida como AVP) é uma série de filmes de ficção científica que reúne as criaturas homônimas das séries Alien e Predador.",
           "tipo": "serie"
         }
+        
         
 ]
     },
