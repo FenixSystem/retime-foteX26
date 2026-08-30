@@ -3,12 +3,13 @@
     {
       "nome": "● [B]Cinema em Casa[/B] ●",
       "imagem": "https://i.postimg.cc/XYR7w3BC/Cinema.jpg",
-      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+      "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
         {
           "nome": "Sala Cinema 1 [COLOR lime]Código: Vingança 4K LEGENDADO[/COLOR]",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala1.json",
           "imagem": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
+          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
           "sinopse": "Realizadores: Jean-François Richet\nAtores: Jason Statham, Jason Wong, Annabelle Wallis\nDuração: 1h 35min\nGênero: Ação\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 16 anos",
           "tipo": "serie"
         },
@@ -31,7 +32,7 @@
     {
       "nome": "● [B]Filmes[/B] ●",
       "imagem": "https://i.postimg.cc/Fsj1HMJs/filmes.png",
-      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+      "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
         {
           "nome": "Lançamentos",
@@ -111,7 +112,7 @@
     {
       "nome": "● [B]Coleções[/B] ●",
       "imagem": "https://i.postimg.cc/nrqVMmMX/colecoes.png",
-      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+      "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
         {
           "nome": "Alien vs. Predador: Coleção",
@@ -136,7 +137,7 @@
     {
       "nome": "● [B]Séries[/B] ●",
       "imagem": "https://i.postimg.cc/FHpRj0pJ/series.png",
-      "fanart": "https://i.postimg.cc/J4gVs9xr/fanart.jpg",
+      "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
         {
           "nome": "Lucky (2026)",
