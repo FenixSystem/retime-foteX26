@@ -12,21 +12,8 @@
           "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
           "sinopse": "Realizadores: Jean-François Richet\nAtores: Jason Statham, Jason Wong, Annabelle Wallis\nDuração: 1h 35min\nGênero: Ação\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 16 anos",
           "tipo": "serie"
-        },
-        {
-          "nome": "Sala Cinema 2",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
-          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
-          "sinopse": "SALA DE CINEMA 1\nSALA DE CINEMA 2\nSALA DE CINEMA 3  ",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Sala Cinema 3",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/movi/4cap.json",
-          "imagem": "https://i.postimg.cc/SQ8t1NWj/Copilot-20260418-160400.png",
-          "sinopse": "SALA DE CINEMA 1\nSALA DE CINEMA 2\nSALA DE CINEMA 3  ",
-          "tipo": "serie"
         }
+
 ]
     },
     {
