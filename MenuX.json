@@ -122,18 +122,11 @@
 ]
     },
     {
-      "nome": "● [B]Séries[/B] ●",
+      "nome": "● [B]Séries[/B] OFF●",
       "imagem": "https://i.postimg.cc/FHpRj0pJ/series.png",
       "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
-        {
-          "nome": "Lucky (2026)",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/serie/Lucky.json",
-          "imagem": "https://image.tmdb.org/t/p/original/gOiil3shHsojFVAY6b66vsAM9wk.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/rzedhNzerAZzWGGz1SWFqhmsBct.jpg",
-          "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nQuando um roubo dá errado, a vigarista Lucky é forçada a cair na estrada. Perseguida pelo FBI e por uma mafiosa implacável, Lucky deve lutar pela sua vida. E por uma saída.",
-          "tipo": "serie"
-        },
+
         {
           "nome": "Star Trek: Strange New Worlds (2022)",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/serie/Star.Trek.Strange.New.Worlds.json",
@@ -141,55 +134,8 @@
           "fanart": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
           "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nEm Star Trek: Strange New Worlds, o capitão Christopher Pike (Anson Mount) lidera a equipe do USS Enterprise pelos confins do universo em aventuras perigosas e intensas. Passando-se antes da trama da série original, Strange New Worlds explora mais profundamente o universo Star Trek antes da chegada do icônico Capitão Kirk (William Shatner). Pike, ainda inexperiente em liderar toda a Enterprise por conta própria, se apoia na ajuda de seus companheiros da nave, em especial Una Chin-Riley (Rebecca Romjin), segunda em comando depois dele. Além disso, ele conta a inteligência ímpar do popular personagem Spock (Ethan Peck), um alienígena meio humano meio vulcano.",
           "tipo": "serie"
-        },
-         {
-          "nome": "Stranger Things: Histórias de 85 (2026)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Stranger.Things.Tales.from.json",
-          "imagem": "https://image.tmdb.org/t/p/original/b5DNPTXVhiG4hiANRyAvPj21n6I.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/ulBGaxq9GmJexyEOi4Xci74g6Vt.jpg",
-          "sinopse": "[COLOR yellow]Animação, Aventura, Ficção[/COLOR]\nRetorne a Hawkins com Stranger Things: Histórias de 85, a nova série de animação do showrunner Eric Robles com produção executiva dos irmãos Duffer. No inverno de 1985, a cidade está coberta de neve e se recuperando dos horrores do Mundo Invertido. A vida de Onze, Mike, Will, Dustin, Lucas e Max volta ao normal, com direito a partidas de Dungeons & Dragons, guerras de bolas de neve e dias tranquilos. Contudo, algo terrível despertou sob o gelo. Ninguém sabe se sua origem é o Mundo Invertido, as profundezas do Laboratório de Hawkins ou algum outro lugar. Agora, nossos heróis precisam correr contra o tempo para solucionar esse mistério e salvar a cidade nesta nova história ambientada no universo de Stranger Things. ",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Monarch – Legado de Monstros (2023)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Monarch.json",
-          "imagem": "https://image.tmdb.org/t/p/original/dxe7rVZdfzIapZVHmAkXCBtb05I.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/7IY4wELVMvtUc78vPiuL8kQV2iA.jpg",
-          "sinopse": "[COLOR yellow]Ação, Aventura, Drama[/COLOR]\nDepois de sobreviver ao ataque do Godzilla em São Francisco, Cate volta a ficar abalada com um segredo chocante. Entre ameaças monstruosas, ela embarca numa aventura pelo mundo para saber a verdade sobre a sua família e sobre a organização misteriosa conhecida como Monarch. ",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Demolidor: Renascido (2025)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Demolidor.json",
-          "imagem": "https://image.tmdb.org/t/p/original/4qTAho3oy1XqZG8oFJok4LGR9mx.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/1Fsu4SQPQloCSdb3rETMPe8BMXs.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nMatt Murdock, um advogado cego com capacidades melhoradas, luta pela justiça através da sua popular firma de advogados, enquanto o antigo líder da máfia Wilson Fisk persegue os seus próprios objetivos políticos em Nova Iorque. Quando as identidades passadas de ambos começam a emergir, os dois homens acabam numa inevitável rota de colisão.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Pacificador (2022)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Pacificador.json",
-          "imagem": "https://image.tmdb.org/t/p/original/7OzNhrI8CwMkeTmqdVRPFZK2bkN.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/q7YHckbOAcGplmD3YIH7nMESQ2l.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nCriada por James Gunn, esta série dá continuidade à saga do Peacemaker, um herói/anti-herói presunçoso que acredita na paz a qualquer custo — mesmo que isso signifique matar quem for preciso. Depois de uma recuperação milagrosa do seu duelo com Bloodsport, o Peacemaker descobre rapidamente que a sua liberdade tem um preço.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Origem (2022)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/From.json",
-          "imagem": "https://image.tmdb.org/t/p/original/dhdZHpabPl7GZEaEtuhBUSerYqd.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/6gN8DYnIEln8v7OhRy61c57w0Xy.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nDos mesmos produtores de Lost, From acompanha o casal Jim e Tabitha Matthew e seus filhos Julie e Ethan. Durante uma viagem de trailer pelos Estados Unidos, eles acabam entrando em uma pequena cidade interiorana no meio-oeste americano. A princípio, tudo parece normal, mas, então, eles notam que não conseguem sair do vilarejo. Todo caminho que entram leva sempre ao mesmo lugar. Conversando com os outros moradores, eles decobrem que todos também chegaram a cidade da mesma foram e ficaram presos. Para piorar, a noite o lugar é cercado por misteriosas criaturas.",
-          "tipo": "serie"
-        },
-        {
-          "nome": "O Rastreador (2022)",
-          "url": "https://raw.githubusercontent.com/TugaTeamvod/retime-foteX26/refs/heads/main/serie/Tracker.json",
-          "imagem": "https://image.tmdb.org/t/p/original/4HGn3xNtkA8AfC026eJq8BvEYLv.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/rIO4qhgTbCsTFJUp3UZP2ZbwPZF.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nColter Shaw viaja pelo país em seu trailer antigo para ajudar a polícia e cidadãos particulares a solucionar crimes e localizar pessoas desaparecidas, até que seu último caso muda tudo.",
-          "tipo": "serie"
         }
+
 
     
       ]
