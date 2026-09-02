@@ -1,6 +1,16 @@
 {
   "episodios": [
         {
+      "nome": "Corrida Contra o Tempo (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (10)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9Db3JyaWRhLkNvbnRyYS5vLlRlbXBvLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ziXF8wIBguHNCeplNthUlDTCZP8.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/kuhMouxi7eCyhn8Pud4vhx5zWsV.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nMaia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+        {
       "nome": "O Último Conquistador (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLlVsdGltby5Db25xdWlzdGFkb3IuMjAyNi5ta3Y=",
       "imagem": "https://image.tmdb.org/t/p/original/4kxZC9T2i0bDkPoXGK00C2A4Z5l.jpg",
