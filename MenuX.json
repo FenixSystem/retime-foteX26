@@ -1,6 +1,40 @@
 {
   "categorias": [
     {
+  "categorias": [
+    {
+      "nome": "● [B][COLOR cyan]Servidor 1 (Canais)[/COLOR][/B] ●",
+      "imagem": "https://i.imgur.com/FBK5qFX.png",
+      "fanart": "",
+      "itens": [
+        {
+          "nome": "Lista Completa Servidor 1",
+          "url": "http://yz523z.club/get.php?username=cSjxZcw8Q&password=C1wBr5&type=m3u_plus&output=ts",
+          "imagem": "https://i.imgur.com/FBK5qFX.png",
+          "fanart": "",
+          "sinopse": "Carrega todas as categorias e canais do Servidor 1.",
+          "tipo": "filme"
+        }
+      ]
+    },
+    {
+      "nome": "● [B][COLOR cyan]Servidor 2 (Canais)[/COLOR][/B] ●",
+      "imagem": "https://i.imgur.com/FBK5qFX.png",
+      "fanart": "",
+      "sinopse": "",
+      "itens": [
+        {
+          "nome": "Lista Completa Servidor 2",
+          "url": "http://auth.urltech.gy:80/get.php?username=BrunoM&password=abs8rlmsdrp&type=m3u_plus",
+          "imagem": "https://i.imgur.com/FBK5qFX.png",
+          "fanart": "",
+          "sinopse": "Carrega todas as categorias e canais do Servidor 2.",
+          "tipo": "filme"
+        }
+        
+       ]
+      },
+    {
       "nome": "● [B]Cinema em Casa[/B] ●",
       "imagem": "https://i.postimg.cc/XYR7w3BC/Cinema.jpg",
       "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
