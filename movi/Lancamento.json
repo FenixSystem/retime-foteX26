@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "O Confronto dos Thundermans (2026)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Pcy5UaHVuZGVybWFucy9PLkNvbmZyb250by5kb3MuVGh1bmRlcm1hbnMuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/6yT5O0g8ZXNOm9I5IXLZonZRBgx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/trToNvynlEKjMF0yjZDsPHjiyDv.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Comédia, Família, Cinema TV[/COLOR]\nQuando o novo e perigoso poder de Chloe se manifesta, ela é enviada para um internato para jovens super-heróis. A família se divide: Phoebe, Barb e Billy se escondem com ela, enquanto Max, Hank e Nora vão atrás deles, levando a um confronto que decidirá o futuro de todos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "LEGO Star Wars: The Mandalorian (2026) [COLOR yellow]★[/COLOR] [COLOR white]8,0[/COLOR][COLOR gray]/10[/COLOR] (3)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9hbmltYWNhb2VzL0xlZ28uU3Rhci5XYXJzLVRoZS5NYW5kYWxvcmlhbi4yMDI2Lm1rdg==",
       "imagem": "https://image.tmdb.org/t/p/original/yng4wYjB9cjX7np9c9YqfJjX52o.jpg",
