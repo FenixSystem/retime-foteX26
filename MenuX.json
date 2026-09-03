@@ -12,21 +12,8 @@
           "fanart": "",
           "sinopse": "Carrega todas as categorias e canais do Servidor 1.",
           "tipo": "filme"
-        },
-    {
-      "nome": "● [B][COLOR cyan]Servidor 2 (Canais)[/COLOR][/B] ●",
-      "imagem": "https://i.imgur.com/FBK5qFX.png",
-      "fanart": "",
-      "sinopse": "",
-      "itens": [
-        {
-          "nome": "Lista Completa Servidor 2",
-          "url": "http://auth.urltech.gy:80/get.php?username=BrunoM&password=abs8rlmsdrp&type=m3u_plus",
-          "imagem": "https://i.imgur.com/FBK5qFX.png",
-          "fanart": "",
-          "sinopse": "Carrega todas as categorias e canais do Servidor 2.",
-          "tipo": "filme"
         }
+
         
        ]
       },
