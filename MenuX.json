@@ -1,23 +1,6 @@
 {
   "categorias": [
     {
-      "nome": "● [B][COLOR cyan]Servidor 1 (Canais)[/COLOR][/B] ●",
-      "imagem": "https://i.imgur.com/FBK5qFX.png",
-      "fanart": "",
-      "itens": [
-        {
-          "nome": "Lista Completa Servidor 1",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/tvtv.json",
-          "imagem": "https://i.imgur.com/FBK5qFX.png",
-          "fanart": "",
-          "sinopse": "Carrega todas as categorias e canais do Servidor 1.",
-          "tipo": "filme"
-        }
-
-        
-       ]
-      },
-    {
       "nome": "● [B]Cinema em Casa[/B] ●",
       "imagem": "https://i.postimg.cc/XYR7w3BC/Cinema.jpg",
       "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
