@@ -142,12 +142,20 @@
           "sinopse": "[COLOR yellow]Terror e Ficção científica[/COLOR]\nA franquia de filmes de terror de ficção científica, com foco no personagem Tenente Ellen Ripley (Sigourney Weaver) e sua batalha com uma forma de vida extraterrestre, comumente referido como o alien. Produzido pela 20th Century Fox, a série começou com o filme de 1979 Alien: O Oitavo Passageiro, depois veio Aliens: O Resgate em 1996 seguido de Alien 3 em 1992, e por fim Alien: A Ressurreição em 1997.",
           "tipo": "serie"
         },
-                {
+        {
           "nome": "Animais Fantásticos: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Animais.Fantasticos.json",
           "imagem": "https://image.tmdb.org/t/p/original/gqtJi1Whn1TIGidGZ2Tx90zJEo4.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/7j7eBhReCRafAYdCr5XaJzNAIDz.jpg",
           "sinopse": "[COLOR yellow]Fantasia e Aventura[/COLOR]\nOs filmes Animais Fantásticos são uma série de fantasia baseada e inspirada no livro mencionado nos romances de Harry Potter, da escritora britânica J. K. Rowling. Situados na mesma franquia do Mundo Mágico, eles seguem as aventuras de Newt Scamander, um autoproclamado magizoologista, junto com Porpentina Tina Goldstein, uma auror do MACUSA.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Anjos da Noite: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/AnjosdaNoite.json",
+          "imagem": "https://image.tmdb.org/t/p/original/5BTHEXF1b6beWVyobcpyt1NvFOx.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg",
+          "sinopse": "[COLOR yellow]Fantasia, Ação e Terror[/COLOR]\nApós ser mantida em estado de coma por quinze anos, a vampira Selene descobre que ela possui uma filha de quatorze anos, híbrida de vampiro e lobisomem. Com a ajuda dela, Selene deve impedir a empresa BioCom de criar super lobisomens que possam matar todos os vampiros",
           "tipo": "serie"
         }
         
