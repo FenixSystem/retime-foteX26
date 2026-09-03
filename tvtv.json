@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JOGOS DE HOJE" tvg-name="Jogos de Hoje" tvg-logo="https://i.imgur.com/rAOrWxU.png" group-title="Jogos de Hoje",Jogos de Hoje
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/194567.ts
+#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal FHD " tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal FHD 
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/91572.ts
+#EXTINF:-1 tvg-id="semepg" tvg-name="Agro Canal HD" tvg-logo="https://i.imgur.com/hZE88Cr.png" group-title="Canais | Abertos",Agro Canal HD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/71074.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="AgroMais" tvg-logo="https://i.imgur.com/jxKTuAd.png" group-title="Canais | Abertos",AgroMais
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/90975.ts
+#EXTINF:-1 tvg-id="semepg" tvg-name="Agrobrasil TV" tvg-logo="https://i.imgur.com/aCtqdjq.png" group-title="Canais | Abertos",Agrobrasil TV
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/90973.ts
+#EXTINF:-1 tvg-id="agro.plus.br" tvg-name="Agroplus HD" tvg-logo="https://i.imgur.com/aO1H6KD.png" group-title="Canais | Abertos",Agroplus HD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/952080.ts
+#EXTINF:-1 tvg-id="semepg" tvg-name="Brasil TV Rural" tvg-logo="https://i.imgur.com/08iRqQ7.png" group-title="Canais | Abertos",Brasil TV Rural
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/121548.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/37122.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil FHD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/41517.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil FHD H265" tvg-logo="https://i.imgur.com/1pnZ4MD.png" group-title="Canais | Abertos",Canal Brasil FHD H265
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/986826.ts
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/4iiFrtK.png" group-title="Canais | Abertos",Canal Brasil HD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/63636.ts
+#EXTINF:-1 tvg-id="canal.rural.br" tvg-name="Canal Rural" tvg-logo="https://i.imgur.com/wcEDT6H.png" group-title="Canais | Abertos",Canal Rural
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/63217.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/50645.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi FHD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/91567.ts
+#EXTINF:-1 tvg-id="canal.do.boi.br" tvg-name="Canal do Boi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="Canais | Abertos",Canal do Boi HD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/68528.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/40073.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura FHD" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura FHD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/42903.ts
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="https://i.imgur.com/mcU5zU2.png" group-title="Canais | Abertos",Cultura HD
+http://auth.urltech.gy/live/BrunoM/abs8rlmsdrp/61961.ts
