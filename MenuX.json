@@ -119,11 +119,19 @@
       "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
         {
-          "nome": "Alien vs. Predador: Coleção",
+          "nome": "Os Thundermans: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Alien.Predador.json",
           "imagem": "https://image.tmdb.org/t/p/original/bPJMLYhRZxXKrArJrEV9fT24YRj.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/7uzE6sskGVmxCPq2VD9BvCpT8Yu.jpg",
           "sinopse": "[COLOR yellow]Aventura, Ficção científica, Ação e Terror[/COLOR]\nAlien vs. Predador (também conhecida como AVP) é uma série de filmes de ficção científica que reúne as criaturas homônimas das séries Alien e Predador.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Alien vs. Predador: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Alien.Predador.json",
+          "imagem": "https://image.tmdb.org/t/p/original/bPJMLYhRZxXKrArJrEV9fT24YRj.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/7uzE6sskGVmxCPq2VD9BvCpT8Yu.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Ação, Comédia, Família[/COLOR]\nAcompanhe o regresso da família de super-heróis mais divertida da TV! Em O Retorno dos Thundermans, os gémeos Phoebe e Max perdem o seu lugar na Força Z e têm de lutar para recuperar o seu posto de heróis. Já em O Confronto dos Thundermans, a paz da família é posta à prova quando os poderes da caçula, Chloe, saem do controlo, dividindo a família num novo desafio.",
           "tipo": "serie"
         },
         {
