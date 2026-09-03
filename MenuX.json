@@ -1,8 +1,6 @@
 {
   "categorias": [
     {
-  "categorias": [
-    {
       "nome": "● [B][COLOR cyan]Servidor 1 (Canais)[/COLOR][/B] ●",
       "imagem": "https://i.imgur.com/FBK5qFX.png",
       "fanart": "",
@@ -14,9 +12,7 @@
           "fanart": "",
           "sinopse": "Carrega todas as categorias e canais do Servidor 1.",
           "tipo": "filme"
-        }
-      ]
-    },
+        },
     {
       "nome": "● [B][COLOR cyan]Servidor 2 (Canais)[/COLOR][/B] ●",
       "imagem": "https://i.imgur.com/FBK5qFX.png",
