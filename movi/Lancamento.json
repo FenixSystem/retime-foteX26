@@ -1,6 +1,36 @@
 {
   "episodios": [
     {
+      "nome": "Gandhari (2026) [COLOR yellow]★[/COLOR] [COLOR white]5,8[/COLOR][COLOR gray]/10[/COLOR] (3)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9HYW5kaGFyaS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/u3VhPh5bcD6wAtYpRHt6REtGbeG.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, Thriller[/COLOR]\nDepois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Kraken: Terror no Mar (2025) [COLOR yellow]★[/COLOR] [COLOR white]6,8[/COLOR][COLOR gray]/10[/COLOR] (104)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9LcmFrZW4uVGVycm9yLm5vLk1hci4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/yCWClPA1FL2VjO38MLJnzmsKoGH.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/xWYGs7o0lExX7XzdwyCFLZJ5C1L.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/kHTyBfrH2cZgabI144G1AVl0Crf.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Aventura, Drama[/COLOR]\nA trama se concentra em um jovem comandante da Marinha russa que lidera uma missão de resgate após o desaparecimento de um submarino nuclear. A investigação os leva a uma criatura muito mais perigosa do que eles poderiam imaginar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Mayday (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,2[/COLOR][COLOR gray]/10[/COLOR] (14)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9NYXlkYXkuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4gyx49ibwQslyrwuUS1c58PJEEd.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/uy6Sna1PeNyE7mWbOKLvbH3WTaB.png",
+      "sinopse": "[COLOR yellow]Comédia, Ação[/COLOR]\nQuando um piloto da Marinha dos EUA, em uma missão ultrassecreta durante a Guerra Fria, fica preso em território inimigo, sua única chance de sobreviver é formar uma aliança com um excêntrico ex-agente da KGB.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+    {
       "nome": "O Confronto dos Thundermans (2026)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Pcy5UaHVuZGVybWFucy9PLkNvbmZyb250by5kb3MuVGh1bmRlcm1hbnMuMjAyNi5ta3Y=",
       "imagem": "https://image.tmdb.org/t/p/original/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
