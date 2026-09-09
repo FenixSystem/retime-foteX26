@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "Missão Ataque (2022) [COLOR yellow]★[/COLOR] [COLOR white]6,8[/COLOR][COLOR gray]/10[/COLOR] (223)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvTWlzc2FvLkF0YXF1ZS4yMDIyLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/4uubaaiFUtQvNvw9AIy2Dbus3pO.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/AaYfsgRcgU00n0MNVsn1604bfcu.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/6Cty5M1CrcQNTsMtXQPWzsHeBFK.png",
+      "sinopse": "[COLOR yellow]Ação, Ficção científica, Thriller[/COLOR]\nDepois de perder tudo devido a um ataque terrorista, o ex-agente do governo Arjun Shergill participa de um projeto que o torna um supersoldado.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Déjà Vu (2006) [COLOR yellow]★[/COLOR] [COLOR white]6,9[/COLOR][COLOR gray]/10[/COLOR] (5,5 mil)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvRGVqYS5WdS4yMDA2Lm1rdg==",
       "imagem": "https://image.tmdb.org/t/p/original/twXny1Hq44CRt0TfDPKcymvgMe7.jpg",
@@ -9,7 +19,7 @@
       "sinopse": "[COLOR yellow]Ação, Thriller, Ficção científica[/COLOR]\nO agente federal Doug Carlin viaja para investigar a causa de uma explosão fatal que ocorreu em Nova Orleans. Ele descobre, então, um meio de viajar no tempo e, consequentemente, evitar que a explosão ocorra.",
       "legenda": "",
       "tipo": "filme"
-    }
+    },
     {
       "nome": "Gandhari (2026) [COLOR yellow]★[/COLOR] [COLOR white]5,8[/COLOR][COLOR gray]/10[/COLOR] (3)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9HYW5kaGFyaS4yMDI2Lm1rdg==",
