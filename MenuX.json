@@ -165,6 +165,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/8kn6Sw1SWuMlMr6Ij8G6n3W3ocx.jpg",
           "sinopse": "[COLOR yellow]Ação, Thriller e Crime[/COLOR]\nAssassino a Preço Fixo é uma coletânea composta por dois filmes, estrelada por Jason Statham, no personagem Arthur Bishop, um matador de aluguel com muita habilidade para eliminar os seus alvos. 1. Assassina a Preço Fixo (2011) e Assassino a Preço Fixo: A Ressurreição (2016).",
           "tipo": "serie"
+        },
+        {
+          "nome": "Avatar: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Avatar_filmes.json",
+          "imagem": "https://image.tmdb.org/t/p/original/up0L48w8u2eoEFE99mbrXvp0Owi.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/4uwX70EzaWVcGUXMtXPoexlNAff.jpg",
+          "sinopse": "[COLOR yellow]Ação, Aventura e Ficção científica[/COLOR]\nA Coleção Avatar conta a história do mundo de Pandora, habitado pelos humanóides indígenas, os Na'vi. O protagonista principal, Jake Sully, é enviado para Pandora como um avatar - um híbrido de humano e Na'vi. Durante sua missão, Jake descobre a beleza e a complexidade do mundo Na'vi e estabelece uma conexão profunda com os habitantes do planeta. A coleção centra-se no conflito entre os humanos e os Na'vi e na luta para salvar o mundo de Pandora.",
+          "tipo": "serie"
         }
         
         
