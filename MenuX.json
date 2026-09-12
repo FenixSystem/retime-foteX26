@@ -6,7 +6,7 @@
       "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
       "itens": [
         {
-          "nome": "Sala Cinema 1 [COLOR lime]Código: Vingança 4K LEGENDADO[/COLOR]",
+          "nome": "Sala Cinema 1 [COLOR lime]Código: Vingança 4K (2026) LEGENDADO[/COLOR]",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala1.json",
           "imagem": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
           "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
@@ -14,7 +14,7 @@
           "tipo": "serie"
         },
         {
-          "nome": "Sala Cinema 2 [COLOR lime]Toy Story 5 4K LEGENDADO[/COLOR]",
+          "nome": "Sala Cinema 2 [COLOR lime]Toy Story 5 4K (2026) LEGENDADO[/COLOR]",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/SALA.2.json",
           "imagem": "https://image.tmdb.org/t/p/original/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
           "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
@@ -22,13 +22,21 @@
           "tipo": "serie"
         },
         {
-          "nome": "Sala Cinema 3 [COLOR lime]Star Wars: O Mandaloriano e Grogu 4K Dual Áudio[/COLOR]",
+          "nome": "Sala Cinema 3 [COLOR lime]Star Wars: O Mandaloriano e Grogu (2026) 4K Dual Áudio[/COLOR]",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala.3.json",
           "imagem": "https://image.tmdb.org/t/p/original/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
           "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
           "sinopse": "Direção: Jon Favreau\nRoteiro Jon Favreau, Dave Filoni\nDuração: 2h 12min\nGênero: Aventura, Ação, Fantasia, Ficção Científica\nIdioma:Português-BR\nNão recomendado para menos de 14 anos",
           "tipo": "serie"
-        }
+        },
+        {
+          "nome": "Sala Cinema 4 [COLOR lime]Moana (2026) 4K LEGENDADO[/COLOR]",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/lista_sala4.json",
+          "imagem": "https://image.tmdb.org/t/p/original/yi2PSowrX1rLW3BKy5dt7YvwrVU.jpg",
+          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
+          "sinopse": "Realizadores: Thomas Kail\nAtores: Catherine Laga'aia, Dwayne Johnson, Saulo Vasconcelos\nDuração: 1h 55m\nGênero: Família, Fantasia, Comédia e Aventura\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 10 anos",
+          "tipo": "serie"
+        },
 
 
       ]
