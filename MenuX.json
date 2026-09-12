@@ -189,6 +189,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/byabbgn2SqKnR0dPNl6tUJB9EjD.jpg",
           "sinopse": "[COLOR yellow]Ação, Thriller, Crime e Comédia[/COLOR]\nUma franquia de filmes sobre a dupla de policiais Mike Lowrey e Marcus Burnett, explodindo coisas e perseguindo carros malucos. Eles fazem o trabalho, mas a um custo caro.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Bourne: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Bourne.json",
+          "imagem": "https://image.tmdb.org/t/p/original/q0ma8ozYaaol1IvdGjBvj3KllyL.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/3MVICL7Dn7CHIaQ0u9YkZijgXA5.jpg",
+          "sinopse": "[COLOR yellow]Ação, Mistério e Thriller[/COLOR]\nOs filmes Bourne são uma série de filmes de ação e suspense baseados no personagem Jason Bourne, um assassino da CIA que sofre de extrema perda de memória e precisa descobrir quem ele é. O personagem é baseado em romances de Robert Ludlum. O quarto filme da série apresenta Aaron Cross, um agente do Departamento de Defesa que foge para salvar sua vida por causa das ações de Bourne.",
+          "tipo": "serie"
         }
         
         
