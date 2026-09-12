@@ -197,6 +197,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/3MVICL7Dn7CHIaQ0u9YkZijgXA5.jpg",
           "sinopse": "[COLOR yellow]Ação, Mistério e Thriller[/COLOR]\nOs filmes Bourne são uma série de filmes de ação e suspense baseados no personagem Jason Bourne, um assassino da CIA que sofre de extrema perda de memória e precisa descobrir quem ele é. O personagem é baseado em romances de Robert Ludlum. O quarto filme da série apresenta Aaron Cross, um agente do Departamento de Defesa que foge para salvar sua vida por causa das ações de Bourne.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Braddock: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Braddock.json",
+          "imagem": "https://image.tmdb.org/t/p/original/o0qfGteS3UIJuZYHSc4FJOCBGw5.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/8GVHeU77wFodIkwetIufkTVPgOF.jpg",
+          "sinopse": "[COLOR yellow]Ação, Aventura, Thriller e Guerra[/COLOR]\nBraddock: O Super Comando é um filme de ação americano de 1984 dirigido por Joseph Zito e produzido pela Cannon Films. O filme foi a primeira cooperação entre a produtora cinematográfica e Chuck Norris. O filme foi seguido por uma sequencia publicada em 1985 intitulada Braddock 2: O Início da Missão e em 1988 pela sequência Braddock 3: O Resgate.",
+          "tipo": "serie"
         }
         
         
