@@ -211,7 +211,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Busca.Implacavel.json",
           "imagem": "https://image.tmdb.org/t/p/original/eE81uvgUf9GJXKkZFLUxya7fiHo.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/mT93DQ0HIW0dFG70YrRc3KmfTnw.jpg",
-          "sinopse": "[COLOR yellow]Ação e Thriller[/COLOR]\nusca Implacável é uma coletânea francesa de filmes de ação, que tem como protagonista o Liam Neeson, na pele do personagem Bryan Mills, um ex-agente da CIA, que se encontra erradicado na Europa. A saga conta com três filmes, denominados Busca Implacável 1, 2 e 3, lançados em 2008, 2012 e 2015 respectivamente.",
+          "sinopse": "[COLOR yellow]Ação e Thriller[/COLOR]\nNuma busca Implacável é uma coletânea francesa de filmes de ação, que tem como protagonista o Liam Neeson, na pele do personagem Bryan Mills, um ex-agente da CIA, que se encontra erradicado na Europa. A saga conta com três filmes, denominados Busca Implacável 1, 2 e 3, lançados em 2008, 2012 e 2015 respectivamente.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Círculo de Fogo: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Circulo.de.Fogo.json",
+          "imagem": "https://image.tmdb.org/t/p/original/fmM3CboncxaslL2KMm4bl5oF7JE.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/ru6U9hALGTLGcd3LEE0gd7tgpcd.jpg",
+          "sinopse": "[COLOR yellow]Ação, Ficção científica e Aventura[/COLOR]\nUma série americana de filmes de ação mecha de ficção científica que segue a humanidade lutando contra Kaiju, os monstros gigantes determinados a destruir o mundo.",
           "tipo": "serie"
         }
         
