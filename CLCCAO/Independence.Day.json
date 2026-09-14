@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Independence Day (1996) [COLOR yellow]★[/COLOR] [COLOR white]6,9[/COLOR][COLOR gray]/10[/COLOR] (10,7 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbmRlcGVuZGVuY2UuRGF5JTIwL0luZGVwZW5kZW5jZS5EYXkuMTk5Ni5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/7KGNAWjp0QFcynhtLoLXXa3F4Hc.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/kFI1oF6KVnLEbUT7yLIbKXeyvu.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/mwoCHwBuWrEd9RLPrktHV33esnT.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Ficção científica[/COLOR]\nNa véspera do Dia da Independência dos Estados Unidos, naves gigantescas aparecem no céu. O estupor inicial da população se transforma em terror ao ver como atacam o planeta lançando raios destrutivos nas maiores cidades do mundo. Agora a única esperança para a salvação da Terra reside na coragem de alguns sobreviventes, que se unem planejando o último ataque massivo contra os alienígenas, antes que seja tarde demais para a humanidade.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbmRlcGVuZGVuY2UuRGF5JTIwL0luZGVwZW5kZW5jZS5EYXkuMTk5Ni5mb3JjZWQuc3J0",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Independence Day: O Ressurgimento (2016) [COLOR yellow]★[/COLOR] [COLOR white]5,4[/COLOR][COLOR gray]/10[/COLOR] (6,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbmRlcGVuZGVuY2UuRGF5JTIwL0luZGVwZW5kZW5jZS5EYXkuTy5SZXNzdXJnaW1lbnRvLjIwMTYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/dvFIe1y0GtkDxxVlw2BtMKyXvo0.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/auT0H5fFUnPKjHNj0OkQMkxdbl2.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sEV27T0j6qQIm4B6DcZBJOT6WRU.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Ficção científica[/COLOR]\nDuas décadas depois do devastador ataque alienígena do Dia da Independência, a Terra enfrenta uma nova ameaça que vem diretamente do espaço. Uma nova geração de pilotos é convocada para combater os inimigos e garantir a liberdade da humanidade.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbmRlcGVuZGVuY2UuRGF5JTIwL0luZGVwZW5kZW5jZS5EYXkuTy5SZXNzdXJnaW1lbnRvLjIwMTYuZm9yY2VkLnNydA==",
+      "tipo": "filme"
+    }
+  ]
+}
