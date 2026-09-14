@@ -229,6 +229,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/2hscwDISGOGGcHgn2ttogcnlWvl.jpg",
           "sinopse": "[COLOR yellow]Drama e Ação[/COLOR]\nO ex-campeão mundial de pesos pesados Rocky Balboa atua como treinador e mentor do filho de Apollo Creed, Adonis. Esses filmes são spin-offs e sequências da série de filmes Rocky.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Destruição Final: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Destruicao.Final.json",
+          "imagem": "https://image.tmdb.org/t/p/original/e7nemBrXH4KeNbgT7RMscRz5KZS.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/1bWiBEEmdQCkdI4pQ5iVpURznxn.jpg",
+          "sinopse": "[COLOR yellow]Thriller, Ação e Ficção científica[/COLOR]\nUma série de filmes de ficção científica sobre desastres, que acompanha os esforços de uma família para sobreviver ao impacto de um cometa capaz de destruir o planeta.",
+          "tipo": "serie"
         }
         
         
