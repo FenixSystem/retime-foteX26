@@ -237,6 +237,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/1bWiBEEmdQCkdI4pQ5iVpURznxn.jpg",
           "sinopse": "[COLOR yellow]Thriller, Ação e Ficção científica[/COLOR]\nUma série de filmes de ficção científica sobre desastres, que acompanha os esforços de uma família para sobreviver ao impacto de um cometa capaz de destruir o planeta.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Doom: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Doom.json",
+          "imagem": "https://image.tmdb.org/t/p/original/aFzFLfHlIouBVOqc9j7CNiszukS.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/9zy1Y57oMMApCl1dVoKpeiCUEKE.jpg",
+          "sinopse": "[COLOR yellow]Ação, Terror e Ficção científica[/COLOR]\nVagamente baseado na série de videogames de mesmo nome da id Software.",
+          "tipo": "serie"
         }
         
         
