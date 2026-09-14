@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Gladiador (2000) [COLOR yellow]★[/COLOR] [COLOR white]8,2[/COLOR][COLOR gray]/10[/COLOR] (21,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9HbGFkaWFkb3IvR2xhZGlhZG9yLjIwMDAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/n5Mwi61zHyCk26YHRrwCNvP0Sf3.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, Aventura[/COLOR]\nNos dias finais do reinado de Marcus Aurelius, o imperador desperta a ira de seu filho Commodus ao tornar pública sua predileção em deixar o trono para Maximus, o comandante do exército romano. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego e passa a se esconder sob a identidade de um escravo e gladiador do Império Romano.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Gladiador 2 (2024) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (4,7 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9HbGFkaWFkb3IvR2xhZGlhZG9yLjIuMjAyNC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/342bly9MqveL65TnEFzx8TTUxcL.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/tOqIwliWMovSIZ9DyvHcHI7p2im.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/uQ0wyB1gRkLC7xZRcFl6SNwB2UX.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Drama[/COLOR]\nAnos depois de testemunhar a trágica morte do reverenciado herói Maximus nas mãos de seu tio malvado, Lucius se vê forçado a lutar no Coliseu depois que sua terra natal é conquistada por dois imperadores tirânicos, que agora governam Roma. Com o coração ardendo de raiva e o destino do Império pendurado por um fio, Lucius deve enfrentar perigos e inimigos, redescobrindo em seu passado a força e a honra necessárias para trazer a glória de Roma de volta ao seu povo.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
