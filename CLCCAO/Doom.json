@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Doom - A Porta do Inferno (2005) [COLOR yellow]★[/COLOR] [COLOR white]5,2[/COLOR][COLOR gray]/10[/COLOR] (2,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Eb29tL0Rvb20uQS5Qb3J0YS5kby5JbmZlcm5vLjIwMDUubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/zEF6MnsJyoVB6dgtNCGJLv6Ed2T.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9EpgaLS44zlXoTSAOhGiJmkIA4B.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/4AjTmy9vVTR7VNSFAf7R5Wm3r6q.png",
+      "sinopse": "[COLOR yellow]Ação, Terror, Ficção científica[/COLOR]\nAlgo estranho aconteceu em uma estação espacial localizada em Marte. A tripulação local entrou em estado de quarentena cinco, antes da comunicação com a Terra ser bruscamente interrompida. Para investigar o caso é enviada uma equipe especialmente treinada para resolver problemas inesperados, que exijam que seus integrantes entrem em ação o mais rápido possível. Só que desta vez eles não tem a menor idéia de qual é o inimigo que precisam enfrentar.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Eb29tL0Rvb20uQS5Qb3J0YS5kby5JbmZlcm5vLjIwMDUuRk9SQ0VELnNydA==",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Doom: Annihilation (2019) [COLOR yellow]★[/COLOR] [COLOR white]5,0[/COLOR][COLOR gray]/10[/COLOR] (493)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Eb29tL0Rvb20uQW5pcXVpbGFjYW8uMjAxOS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/3JhMIyUBYXzOXxI59vmlYhLHDWd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/iODdFR98xOeOzj95ptMKnCkhniN.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/qRGp6fwspwRb49m8XcXB086sbK0.png",
+      "sinopse": "[COLOR yellow]Ação, Ficção científica, Terror[/COLOR]\nUm grupo de fuzileiros espaciais responde a um pedido de socorro de uma base em uma lua marciana, apenas para descobrir que foi invadida por criaturas demoníacas que ameaçam criar o inferno na Terra.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Eb29tL0Rvb20uQW5pcXVpbGFjYW8uMjAxOS5GT1JDRUQuc3J0",
+      "tipo": "filme"
+    }
+  ]
+}
