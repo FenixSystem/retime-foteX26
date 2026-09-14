@@ -275,7 +275,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Gladiador.json",
           "imagem": "https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/j36t8sTYJfxH0WDsyqL0LF0eyDT.jpg",
-          "sinopse": "[COLOR yellow]Ação e Thriller[/COLOR]\nUma série de filmes de ação históricos épicos que mostram combates de gladiadores na Roma antiga.",
+          "sinopse": "[COLOR yellow]Ação, Drama e Aventura[/COLOR]\nUma série de filmes de ação históricos épicos que mostram combates de gladiadores na Roma antiga.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Godzilla: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Godzilla.json",
+          "imagem": "https://image.tmdb.org/t/p/original/mp5QmAJAc2JrOAk8ee5prwlAsIK.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/w2DObrwssMctpZrGdsGY6myeKaj.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica e Ação[/COLOR]\nO MonsterVerse é uma franquia de mídia americana e um universo ficcional compartilhado que é centrado em uma série de filmes, protagonizados pelos monstros Godzilla e King Kong, distribuídos pela Warner Bros. e produzidos pela Legendary Entertainment em parceria com a Toho (nos filmes do Godzilla).",
           "tipo": "serie"
         }
         
