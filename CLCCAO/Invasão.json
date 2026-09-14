@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Invasão à Casa Branca (2013) [COLOR yellow]★[/COLOR] [COLOR white]6,4[/COLOR][COLOR gray]/10[/COLOR] (7,2 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbnZhc2FvL0ludmFzYW8uYS5DYXNhLkJyYW5jYS4yMDEzLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/mVP13WG03XpZr3JNOBAEBSuWUl3.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/mjYU7EwVeOtM39ArdWHZk78VhYm.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/xXeP6tspAI05KB8klm0E5x73uch.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nO Serviço Secreto dos Estados Unidos conta com a ajuda do ex-segurança particular e amigo pessoal do presidente para resgatar o chefe de Estado e sua família de terroristas coreanos, que os fizeram reféns e assumiram o controle da Casa Branca.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Invasão a Londres (2016) [COLOR yellow]★[/COLOR] [COLOR white]6,2[/COLOR][COLOR gray]/10[/COLOR] (5,2 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbnZhc2FvL0ludmFzYW8uYS5Mb25kcmVzLjIwMTYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/tWpB4lK4RFEQf0CHsVgDWZOmUbl.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ndi0PlHzSbV2pV2wUZFtS58Wk54.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/blWIPxKRIL2yDxzxIPhPrgzzpNv.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Thriller[/COLOR]\nO primeiro-ministro britânico morre sob circunstâncias misteriosas, e o funeral atrai todos os líderes do mundo ocidental. O agente secreto Mike Banning descobre uma conspiração para assassinar todos os líderes mundiais presentes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Invasão ao Serviço Secreto (2019) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (4,0 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9JbnZhc2FvL0ludmFzYW8uYW8uU2Vydmljby5TZWNyZXRvLjIwMTkubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/k34LUdkVAU77hDKUhcTgg0HUnHh.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/sGqqnvOqJg2HDHrjtCPIlCwF4Mu.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/7RJGjPRHkvw5wAYz7Ooj2GbpDW6.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nDedicado e sempre focado em seu trabalho, o agente do Serviço Secreto, Mike Banning vê sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos. Quando percebe que todos estão atrás dele, Mike corre contra o tempo para descobrir o que realmente aconteceu enquanto foge de outros agentes.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
