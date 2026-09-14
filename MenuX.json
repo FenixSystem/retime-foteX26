@@ -245,6 +245,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/9zy1Y57oMMApCl1dVoKpeiCUEKE.jpg",
           "sinopse": "[COLOR yellow]Ação, Terror e Ficção científica[/COLOR]\nVagamente baseado na série de videogames de mesmo nome da id Software.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Duna: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Duna.json",
+          "imagem": "https://image.tmdb.org/t/p/original/nWPzu39E2emZ4MLdZ2E9wjpkBOz.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/uHBqkqqO01NU22KdgvPmOV0gqVd.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica e Aventura[/COLOR]\nA saga de Paul Atreides e sua ascensão ao poder no mortal planeta Arrakis.",
+          "tipo": "serie"
         }
         
         
