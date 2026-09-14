@@ -309,6 +309,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/9f8kjuytZPJEPf1bhJgkekaoanr.jpg",
           "sinopse": "[COLOR yellow]Aventura e Ação[/COLOR]\nIndiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Invasão: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Invasao.json",
+          "imagem": "https://image.tmdb.org/t/p/original/kSHvhQ6RpmNgEfYEUqmPHEZbwxz.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg",
+          "sinopse": "[COLOR yellow]Ação, Aventura e Thriller[/COLOR]\nFallen é uma série de filmes de ação americana criada pelos roteiristas Creighton Rothenberger e Katrin Benedikt. É estrelada por Gerard Butler como agente do Serviço Secreto dos Estados Unidos Mike Banning, Aaron Eckhart como presidente dos EUA Benjamin Asher, e Morgan Freeman como presidente da Câmara (e eventual presidente) Allan Trumbull.",
+          "tipo": "serie"
         }
         
         
