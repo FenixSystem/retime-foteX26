@@ -295,11 +295,19 @@
           "tipo": "serie"
         },
         {
-          "nome": "Harry Potter: Coleção",
+          "nome": "Independence Day: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Independence.Day.json",
           "imagem": "https://image.tmdb.org/t/p/original/eY2OLq3jRwdftzNOSWt7vrTk2X.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/ou70x2658dVnbycIRaC37sEeafS.jpg",
           "sinopse": "[COLOR yellow]Ação, Aventura e Ficção científica[/COLOR]\nÉpico americano de 1996, um filme de ficção científica. Dirigido e co-escrito por Roland Emmerich. O filme se concentra em um grupos diferentes de pessoas que se juntam para revidar um ataque calamitoso de uma raça extraterrestre ostensivamente e poderosa, de origem desconhecida.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Indiana Jones: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Indiana.Jones.json",
+          "imagem": "https://image.tmdb.org/t/p/original/o6SLel2QCfc94RTHe4LJucMez1Z.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/9f8kjuytZPJEPf1bhJgkekaoanr.jpg",
+          "sinopse": "[COLOR yellow]Aventura e Ação[/COLOR]\nIndiana Jones, o arqueólogo mais famoso de todos os tempos e também um dos personagens mais conhecidos da história do cinema, estrela essa atemporal coleção, com todos os filmes do herói, interpretados com maestria por Harrison Ford.",
           "tipo": "serie"
         }
         
