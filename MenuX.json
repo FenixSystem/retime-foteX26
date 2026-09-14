@@ -269,6 +269,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/7LSSYjSt94Hs3YYDzMGLkAdGLoF.jpg",
           "sinopse": "[COLOR yellow]Ação e Thriller[/COLOR]\nO Policial John McClane é posto sobe pressão diversas vezes para salvar vidas inocentes. Cabe a ele enfrentar o perigo, sem nunca desistir, sendo difícil de matar.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Gladiador: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Gladiador.json",
+          "imagem": "https://image.tmdb.org/t/p/original/r7uyUOB6fmmPumWwHiV7Hn2kUbL.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/j36t8sTYJfxH0WDsyqL0LF0eyDT.jpg",
+          "sinopse": "[COLOR yellow]Ação e Thriller[/COLOR]\nUma série de filmes de ação históricos épicos que mostram combates de gladiadores na Roma antiga.",
+          "tipo": "serie"
         }
         
         
