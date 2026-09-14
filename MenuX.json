@@ -261,6 +261,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/qFALNb3qkgxRDxqB2kc0auyTtak.jpg",
           "sinopse": "[COLOR yellow]Ação, Comédia, Crime e Thriller[/COLOR]\nColeção dos filmes - Dupla Explosiva com Ryan Reynolds e Samuel L. Jackson.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Duro de Matar: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Duro.de.Matar.json",
+          "imagem": "https://image.tmdb.org/t/p/original/9RzaUN5E0S6UbXlEVrotKUSMX75.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/7LSSYjSt94Hs3YYDzMGLkAdGLoF.jpg",
+          "sinopse": "[COLOR yellow]Ação e Thriller[/COLOR]\nO Policial John McClane é posto sobe pressão diversas vezes para salvar vidas inocentes. Cabe a ele enfrentar o perigo, sem nunca desistir, sendo difícil de matar.",
+          "tipo": "serie"
         }
         
         
