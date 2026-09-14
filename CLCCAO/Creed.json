@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Creed: Nascido para Lutar (2015) [COLOR yellow]★[/COLOR] [COLOR white]7,4[/COLOR][COLOR gray]/10[/COLOR] (8,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9DcmVlZC9DcmVlZC5OYXNjaWRvLnBhcmEuTHV0YXIuMjAxNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/jBXLirZNzEoIwrQb6hBaiJ3Jcrv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/kODNw6GJNdgldUMEhKPlCw8wQCr.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/cKyIm7rQVhNtm23INfXIJUXutM3.png",
+      "sinopse": "[COLOR yellow]Drama[/COLOR]\nAdonis Johnson nunca conheceu o pai, Apollo Creed, que faleceu antes de seu nascimento. Ainda assim, a luta está em seu sangue e ele decide entrar no mundo das competições profissionais de boxe. Após muito insistir, Adonis consegue convencer Rocky Balboa a ser seu treinador e, enquanto um luta pela glória, o outro luta pela vida.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9DcmVlZC9DcmVlZC5OYXNjaWRvLnBhcmEuTHV0YXIuMjAxNi5Gb3JjZWQuc3J0",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Creed II (2018) [COLOR yellow]★[/COLOR] [COLOR white]7,0[/COLOR][COLOR gray]/10[/COLOR] (5,9 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9DcmVlZC9DcmVlZC5JSS4yMDE5Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bSvErsk6t4UwMiMW2aaLzHShFqP.png",
+      "sinopse": "[COLOR yellow]Drama, Ação[/COLOR]\nAdonis Creed saiu mais forte do que nunca de sua luta contra 'Pretty' Ricky Conlan e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky. Sua próxima luta não será tão simples: Ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9DcmVlZC9DcmVlZC5JSS4yMDE5LkZPUkNFRC5zcnQ=",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Creed III (2023) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (3,0 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9DcmVlZC9DcmVlZC4zLjIwMjMubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/kLgmZVrRVY41FWCCidi9IqmM473.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gOIztYywR291pC4k3IpDq7Vj3Kj.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/6ONmbTBzaRjxWpuGUoV4i7zfuLS.png",
+      "sinopse": "[COLOR yellow]Drama, Ação[/COLOR]\nDepois de dominar o mundo do boxe, Adonis Creed tem prosperado em sua carreira e vida familiar. Quando um amigo de infância e ex-prodígio do boxe, Damien Anderson, ressurge depois de cumprir uma longa sentença na prisão, ele está ansioso para provar que merece sua chance no ringue. O confronto entre ex-amigos é mais do que apenas uma briga. Para acertar as contas, Adonis deve colocar seu futuro em risco para lutar contra Damien - um lutador que não tem nada a perder.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
