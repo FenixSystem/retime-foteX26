@@ -1,55 +1,6 @@
 {
   "categorias": [
     {
-      "nome": "● [B]Cinema em Casa[/B] ●",
-      "imagem": "https://i.postimg.cc/XYR7w3BC/Cinema.jpg",
-      "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-      "itens": [
-        {
-          "nome": "Sala Cinema 1 [COLOR lime]Código: Vingança 4K (2026) LEGENDADO[/COLOR]",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala1.json",
-          "imagem": "https://image.tmdb.org/t/p/original/lsYSWqj6i2iyUDJoLA2cazFJYlC.jpg",
-          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-          "sinopse": "Realizadores: Jean-François Richet\nAtores: Jason Statham, Jason Wong, Annabelle Wallis\nDuração: 1h 35min\nGênero: Ação\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 16 anos",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Sala Cinema 2 [COLOR lime]Toy Story 5 4K (2026) LEGENDADO[/COLOR]",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/SALA.2.json",
-          "imagem": "https://image.tmdb.org/t/p/original/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
-          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-          "sinopse": "Realizadores: Andrew Stanton, McKenna Harris\nAtores: Tony Hale, Greta Lee, Tim Allen, Joan Cusack, Conan O'Brien, Tom Hanks\nDuração: 1h 42min\nGênero: Ação\nIdioma: Inglês\nLegenda: PT-BR\nNão recomendado para menos de 6 anos",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Sala Cinema 3 [COLOR lime]Star Wars: O Mandaloriano e Grogu (2026) 4K Dual Áudio[/COLOR]",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala.3.json",
-          "imagem": "https://image.tmdb.org/t/p/original/ePLfy1tBsPYzsrvS99cStIEpLmI.jpg",
-          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-          "sinopse": "Direção: Jon Favreau\nRoteiro Jon Favreau, Dave Filoni\nDuração: 2h 12min\nGênero: Aventura, Ação, Fantasia, Ficção Científica\nIdioma:Português-BR\nNão recomendado para menos de 14 anos",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Sala Cinema 4 [COLOR lime]Moana (2026) 4K LEGENDADO[/COLOR]",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/lista_sala4.json",
-          "imagem": "https://image.tmdb.org/t/p/original/yi2PSowrX1rLW3BKy5dt7YvwrVU.jpg",
-          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-          "sinopse": "Realizadores: Thomas Kail\nAtores: Catherine Laga'aia, Dwayne Johnson, Saulo Vasconcelos\nDuração: 1h 55m\nGênero: Família, Fantasia, Comédia e Aventura\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 10 anos",
-          "tipo": "serie"
-        },
-        {
-          "nome": "Sala Cinema 5 [COLOR lime]O Fim da Rua (2026) 4K LEGENDADO[/COLOR]",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/movi/Sala5.json",
-          "imagem": "https://image.tmdb.org/t/p/original/4kfDP13cYwCx55YP2gLGtcUFZlC.jpg",
-          "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-          "sinopse": "Realizadores:  David Robert Mitchell\nAtores: Anne Hathaway, Ewan McGregor, Maisy Stella\nDuração: 1h 55m\nGênero: Ficção científica, Mistério e Thriller\nIdioma: Inglês\nLegenda: PT-PT\nNão recomendado para menos de 14 anos",
-          "tipo": "serie"
-        }
-
-
-      ]
-    },
-    {
       "nome": "● [B]Filmes[/B] ●",
       "imagem": "https://i.postimg.cc/Fsj1HMJs/filmes.png",
       "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
