@@ -300,6 +300,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg",
           "sinopse": "[COLOR yellow]Ficção científica, Aventura e Thriller[/COLOR]\nKatniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.",
           "tipo": "serie"
+        },
+        {
+          "nome": "John Wick: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/JogosVorazes.json",
+          "imagem": "https://image.tmdb.org/t/p/original/yDr38lOPkeGLS4y5BiYDIluEOVp.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/6JtfWUOnqjbrrcpG1PrM00wpePs.jpg",
+          "sinopse": "[COLOR yellow]Ação, Thriller e Crime[/COLOR]\nUma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
+          "tipo": "serie"
         }
         
         
