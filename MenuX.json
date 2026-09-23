@@ -271,24 +271,6 @@
         }
         
         
-]
-    },
-    {
-      "nome": "● [B]Filmes Adultos (18+)[/B] [COLOR red]OFF[/COLOR] ●",
-      "imagem": "https://i.postimg.cc/FHpRj0pJ/series.png",
-      "fanart": "https://i.postimg.cc/FsJrF5p0/Fnart.png",
-      "itens": [
-
-        {
-          "nome": "Chanel Angel Unveiled (2018)",
-          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/18%2B/Adult.json",
-          "imagem": "https://image.tmdb.org/t/p/original/7Cp5w4X8xH2x4xDk67C5kMC5ePA.jpg",
-          "fanart": "https://image.tmdb.org/t/p/original/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-          "sinopse": "[COLOR yellow]Ação, Aventura, Ficção[/COLOR]\nEm Star Trek: Strange New Worlds, o capitão Christopher Pike (Anson Mount) lidera a equipe do USS Enterprise pelos confins do universo em aventuras perigosas e intensas. Passando-se antes da trama da série original, Strange New Worlds explora mais profundamente o universo Star Trek antes da chegada do icônico Capitão Kirk (William Shatner). Pike, ainda inexperiente em liderar toda a Enterprise por conta própria, se apoia na ajuda de seus companheiros da nave, em especial Una Chin-Riley (Rebecca Romjin), segunda em comando depois dele. Além disso, ele conta a inteligência ímpar do popular personagem Spock (Ethan Peck), um alienígena meio humano meio vulcano.",
-          "tipo": "serie"
-        }
-
-
     
       ]
     }
