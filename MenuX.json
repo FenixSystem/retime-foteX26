@@ -290,7 +290,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/JackReacher.json",
           "imagem": "https://image.tmdb.org/t/p/original/qtafXiYDUMKxzsssU41qWey5oiT.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/vViRXFnSyGJ2fzMbcc5sqTKswcd.jpg",
-          "sinopse": "[COLOR yellow]Terror, Mistério e Thriller[/COLOR]\nUma série de filmes de suspense e ação e crime baseada em romances do autor Lee Child, baseados em Jack Reacher. Reacher vagueia pelos Estados Unidos fazendo bicos e investigando situações suspeitas e frequentemente perigosas.",
+          "sinopse": "[COLOR yellow]Ação, Thriller e Crime[/COLOR]\nUma série de filmes de suspense e ação e crime baseada em romances do autor Lee Child, baseados em Jack Reacher. Reacher vagueia pelos Estados Unidos fazendo bicos e investigando situações suspeitas e frequentemente perigosas.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Jogos Vorazes: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/JogosVorazes.json",
+          "imagem": "https://image.tmdb.org/t/p/original/xZe2DbrTVpAnZ7VLHEW5G0mIynK.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Aventura e Thriller[/COLOR]\nKatniss Everdeen, uma garota de dezesseis anos que vive em um país distópico chamado Panem - localizado onde estaria a América do Norte. O país é dominado por uma metrópole tecnologicamente avançada chamada Capital, que realiza anualmente os Jogos Vorazes, para que as pessoas sempre se lembrem da revolta que aconteceu décadas atrás.",
           "tipo": "serie"
         }
         
