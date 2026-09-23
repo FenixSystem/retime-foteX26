@@ -285,6 +285,14 @@
           "sinopse": "[COLOR yellow]Terror, Mistério e Thriller[/COLOR]\nInvocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.",
           "tipo": "serie"
         }
+        {
+          "nome": "Jack Reacher: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/JackReacher.json",
+          "imagem": "https://image.tmdb.org/t/p/original/qtafXiYDUMKxzsssU41qWey5oiT.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/vViRXFnSyGJ2fzMbcc5sqTKswcd.jpg",
+          "sinopse": "[COLOR yellow]Terror, Mistério e Thriller[/COLOR]\nUma série de filmes de suspense e ação e crime baseada em romances do autor Lee Child, baseados em Jack Reacher. Reacher vagueia pelos Estados Unidos fazendo bicos e investigando situações suspeitas e frequentemente perigosas.",
+          "tipo": "serie"
+        }
         
         
     
