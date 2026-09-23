@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Jumanji (1995) [COLOR yellow]★[/COLOR] [COLOR white]7,2[/COLOR][COLOR gray]/10[/COLOR] (11,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9KdW1hbmppL0p1bWFuamkuMTk5Ni5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/cHfIIcumOjNvXMqobR94jCg9sPI.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/fsJGT5u0TKdNxlPW06mtoGDvmCX.png",
+      "sinopse": "[COLOR yellow]Aventura, Fantasia, Família[/COLOR]\nQuando duas crianças encontram e jogam um jogo de tabuleiro mágico, elas soltam um homem preso por décadas - e uma série de perigos que só podem ser detidos ao terminar o jogo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Jumanji: Bem-Vindo à Selva (2017) [COLOR yellow]★[/COLOR] [COLOR white]6,8[/COLOR][COLOR gray]/10[/COLOR] (14,8 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9KdW1hbmppL0p1bWFuamkuQmVtLlZpbmRvLmEuU2VsdmEuMjAxOC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/62RFp8bvulylVm3YBagALNuXYNY.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wOHZKi7CHvLM9ygGMgKrV1yr2oA.png",
+      "sinopse": "[COLOR yellow]Aventura, Comédia, Fantasia[/COLOR]\nQuatro adolescentes que estão de castigo depois das aulas encontram um console de videogame antigo com um jogo que nunca tinham ouvido falar. Quando decidem jogar, são imediatamente sugados para dentro de uma selva, para o mundo de Jumanji, onde assumem os corpos dos seus avatares. Eles têm que ir até o fim da maior aventura de suas vidas, recheada de diversão, emoções e perigos, ou ficarão para sempre dentro do jogo!",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Jumanji: Próxima Fase (2019) [COLOR yellow]★[/COLOR] [COLOR white]6,9[/COLOR][COLOR gray]/10[/COLOR] (9,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9KdW1hbmppL0p1bWFuamkuUHJveGltYS5GYXNlLjIwMjAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/qgch2rFskIxDMgwrD5lWTaB4nBl.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bimU7QUXzlY0dINd1F9RuRY2xck.png",
+      "sinopse": "[COLOR yellow]Aventura, Comédia, Fantasia[/COLOR]\nA turma está de volta, mas o jogo mudou. Quando voltam para Jumanji para resgatar um amigo, descobrem que nada do que esperavam. Com mais ação e surpresas, os jogadores terão que desbravar partes desconhecidas e inexploradas, dos desertos áridos até montanhas de neve, para escapar.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
