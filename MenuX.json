@@ -276,6 +276,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/m3ip0ci0TnX0ATUxpweqElYCeq4.jpg",
           "sinopse": "[COLOR yellow]Ação, Ficção científica, Aventura e Thriller[/COLOR]\nUma série de filmes de ação de ficção científica com base na franquia de brinquedos G.I.Joe, com inspiração da série de quadrinhos e desenhos animados.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Invocação do Mal: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Invocacao.do.Mal.json",
+          "imagem": "https://image.tmdb.org/t/p/original/lY7FnHtVfjPqt2lMHOCEJ7QybAv.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/zPfoOVjJeJ7FOxwuEj4bH4Uhfi5.jpg",
+          "sinopse": "[COLOR yellow]Terror, Mistério e Thriller[/COLOR]\nInvocação do Mal é uma coletânea com dois de filmes de horror, estrelada por Vera Farmiga e Patrick Wilson, no papel dos investigadores paranormais Lorraine e Ed Warren. Esta franquia é de grande sucesso, com vários personagens marcantes que chegaram até a ter seus próprios filmes. Estas histórias são a base para criação de universo fantástico do paranormal.",
+          "tipo": "serie"
         }
         
         
