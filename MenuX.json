@@ -306,7 +306,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/JohnWick.json",
           "imagem": "https://image.tmdb.org/t/p/original/yDr38lOPkeGLS4y5BiYDIluEOVp.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/6JtfWUOnqjbrrcpG1PrM00wpePs.jpg",
-          "sinopse": "[COLOR yellow]Ação, Thriller e Crime[/COLOR]\nUma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan 'John' Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
+          "sinopse": "[COLOR yellow]Ação, Thriller e Crime[/COLOR]\nUma série de filmes de ação e suspense neo-noir sobre um ex-assassino, Jonathan John Wick, que sai da aposentadoria buscando vingança pelo roubo de seu carro antigo e pela morte de seu cachorrinho.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Jumanji: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Jumanji.json",
+          "imagem": "https://image.tmdb.org/t/p/original/AetcZzB9dcbzEWmnvvTF74HjCOU.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/9PCsWrw1GvrZkrd1GCxRqscgZu0.jpg",
+          "sinopse": "[COLOR yellow]Aventura, Comédia, Fantasia[/COLOR]\nJumanji: um jogo de tabuleiro quando jogado traz os jogadores para dentro de um mundo misterioso. Eles têm que terminar o jogo para conseguir sair desta enrascada.",
           "tipo": "serie"
         }
         
