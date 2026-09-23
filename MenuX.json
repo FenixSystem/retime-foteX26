@@ -268,6 +268,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/kLGF2qFYVuETxMtHZJgaSGmXK1c.jpg",
           "sinopse": "[COLOR yellow]Ação, Aventura e Thriller[/COLOR]\nFallen é uma série de filmes de ação americana criada pelos roteiristas Creighton Rothenberger e Katrin Benedikt. É estrelada por Gerard Butler como agente do Serviço Secreto dos Estados Unidos Mike Banning, Aaron Eckhart como presidente dos EUA Benjamin Asher, e Morgan Freeman como presidente da Câmara (e eventual presidente) Allan Trumbull.",
           "tipo": "serie"
+        },
+        {
+          "nome": "G.I. Joe: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Invasao.json",
+          "imagem": "https://image.tmdb.org/t/p/original/8ykKDU3FisEFtCpPZloB1jqcAIn.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/m3ip0ci0TnX0ATUxpweqElYCeq4.jpg",
+          "sinopse": "[COLOR yellow]Ação, Ficção científica, Aventura e Thriller[/COLOR]\nUma série de filmes de ação de ficção científica com base na franquia de brinquedos G.I.Joe, com inspiração da série de quadrinhos e desenhos animados.",
+          "tipo": "serie"
         }
         
         
