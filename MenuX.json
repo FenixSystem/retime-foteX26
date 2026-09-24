@@ -332,13 +332,21 @@
           "fanart": "https://image.tmdb.org/t/p/original/dATAxK1eWnqHPRqrkc3cEHMRhXn.jpg",
           "sinopse": "[COLOR yellow]Aventura, Drama, Ação, Romance, Família[/COLOR]\nOs três primeiros filmes da série seguem Daniel LaRusso, que aprende a dominar o caratê para sempre através da orientação excêntrica de um zelador chamado Sr. Miyagi, no quarto e último filme da série original, o Sr. Miyagi se torna o zelador da neta de seu amigo na tentativa de afastá-la de problemas.",
           "tipo": "serie"
-        }
+        },
         {
           "nome": "Kill Bill: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/KillBill.json",
           "imagem": "https://image.tmdb.org/t/p/original/qyOYhARKn9CfBweqc5fljk56BQ5.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/oCLKNACMNrEf4T1EP6BpMXDl5m1.jpg",
           "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nKill Bill é uma série de dramas de vingança emocionantes dirigida por Quentin Tarantino. Inspirados em filmes de artes marciais de Hong Kong, filmes de samurai japoneses e westerns spaghetti italianos, esses filmes são caracterizados por sua violência estilizada, referências à cultura pop e amplo uso de música popular. Com Uma Thurman no papel icônico de A Noiva, os filmes Kill Bill se tornaram clássicos cult que continuam a cativar o público em todo o mundo.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Maze Runner: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/MazeRunner.json",
+          "imagem": "https://image.tmdb.org/t/p/original/beR71cbwXH0vySlTMPZo0GQ54Q9.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/6My0TVRN0fXnmOoqbcFGBEiMSPJ.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura, Thriller[/COLOR]\nA série de filmes consiste em filmes de aventura, ação distópica de ficção científica com base na trilogia de livros Maze Runner do autor americano James Dashner. Eles começam com Thomas, que acorda preso em um labirinto com um grupo de outros meninos, ele não tem memória do mundo exterior além dos sonhos sobre uma organização conhecida como CRUEL. Somente juntando fragmentos de seu passado com pistas que ele descobre no labirinto, Thomas pode descobrir seu propósito e uma maneira de escapar.",
           "tipo": "serie"
         }
         
