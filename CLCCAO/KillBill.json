@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Kill Bill: Volume 1 (2003) [COLOR yellow]★[/COLOR] [COLOR white]8,0[/COLOR][COLOR gray]/10[/COLOR] (19,4 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9LaWxsLkJpbGwvS2lsbC5CaWxsLlZvbHVtZS4xLjIwMDMubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/6VDrtm6rLEW4hByVA45V0Gpime0.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/hW4KIfximSiD541z0Fm8KGctL3U.png",
+      "sinopse": "[COLOR yellow]Ação, Crime[/COLOR]\nA ex-assassina conhecida apenas como \"A Noiva\" acorda de um coma de quatro anos decidida a se vingar de Bill, seu ex-amante e chefe, que tentou matá-la no dia do casamento. Ela está motivada a acertar as contas com cada uma das pessoas envolvidas com a perda da filha, da festa de casamento e dos quatro anos da sua vida. Na jornada, \"A Noiva\" é submetida a dores físicas agoniantes ao enfrentar a inescrupulosa gangue de Bill, o Esquadrão Assassino de Víboras Mortais.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Kill Bill: Volume 2 (2004) [COLOR yellow]★[/COLOR] [COLOR white]7,9[/COLOR][COLOR gray]/10[/COLOR] (15,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9LaWxsLkJpbGwvS2lsbC5CaWxsLlZvbHVtZS4yLjIwMDQubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/qUe5LcD5gnbRFHNZBZf5qt56ylv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pgG6tzJzC8mjGqhaT8IWwEk00xf.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/oIdhhgihWqn3I60hC4I8v0vQLz2.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nApós ser traída por Bill e seu antigo grupo, a Noiva assassina fica à beira da morte por 4 anos. Após despertar do coma, ela vai atrás de cada um dos seus antigos companheiros para matá-los. Na segunda parte dessa busca por vingança, a noiva vai continuar sua procura por Bill, atacando os últimos dois sobreviventes do grupo: Budd e Elle Driver . O confronto com seu antigo mestre, e mandante da sua morte, vai revelar novas surpresas para a assassina.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
