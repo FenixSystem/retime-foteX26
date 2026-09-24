@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Maze Runner: Correr ou Morrer (2014) [COLOR yellow]★[/COLOR] [COLOR white]7,2[/COLOR][COLOR gray]/10[/COLOR] (18,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9NYXplLlJ1bm5lci9NYXplLlJ1bm5lci5Db3JyZXIub3UuTW9ycmVyLjIwMTQubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/efAJzIyjYlgdO7fzfMBJcFZqI5v.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eTlcNXGv32zkVI7ZDHhfeaKHXKQ.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/lQAsnu25fq8iAdCXvbduw36HAZm.png",
+      "sinopse": "[COLOR yellow]Ação, Mistério, Ficção científica, Thriller[/COLOR]\nNum cenário pós-apocalíptico, uma comunidade de rapazes descobre que estão presos num labirinto misterioso. Juntos, terão de descobrir como escapar, resolver o enigma e revelar o arrepiante segredo acerca de quem os colocou ali e por que razão.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maze Runner: Prova de Fogo (2015) [COLOR yellow]★[/COLOR] [COLOR white]6,7[/COLOR][COLOR gray]/10[/COLOR] (11,3 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9NYXplLlJ1bm5lci9NYXplLlJ1bm5lci5Qcm92YS5kZS5Gb2dvLjIwMTUubXA0",
+      "imagem": "https://image.tmdb.org/t/p/original/qpb5p5hPU3Bkb0wXJQPmONjOejh.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4mcOCiR06dqQ5eoEJcG3zvonjOa.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/fg7AnPonEFDz4zNrJaIRW1zice0.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller, Aventura[/COLOR]\nApós escapar do labirinto, Thomas e os garotos que o acompanharam em sua fuga da Clareira precisam agora lidar com uma realidade bem diferente: a superfície da Terra foi queimada pelo sol e eles precisam lidar com criaturas disformes chamadas Cranks, que desejam devorá-los vivos.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maze Runner: A Cura Mortal (2018) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (8,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9NYXplLlJ1bm5lci9NYXplLlJ1bm5lci5BLkN1cmEuTW9ydGFsLjIwMTgubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/zGCfnZ3bCowMY9So9ZGpsyuOYl3.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/iDHxMQHx0DSr64Q9qeIfWIZbIRv.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura, Thriller[/COLOR]\nNo terceiro filme da saga, Thomas (Dylan O' Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
