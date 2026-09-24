@@ -349,6 +349,14 @@
           "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura, Thriller[/COLOR]\nA série de filmes consiste em filmes de aventura, ação distópica de ficção científica com base na trilogia de livros Maze Runner do autor americano James Dashner. Eles começam com Thomas, que acorda preso em um labirinto com um grupo de outros meninos, ele não tem memória do mundo exterior além dos sonhos sobre uma organização conhecida como CRUEL. Somente juntando fragmentos de seu passado com pistas que ele descobre no labirinto, Thomas pode descobrir seu propósito e uma maneira de escapar.",
           "tipo": "serie"
         }
+        {
+          "nome": "Crepúsculo: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Crepusculo.json",
+          "imagem": "https://image.tmdb.org/t/p/original/3PlBwwizkPDZITeIPUlXQCejeQD.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/fpg1Uxc6zIAMRgY7RgbG0ZG9fzC.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura, Thriller[/COLOR]\nCrepúsculo é uma série de histórias de fantasia e romance sobre vampiros escrita por Stephenie Meyer que viraram filme. A saga conta a história de Isabella Swan (Bella), uma adolescente que se muda de Phoenix para Forks, em Washington, experimentando um mundo totalmente novo para si ao apaixonar-se por Edward Cullen, um vampiro.",
+          "tipo": "serie"
+        }
         
         
     
