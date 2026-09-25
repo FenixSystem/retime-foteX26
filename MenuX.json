@@ -380,6 +380,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/mI8xgtdaKDwnfaZ6CahOaYKdfSU.jpg",
           "sinopse": "[COLOR yellow]Ação, Fantasia, Aventura[/COLOR]\nUma série de filmes de ação e fantasia baseados nos populares jogos de luta de mesmo nome.",
           "tipo": "serie"
+        },
+        {
+          "nome": "O Contador: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/OContador.json",
+          "imagem": "https://image.tmdb.org/t/p/original/hHfiZBIxzMmkzFds6vkQEJIurIB.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/dpGnyEug6igJHBMnJciwvEmqcLJ.jpg",
+          "sinopse": "[COLOR yellow]Mistério, Crime, Thriller[/COLOR]\nUma trilogia planejada de filmes de suspense policial estrelada por Ben Affleck como um gênio da matemática com mais afinidade por números do que por pessoas. Usando um escritório de contabilidade de uma pequena cidade como fachada, ele ganha a vida como contador freelancer para organizações criminosas perigosas.",
+          "tipo": "serie"
         }
         
         
