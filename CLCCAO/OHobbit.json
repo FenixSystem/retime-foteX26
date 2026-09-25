@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "O Hobbit: Uma Jornada Inesperada (2012) [COLOR yellow]★[/COLOR] [COLOR white]7,4[/COLOR][COLOR gray]/10[/COLOR] (20,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkhvYmJpdC9PLkhvYmJpdC5VbWEuSm9ybmFkYS5JbmVzcGVyYWRhLjIwMTIubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/lZtmn2pLw1kgDYj4Ig4s3DYBQCD.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/psVQzqqal9nGslYLUCYg8ZKTdAM.png",
+      "sinopse": "[COLOR yellow]Aventura, Fantasia, Ação[/COLOR]\nComo a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Hobbit: A Desolação de Smaug (2013) [COLOR yellow]★[/COLOR] [COLOR white]7,6[/COLOR][COLOR gray]/10[/COLOR] (14,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkhvYmJpdC9PLkhvYmJpdC5BLkRlc29sYWNhby5kZS5TbWF1Zy4yMDEzLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/ws5z2UmmVzRDD8hZtHTHfcqTOAW.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/5ZYxL6k4ZHrEmrFvmY4HZVzerxG.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/r2lTIKnlyPR2LVLHs7oXlXOI7aX.png",
+      "sinopse": "[COLOR yellow]Fantasia, Aventura, Ação[/COLOR]\nAo lado de um grupo de anões e de Gandalf, Bilbo segue em direção à Montanha Solitária, onde deverá ajudar seus companheiros a retomar a Pedra de Arken. O problema é que o artefato está perdido em meio a um tesouro protegido pelo temido dragão Smaug.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Hobbit: A Batalha dos Cinco Exércitos (2014) [COLOR yellow]★[/COLOR] [COLOR white]7,3[/COLOR][COLOR gray]/10[/COLOR] (15,8 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkhvYmJpdC9PLkhvYmJpdC5BLkJhdGFsaGEuZG9zLkNpbmNvLkV4ZXJjaXRvcy4yMDE0Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/wRKwrfQ7p0ttrb09G3mcOSyN1pk.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/vAGZ7pXwYktGk1m0hO2PTq12w3c.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Fantasia[/COLOR]\nO dragão Smaug lança sua fúria ardente contra a Cidade do Lago que fica próxima da montanha de Erebor. Bard consegue derrotá-lo, mas, rapidamente, sem a ameaça do dragão, inicia-se uma batalha pelo controle de Erebor e sua riqueza. Os anões, liderados por Thorin, adentram a montanha e estão dispostos a impedir a entrada de elfos, anões e orcs. Bilbo Bolseiro e Gandalf tentam impedir a guerra.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
