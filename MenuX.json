@@ -388,6 +388,22 @@
           "fanart": "https://image.tmdb.org/t/p/original/dpGnyEug6igJHBMnJciwvEmqcLJ.jpg",
           "sinopse": "[COLOR yellow]Mistério, Crime, Thriller[/COLOR]\nUma trilogia planejada de filmes de suspense policial estrelada por Ben Affleck como um gênio da matemática com mais afinidade por números do que por pessoas. Usando um escritório de contabilidade de uma pequena cidade como fachada, ele ganha a vida como contador freelancer para organizações criminosas perigosas.",
           "tipo": "serie"
+        },
+        {
+          "nome": "O Contador: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/OContador.json",
+          "imagem": "https://image.tmdb.org/t/p/original/hHfiZBIxzMmkzFds6vkQEJIurIB.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/dpGnyEug6igJHBMnJciwvEmqcLJ.jpg",
+          "sinopse": "[COLOR yellow]Mistério, Crime, Thriller[/COLOR]\nUma trilogia planejada de filmes de suspense policial estrelada por Ben Affleck como um gênio da matemática com mais afinidade por números do que por pessoas. Usando um escritório de contabilidade de uma pequena cidade como fachada, ele ganha a vida como contador freelancer para organizações criminosas perigosas.",
+          "tipo": "serie"
+        }
+        {
+          "nome": "O Hobbit: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/OHobbit.json",
+          "imagem": "https://image.tmdb.org/t/p/original/hQghXOjSS2xfzx9XnMyZqt8brCF.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/ifedADkqE88rfmnQeRRR9QJss84.jpg",
+          "sinopse": "[COLOR yellow]Ação, Aventura, Fantasia[/COLOR]\nO Hobbit é uma coleção de 3 filmes épicos de fantasia e aventura, baseados no romance de fantasia de J. R. R. Tolkien, com o mesmo título. A trilogia de filmes está situada na Terra-Média ou Terra do Meio, 60 anos antes de O Senhor dos Anéis.",
+          "tipo": "serie"
         }
         
         
