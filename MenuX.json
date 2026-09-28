@@ -500,6 +500,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/zQao2h92RYNmhqCvmiReIHcz3Xp.jpg",
           "sinopse": "[COLOR yellow]Ação, Thriller, Crime, Mistério, Ficção científica[/COLOR]\nA série de filmes Rota de Fuga é composta por filmes de suspense de ação baseados em personagens criados por Miles Chapman e Arnell Jesko. Os filmes são centrados em um empresário e engenheiro de estruturas qualificado chamado Ray Breslin, que é mais conhecido por ser o maior artista de fuga do mundo. Breslin também ajuda a projetar centros de detenção com os níveis mais intensos de segurança.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Sicario: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Sicario.json",
+          "imagem": "https://image.tmdb.org/t/p/original/kWUESOPtGqjJnIKJely3eqL3xUu.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/1v5AHV0LXaOrCe0ZJBUbvGeu3BT.jpg",
+          "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nA saga Sicario, ou trilogia Sicario / série de filmes Sicario, é uma série policial americana sobre um cartel de drogas mexicano com Emily Blunt, Josh Brolin e Benicio del Toro. O primeiro filme, intitulado Sicario, estreou nos cinemas alemães no dia 1º de outubro de 2015, com direção de Denis Villeneuve. Para a segunda parte com o título simples Sicario 2, Setfano Sollima assumiu a direção. O lançamento em alemão foi em 19 de julho de 2018, e uma terceira parte já está sendo planejada.",
+          "tipo": "serie"
         }
         
         
