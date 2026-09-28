@@ -436,13 +436,21 @@
           "fanart": "https://image.tmdb.org/t/p/original/lahj0Z6tmoAR0ElzqrPtF8Gx1fp.jpg",
           "sinopse": "[COLOR yellow]Ficção científica, Aventura, Ação[/COLOR]\nCésar, um chimpanzé de laboratório, desenvolve inteligência e emoções humanas, desencadeando uma batalha épica para determinar qual será a espécie dominante no planeta Terra.",
           "tipo": "serie"
-        }
+        },
         {
-          "nome": "Planeta dos Macacos: Coleção",
+          "nome": "Police Story: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/PoliceStory.json",
           "imagem": "https://image.tmdb.org/t/p/original/7SJRKd1Zfo5XoX7vkOxrFEbhiSN.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/zFc95N0roxxTc26sYVcFBUhN0YB.jpg",
           "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nChan começou a trabalhar no filme depois de uma experiência decepcionante trabalhando com outro diretor em O Protetor, que pretendia ser sua entrada no mercado cinematográfico americano. O primeiro filme Police Story é considerado pelos fãs um dos melhores filmes de Chan. Foi um grande sucesso na Ásia. Segundo seu livro, Chan considera o filme o seu melhor, em termos de ação.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Predador: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Predador.json",
+          "imagem": "https://image.tmdb.org/t/p/original/A1Z5lNbRCv9hsI2Fv6muUE9XbdM.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller[/COLOR]\nUma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
           "tipo": "serie"
         }
         
