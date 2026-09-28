@@ -524,6 +524,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/l5CIAdxVhhaUD3DaS4lP4AR2so9.jpg",
           "sinopse": "[COLOR yellow]Ação, Aventura, Família, Comédia[/COLOR]\nAcompanhe as aventuras de Sonic, um ouriço alienígena com o poder da super-velocidade.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Top Gun: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/TopGun.json",
+          "imagem": "https://image.tmdb.org/t/p/original/1UvrPkHiUx77ZFXGQArcbaxxyKW.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg",
+          "sinopse": "[COLOR yellow]Ação, Drama[/COLOR]\nSérie de filmes baseada no personagem Tenente Pete "Maverick" Mitchell, um aviador da marinha dos EUA.",
+          "tipo": "serie"
         }
         
         
