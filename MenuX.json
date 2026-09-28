@@ -530,7 +530,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/TopGun.json",
           "imagem": "https://image.tmdb.org/t/p/original/1UvrPkHiUx77ZFXGQArcbaxxyKW.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/eNupRRVv0a4dkVTxOMvG7LhNBaq.jpg",
-          "sinopse": "[COLOR yellow]Ação, Drama[/COLOR]\nSérie de filmes baseada no personagem Tenente Pete "Maverick" Mitchell, um aviador da marinha dos EUA.",
+          "sinopse": "[COLOR yellow]Ação, Drama[/COLOR]\nSérie de filmes baseada no personagem Tenente Pete Maverick Mitchell, um aviador da marinha dos EUA.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Transformers: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Transformers.json",
+          "imagem": "https://image.tmdb.org/t/p/original/nnFgBA6nR0pHorxdFaDvdY4nVHL.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/oci1q3hXFVQFSNpXxUb2jxIGHQf.jpg",
+          "sinopse": "[COLOR yellow]Ação, Ficção científica, Aventura[/COLOR]\nA história de Transformers é marcada pelo confronto constante entre os heroicos Autobots e os implacáveis Decepticons. A franquia teve a direção do cineasta Michael Bay.",
           "tipo": "serie"
         }
         
