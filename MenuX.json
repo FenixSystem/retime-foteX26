@@ -540,6 +540,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/oci1q3hXFVQFSNpXxUb2jxIGHQf.jpg",
           "sinopse": "[COLOR yellow]Ação, Ficção científica, Aventura[/COLOR]\nA história de Transformers é marcada pelo confronto constante entre os heroicos Autobots e os implacáveis Decepticons. A franquia teve a direção do cineasta Michael Bay.",
           "tipo": "serie"
+        },
+        {
+          "nome": "TRON: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/TRON.json",
+          "imagem": "https://image.tmdb.org/t/p/original/nnFgBA6nR0pHorxdFaDvdY4nVHL.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/oci1q3hXFVQFSNpXxUb2jxIGHQf.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Aventura, Ação[/COLOR]\nTron é uma franquia americana de ficção científica. Tudo começou em 1982 com o filme da Walt Disney Pictures, Tron: Uma Odisseia Eletrônica. Foi seguido por vários filmes, uma minissérie de quadrinhos e a sequência do filme de 2010, Tron: O Legado.",
+          "tipo": "serie"
         }
         
         
