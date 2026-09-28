@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Top Gun - Ases Indomáveis (1986) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (9,9 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Ub3AuR3VuL1RvcC5HdW4uQXNlcy5JbmRvbWF2ZWlzLjE5ODYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/dDrMtnVgtDeecIgNchb9F8JcO5w.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/hIyoNkj02nkad7NIvwFmbcA1mw2.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, Romance[/COLOR]\nA escola naval de pilotos é onde o melhor dos melhores treinam para refinar suas habilidades de voo de elite. Quando o piloto Maverick é enviado para a escola, sua atitude irresponsável e comportamento arrogante o colocam em desacordo com os outros pilotos, especialmente Iceman. Porém Maverick não está apenas competindo para ser o piloto superior de caça, ele também está lutando pela atenção de sua bonita instrutora de voo, Charlotte Blackwood.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Top Gun: Maverick (2022) [COLOR yellow]★[/COLOR] [COLOR white]8,2[/COLOR][COLOR gray]/10[/COLOR] (11,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Ub3AuR3VuL1RvcC5HdW4uTWF2ZXJpY2suMjAyMi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/kPbuLGVSJHATkW9fX9L3h1wM0Pa.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/wbuiGa8NTw6uOkjzWsszXNUIqHP.png",
+      "sinopse": "[COLOR yellow]Ação, Drama[/COLOR]\nDepois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete \"Maverick\" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
