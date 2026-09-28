@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Rota de Fuga (2013) [COLOR yellow]★[/COLOR] [COLOR white]6,7[/COLOR][COLOR gray]/10[/COLOR] (5,8 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Sb3RhLmRlLkZ1Z2EvUm90YS5kZS5GdWdhLjIwMTQubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/5GHaA5GreLrHaxZrnNw5zS0vPeq.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ix9WYBqQ2xSZCgyeQ1vVdrbaFa4.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/sKhSWdfVFBv0UxmEwKBggI1AETH.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nRay Breslin é a maior autoridade que existe quando se trata de segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. No entanto, Ray acaba sendo preso, mas é enviado justamente para a prisão que ele mesmo criou. Lá, ele precisa encontrar uma brecha não imaginada até então, que possa permitir sua fuga.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Rota de Fuga 2: Hades (2018) [COLOR yellow]★[/COLOR] [COLOR white]5,2[/COLOR][COLOR gray]/10[/COLOR] (1,6 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Sb3RhLmRlLkZ1Z2EvUm90YS5kZS5GdWdhLjIuMjAxOC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/7uYD4Ix66hOsvUVewoYQbuc51Hy.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/xIAaN3AQqaJiN5RJ0WsmBady8Hq.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/40xXnQdnHCC97CUV2C7jJrBLuyV.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime, Mistério, Ficção científica[/COLOR]\nAnos depois de ter conseguido escapar de uma prisão à prova de fuga, Ray Breslin organizou uma nova força de segurança de elite. Mas quando um dos seus elementos desaparece, Breslin vê-se obrigado a regressar ao inferno de onde já fugiu uma vez para salvar o amigo da brutal arena de combate conhecida como Hades.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Rota de Fuga 3: O Resgate (2019) [COLOR yellow]★[/COLOR] [COLOR white]5,4[/COLOR][COLOR gray]/10[/COLOR] (977)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Sb3RhLmRlLkZ1Z2EvUm90YS5kZS5GdWdhJTIwMy4yMDE5Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/wTqlEF01SGo4QONor55zUPxHZGP.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/yxmfjj4YiFcJipn9nYVBRxeCvo9.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/odfo8ENoFag4giSVpEBXPZhcTNi.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nO especialista em segurança Ray Breslin e sua equipe devem realizar uma missão de resgate mortal para salvar sua namorada e a filha sequestrada de um magnata da tecnologia de Hong Kong de uma formidável prisão letã.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
