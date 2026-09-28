@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Resgate (2020) [COLOR yellow]★[/COLOR] [COLOR white]7,3[/COLOR][COLOR gray]/10[/COLOR] (6,8 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9SZXNnYXRlL1Jlc2dhdGUuMjAyMC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/zxahunlqvMPWzUBd1XSRsGawdS9.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/2QSZ4CPd8AoljAL76qM30dFft07.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8kmF0Eig8czqXY8CHdM5H2rggNR.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nEm Bangladesh, o mercenário Tyler Rake luta para sobreviver durante uma missão para resgatar o filho de um chefão do crime.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Resgate 2 (2023) [COLOR yellow]★[/COLOR] [COLOR white]7,4[/COLOR][COLOR gray]/10[/COLOR] (3,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9SZXNnYXRlL1Jlc2dhdGUuMi4yMDIzLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/AfwqKLQwjgPu8bIL1mqhHTlnQv0.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/wRxLAw4l17LqiFcPLkobriPTZAw.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/gGdtugQDJWtiBCvGb5oc8PGfADT.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nDepois de escapar da morte por um triz, o mercenário Tyler Rake encara mais uma missão perigosa: resgatar a família de um criminoso implacável.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
