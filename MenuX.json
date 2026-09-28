@@ -484,6 +484,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/8LUjahiuAmu6wvLPy1vXgEK98zG.jpg",
           "sinopse": "[COLOR yellow]Ação, Ficção científica[/COLOR]\nAs Crônicas de Riddick é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Rocky: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Rocky.json",
+          "imagem": "https://image.tmdb.org/t/p/original/zuFAiCDTxJiHaGwGyQXGKIfjJn7.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/yaXXemxz3ePNSrqNtc4ZAbuxJRv.jpg",
+          "sinopse": "[COLOR yellow]Drama, Ação[/COLOR]\nRocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone, o qual nestes filmes interpreta o boxeador Rocky Balboa.",
+          "tipo": "serie"
         }
         
         
