@@ -418,7 +418,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/O.Senhor.dos.Aneis.json",
           "imagem": "https://image.tmdb.org/t/p/original/7UJVffR2haKcGUKVTtCQcyudsNr.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg",
-          "sinopse": "[COLOR yellow]Aventura, Fantasia, Ação[/COLOR]\nA história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o "Anel do Poder" volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.",
+          "sinopse": "[COLOR yellow]Aventura, Fantasia, Ação[/COLOR]\nA história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o Anel do Poder volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "O Troll da Montanha: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Troll.json",
+          "imagem": "https://image.tmdb.org/t/p/original/A5kWJJaBeFPTVqAW4peaubw1JqA.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/3cvF36ROm4o9XjXpXRdnSzY9gYI.jpg",
+          "sinopse": "[COLOR yellow]Aventura, Fantasia, Ação[/COLOR]\nQuando um troll ancestral desperta em uma montanha norueguesa, um grupo heterogêneo de heróis precisa se unir para tentar impedi-lo de causar destruição e destruição.",
           "tipo": "serie"
         }
         
