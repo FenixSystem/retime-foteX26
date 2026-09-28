@@ -468,6 +468,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/tCo96jmjKEMoWa5eCZNNss3MtMH.jpg",
           "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura[/COLOR]\nÉpico de ficção científica de Zack Snyder, dividido em dois filmes.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Resgate: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Resgate.json",
+          "imagem": "https://image.tmdb.org/t/p/original/xU0zvW3eYTpOcqcFZohexz2miMy.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/gxBbFVb2SUWtHTJQXjwAtEPTWcA.jpg",
+          "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nA Coleção Extraction acompanha o mercenário do mercado negro Tyler Rake em missões de alto risco por territórios instáveis. Repleta de ação intensa, visuais impactantes e nuances emocionais, a série explora temas como sobrevivência, lealdade e redenção em um mundo implacável de perigo e sacrifício.",
+          "tipo": "serie"
         }
         
         
