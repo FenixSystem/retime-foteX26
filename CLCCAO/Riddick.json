@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Eclipse Mortal (2000) [COLOR yellow]★[/COLOR] [COLOR white]6,9[/COLOR][COLOR gray]/10[/COLOR] (5,0 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9SaWRkaWNrL0VjbGlwc2UuTW9ydGFsLjIwMDAubXA0",
+      "imagem": "https://image.tmdb.org/t/p/original/7V4WfCUWYzMcBby8e6jAwVxw2Ai.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/bMJdVmo6QqoUHpUsjWyei6MN02x.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/NB6aNBy3Qnmas4MYQ05OyFEfs7.png",
+      "sinopse": "[COLOR yellow]Thriller, Ficção científica, Ação[/COLOR]\nNo futuro, as viagens interplanetárias são corriqueiras e o homem conhece boa parte do universo. Durante uma viagem tripulada por centenas de pessoas rumo ao planeta New Mecca, um acidente ocorre e a nave é obrigada a pousar num planeta desconhecido. De toda a tripulação, apenas seis pessoas sobrevivem à queda, que descobrem estar num planeta povoado por milhares de criaturas carnívoras, que hibernam nas cavernas locais, mas que irão caçar em céu aberto com a chegada do próximo eclipse. A única arma que eles têm contra os monstros é a claridade, mas mesmo assim o planeta não possui eletricidade e as baterias de seus trajes estão esgotando.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "A Batalha de Riddick (2004) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (4,7 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9SaWRkaWNrL1RoZS5DaHJvbmljbGVzLm9mLlJpZGRpY2suMjAwNC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/lt3NqorBMWn786m9bzqM0OLdMS8.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/zokqa9bbeaYG7l5fdpdMSoaRUJf.png",
+      "sinopse": "[COLOR yellow]Ação, Ficção científica[/COLOR]\nOs Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Riddick 3 (2013) [COLOR yellow]★[/COLOR] [COLOR white]6,3[/COLOR][COLOR gray]/10[/COLOR] (4,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9SaWRkaWNrL1RoZS5DaHJvbmljbGVzLm9mLlJpZGRpY2suMjAwNC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/yoNsvIBOIVegeCTzQBiOZUpC5Ml.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/naGU49u4BXynQ1o5L755pfs8dom.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/cqntQjx3looDzQ4gLkEkE9TmWKD.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller[/COLOR]\nRiddick, o homem mais procurado da galáxia, foi abandonado à própria morte em um planeta habitado apenas por animais selvagens. Ele deseja retornar ao seu planeta natal, mas como não tem uma nave precisa encontrar um jeito de sobreviver neste ambiente inóspito. A situação muda quando dois grupos de mercenários chegam ao planeta separadamente, ambos com o objetivo de capturar Riddick. Conhecendo muito bem os perigos do local, Riddick passa a usá-los a seu favor na tentativa de conseguir uma das naves para si.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
