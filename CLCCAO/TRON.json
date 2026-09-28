@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Tron: O Legado (2010) [COLOR yellow]★[/COLOR] [COLOR white]6,5[/COLOR][COLOR gray]/10[/COLOR] (8,2 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Ucm9uL1RST04uTGVnYWN5LjIwMTAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/kHSIHeYvcP8NTjESmxh9vMAk15E.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uUa6jgSr5BQpcBhhaz1PV1JhSa4.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/4DoQfnO0cwfmHfYVIClPBXbAagU.png",
+      "sinopse": "[COLOR yellow]Aventura, Ação, Ficção científica[/COLOR]\nQuando Flynn, o maior criador de videogames do planeta, envia uma mensagem de um incrível mundo digital, seu filho descobre o caminho e embarca numa jornada pessoal para salvar seu pai desaparecido há anos. Com a ajuda da destemida guerreira Quorra, pai e filho se aventuram num universo cibernético incrível e travam a batalha definitiva do bem x mal.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Tron: Ares (2025) [COLOR yellow]★[/COLOR] [COLOR white]6,5[/COLOR][COLOR gray]/10[/COLOR] (1,7 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Ucm9uL1Ryb24uQXJlcy4yMDI1Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/4NO0mmJ7WEU3PcllcogmiQIUecq.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/esSXybFAmQH3G85QABqZuyRCIUN.png",
+      "sinopse": "[COLOR yellow]Ficção científica, Aventura, Ação[/COLOR]\nUm programa de IA altamente avançado chamado Ares (Jared Leto) que é enviado do mundo digital (A Grade) para o mundo real em uma missão perigosa, sendo o primeiro encontro da humanidade com inteligência artificial que transcende o ciberespaço, explorando temas de consciência e a linha tênue entre homem e máquina em meio a uma corrida tecnológica entre duas empresas, Dillinger e Encon",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
