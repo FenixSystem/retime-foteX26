@@ -516,6 +516,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg",
           "sinopse": "[COLOR yellow]Terror, Thriller[/COLOR]\nUma série de filmes de terror americanos onde os enredos são apresentados como arquivos de casos de demonologistas.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Sonic: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Sonic.json",
+          "imagem": "https://image.tmdb.org/t/p/original/fwFWhYXj8wY6gFACtecJbg229FI.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/l5CIAdxVhhaUD3DaS4lP4AR2so9.jpg",
+          "sinopse": "[COLOR yellow]Ação, Aventura, Família, Comédia[/COLOR]\nAcompanhe as aventuras de Sonic, um ouriço alienígena com o poder da super-velocidade.",
+          "tipo": "serie"
         }
         
         
