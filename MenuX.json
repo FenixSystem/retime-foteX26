@@ -426,7 +426,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Troll.json",
           "imagem": "https://image.tmdb.org/t/p/original/A5kWJJaBeFPTVqAW4peaubw1JqA.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/3cvF36ROm4o9XjXpXRdnSzY9gYI.jpg",
-          "sinopse": "[COLOR yellow]Aventura, Fantasia, Ação[/COLOR]\nQuando um troll ancestral desperta em uma montanha norueguesa, um grupo heterogêneo de heróis precisa se unir para tentar impedi-lo de causar destruição e destruição.",
+          "sinopse": "[COLOR yellow]Fantasia, Ação, Aventura[/COLOR]\nQuando um troll ancestral desperta em uma montanha norueguesa, um grupo heterogêneo de heróis precisa se unir para tentar impedi-lo de causar destruição e destruição.",
+          "tipo": "serie"
+        },
+        {
+          "nome": "Planeta dos Macacos: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/PlanetadosMacacos.json",
+          "imagem": "https://image.tmdb.org/t/p/original/afGkMC4HF0YtXYNkyfCgTDLFe6m.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/lahj0Z6tmoAR0ElzqrPtF8Gx1fp.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Aventura, Ação[/COLOR]\nCésar, um chimpanzé de laboratório, desenvolve inteligência e emoções humanas, desencadeando uma batalha épica para determinar qual será a espécie dominante no planeta Terra.",
           "tipo": "serie"
         }
         
