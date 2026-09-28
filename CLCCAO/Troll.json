@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "O Troll da Montanha (2022) [COLOR yellow]★[/COLOR] [COLOR white]6,5[/COLOR][COLOR gray]/10[/COLOR] (2,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLlRyb2xsL08uVHJvbGwuZGEuTW9udGFuaGEuMjAyMi4ubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/889DmsrFfbQwSq6eD7xPFxQTG5Z.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/ml2Nl1JzWV0WlniVuF5YLrYt1ot.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9Ui0FlxPRgOcClz8qBotvhG4gBr.png",
+      "sinopse": "[COLOR yellow]Fantasia, Ação, Aventura[/COLOR]\nUma explosão nas montanhas desperta um troll enfurecido. Para lidar com a onda de destruição e caos, as autoridades convocam uma destemida paleontologista.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Troll da Montanha 2 (2025) [COLOR yellow]★[/COLOR] [COLOR white]6,3[/COLOR][COLOR gray]/10[/COLOR] (536)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLlRyb2xsL08uVHJvbGwuZGEuTW9udGFuaGEuMi4yMDI1Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/4WOmwPpQ2NeACRm2FMDnVhevb7G.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/agUidY3i8hxPWH8YRWppTjcndA6.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia, Thriller[/COLOR]\nO despertar de um novo troll causa devastação na Noruega. Agora, Nora, Andreas e o capitão Kris terão que encarar a missão mais perigosa de suas vidas.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
