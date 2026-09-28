@@ -460,6 +460,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/7ordKc1ZJogJSZAx9DKJFa4FO6y.jpg",
           "sinopse": "[COLOR yellow]Ação, Thriller, Guerra[/COLOR]\nSérie de filmes de ação que segue John Rambo, veterano do Exército dos EUA traumatizado por sua experiência na Guerra do Vietnã, que usa suas habilidades para combater policiais corruptos, tropas inimigas e cartéis de drogas.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Rebel Moon: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/RebelMoon.json",
+          "imagem": "https://image.tmdb.org/t/p/original/17fiEIxD7ClGW33IdxpRb0mdXgF.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/tCo96jmjKEMoWa5eCZNNss3MtMH.jpg",
+          "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura[/COLOR]\nÉpico de ficção científica de Zack Snyder, dividido em dois filmes.",
+          "tipo": "serie"
         }
         
         
