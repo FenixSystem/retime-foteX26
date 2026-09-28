@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "Police Story: A Guerra das Drogas (1985) [COLOR yellow]★[/COLOR] [COLOR white]7,6[/COLOR][COLOR gray]/10[/COLOR] (1,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Qb2xpY2UuU3RvcnkvUG9saWNlLlN0b3J5LjE5ODUubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/7xT1ukY1zDksLbSX2eeguXi7TRK.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/mVh7zLoPNbR8Gi1o5AiICeY4U1B.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Comédia[/COLOR]\nO policial Chan Ka-Kui consegue botar atrás das grades um grande traficante de drogas de Hong Kong praticamente sozinho após um tiroteio e uma impressionante perseguição dentro de uma favela. Agora, ele deve proteger a secretária do chefão, Salina, que testemunhará contra o gângster no tribunal.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Police Story 2 - Codinome: Radical (1988) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (662)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9Qb2xpY2UuU3RvcnkvUG9saWNlLlN0b3J5LjIuMTk4OC5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/lrEosQivXiFH4nRHiUllxGIo7av.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/6o6XqTAZyHHuQiLiZIzvoa1Wwu0.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/fVZXuilz6dhGP6I6ijMTI3j4qK3.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller[/COLOR]\nApesar dos seus esforços, tudo o que Ka-Kui consegue é uma humilhante despromoção para a Brigada de Trânsito, além de sofrer constantes perseguições do mafioso que tirou de cena há um tempo. Decide então tirar umas férias, na companhia da sua namorada, May. No entanto, tem de pôr de lado os seus planos quando terroristas ameaçam Hong Kong e sequestram May.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
