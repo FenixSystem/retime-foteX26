@@ -476,6 +476,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/gxBbFVb2SUWtHTJQXjwAtEPTWcA.jpg",
           "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nA Coleção Extraction acompanha o mercenário do mercado negro Tyler Rake em missões de alto risco por territórios instáveis. Repleta de ação intensa, visuais impactantes e nuances emocionais, a série explora temas como sobrevivência, lealdade e redenção em um mundo implacável de perigo e sacrifício.",
           "tipo": "serie"
+        },
+        {
+          "nome": "As Crônicas de Riddick: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Riddick.json",
+          "imagem": "https://image.tmdb.org/t/p/original/atFUbJrOweLkYa8QEtA9C3XNI4e.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/8LUjahiuAmu6wvLPy1vXgEK98zG.jpg",
+          "sinopse": "[COLOR yellow]Ação, Ficção científica[/COLOR]\nAs Crônicas de Riddick é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.",
+          "tipo": "serie"
         }
         
         
