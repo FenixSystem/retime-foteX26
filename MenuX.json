@@ -452,6 +452,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg",
           "sinopse": "[COLOR yellow]Ficção científica, Ação, Thriller[/COLOR]\nUma série de filmes de ação de ficção científica, centrada em uma espécie extraterrestre de classe guerreira, com armamento tecnologicamente avançado, que viaja para a Terra para caçar seres humanos.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Rambo: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Rambo.json",
+          "imagem": "https://image.tmdb.org/t/p/original/sYeBbEYNRL2SgSpr97lhuHU6OqT.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/7ordKc1ZJogJSZAx9DKJFa4FO6y.jpg",
+          "sinopse": "[COLOR yellow]Ação, Thriller, Guerra[/COLOR]\nSérie de filmes de ação que segue John Rambo, veterano do Exército dos EUA traumatizado por sua experiência na Guerra do Vietnã, que usa suas habilidades para combater policiais corruptos, tropas inimigas e cartéis de drogas.",
+          "tipo": "serie"
         }
         
         
