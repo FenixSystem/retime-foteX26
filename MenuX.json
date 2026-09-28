@@ -94,6 +94,14 @@
           "tipo": "serie"
         },
         {
+          "nome": "Wicked: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Wicked.json",
+          "imagem": "https://image.tmdb.org/t/p/original/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/xFcLusbzDM86mla4vjdEBHi7jLW.jpg",
+          "sinopse": "[COLOR yellow]Fantasia, Aventura, Romance[/COLOR]\nA história de Elphaba, a futura Bruxa Má do Oeste, e seu relacionamento com Galinda, a Bruxa Boa.",
+          "tipo": "serie"
+        },
+        {
           "nome": "Alien vs. Predador: Coleção",
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/Alien.Predador.json",
           "imagem": "https://image.tmdb.org/t/p/original/bPJMLYhRZxXKrArJrEV9fT24YRj.jpg",
