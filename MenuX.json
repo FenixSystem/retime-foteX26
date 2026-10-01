@@ -602,7 +602,15 @@
           "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/OImbativel.json",
           "imagem": "https://image.tmdb.org/t/p/original/iMdb5GgMbvJlIc4QUP1UVPTEQLM.jpg",
           "fanart": "https://image.tmdb.org/t/p/original/m9vTOtAhoZEh5BWpmdUWfQ1Ykl8.jpg",
-          "sinopse": "[COLOR yellow]Ação, Crime, Thriller, Drama[/COLOR]\nA série de filmes "O Imbatível" é baseada na cena de combates nas prisões subterrâneas.",
+          "sinopse": "[COLOR yellow]Ação, Crime, Thriller, Drama[/COLOR]\nA série de filmes -O Imbatível- é baseada na cena de combates nas prisões subterrâneas.",
+          "tipo": "serie"
+        }
+        {
+          "nome": "O Protetor: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/OProtetor.json",
+          "imagem": "https://image.tmdb.org/t/p/original/vIFxwPZvtTGBlPVSzhUr97pSKvI.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/wac5llYhh0lC24yNWljrcOe4sR9.jpg",
+          "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nO Protetor é um filme de suspense e ação de vigilante americano de 2014, vagamente baseado na série de TV de mesmo nome dos anos 1980. Uma sequência foi lançada em 20 de julho de 2018, com o retorno de Washington e Fuqua. Em 30 de agosto de 2023, um terceiro filme foi lançado tornando esta série uma trilogia.",
           "tipo": "serie"
         }
         
