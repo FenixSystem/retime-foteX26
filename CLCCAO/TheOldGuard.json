@@ -1,0 +1,24 @@
+{
+  "episodios": [
+    {
+      "nome": "The Old Guard (2020) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (5,0 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9UaGUuT2xkLkd1YXJkL0EuVmVsaGEuR3VhcmRhLjIwMjAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/pZOK1L88L7KoM5iNQVqNomdhjto.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bvxzhwGqNQSMwsPvZjht2sjByGR.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia[/COLOR]\nQuatro guerreiros com o dom da imortalidade protegem a humanidade há séculos. Mas seus misteriosos poderes viram alvo de ataque quando outra imortal entra em cena.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "The Old Guard 2 (2025) [COLOR yellow]★[/COLOR] [COLOR white]5,9[/COLOR][COLOR gray]/10[/COLOR] (1,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9UaGUuT2xkLkd1YXJkL1RoZS5PbGQuR3VhcmQuMi4yMDI1Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/kuM9Q0jxeJ1431rJPJ7Xen2gRX5.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/fd9K7ZDfzRAcbLh8JlG4HIKbtuR.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/iAbOdVKAPuEN2MdLSVlOuYvXMVF.png",
+      "sinopse": "[COLOR yellow]Ação, Fantasia[/COLOR]\nAndy e sua equipe de guerreiros imortais enfrentam uma nova ameaça poderosa que põe em risco a missão do grupo de proteger a humanidade.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
