@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "O Protetor (2014) [COLOR yellow]★[/COLOR] [COLOR white]7,3[/COLOR][COLOR gray]/10[/COLOR] (10,2 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLlByb3RldG9yL08uUHJvdGV0b3IuMjAxNS5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/xTSOdJ0Ljs439lnKB7NsWlTibZN.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9vAoubhoZE8aSkUZoSfxs3UWZhO.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/rZGiax1zbdkkLV9Y0hZG4y1mLAa.png",
+      "sinopse": "[COLOR yellow]Thriller, Ação, Crime[/COLOR]\nO ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Porém, quando ele conhece Teri, uma jovem que está em poder de uma quadrilha russa, ele simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Fora da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Protetor 2 (2018) [COLOR yellow]★[/COLOR] [COLOR white]6,8[/COLOR][COLOR gray]/10[/COLOR] (6,2 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLlByb3RldG9yL08uUHJvdGV0b3IuMi4yMDE4Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/xl3oO2j1vfKasDLyUNwghWjl4jV.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/z7noaCJ4KtmhwHw7QcNtnMMo4Qy.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/il9BGClwv7VfSaVDR6FFe8q2Qlj.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nCriminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Protetor: Capítulo Final (2023) [COLOR yellow]★[/COLOR] [COLOR white]7,3[/COLOR][COLOR gray]/10[/COLOR] (3,9 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLlByb3RldG9yL08uUHJvdGV0b3IuQ2FwaXR1bG8uRmluYWwuMjAyMy5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/eq2Ytq08C9KddMiOzQ74g36Tdpg.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/gystuaqp5AkVqqu3Nf0564zeOv4.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2vf62splVKTxEDyyeBqqw4bJgkE.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime[/COLOR]\nSentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local.  À medida que os acontecimentos se tornam mortais, McCall sabe o que tem de fazer: tornar-se o protetor dos seus amigos, enfrentando a máfia.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
