@@ -596,6 +596,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/oLT5tHDNzb5LfytO2g7q6dF0QkC.jpg",
           "sinopse": "[COLOR yellow]Aventura, Comédia, Ficção científica[/COLOR]\nSérie de filmes de terror pós-apocalípticos focada em sobreviventes de uma doença transmitida pelo sangue chamada Rage que transforma os infectados em selvagens sem sentido, semelhantes a zumbis, cujas hordas dizimaram a população da Grã-Bretanha.",
           "tipo": "serie"
+        },
+        {
+          "nome": "O Imbatível: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/OImbativel.json",
+          "imagem": "https://image.tmdb.org/t/p/original/iMdb5GgMbvJlIc4QUP1UVPTEQLM.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/m9vTOtAhoZEh5BWpmdUWfQ1Ykl8.jpg",
+          "sinopse": "[COLOR yellow]Ação, Crime, Thriller, Drama[/COLOR]\nA série de filmes "O Imbatível" é baseada na cena de combates nas prisões subterrâneas.",
+          "tipo": "serie"
         }
         
         
