@@ -1,0 +1,44 @@
+{
+  "episodios": [
+    {
+      "nome": "O Imbatível (2002) [COLOR yellow]★[/COLOR] [COLOR white]6,5[/COLOR][COLOR gray]/10[/COLOR] (866)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkltYmF0aXZlbC9PLkltYmF0aXZlbC4yMDAyLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/rj203GdHfqXlDOheVjm1v1NVs5B.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/sTkJSkDkJnxCsk2FvKY2OL7NQcy.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/9KW9aEzab9QouaX6kRuKjp20K5q.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, Crime[/COLOR]\nCampeão mundial peso pesado de boxe é condenado por estupro e mandado para a prisão de segurança máxima, onde deverá enfrentar campeão da prisão em luta épica, defendendo não apenas seu título, mas seu futuro.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Imbatível 2 - O Lutador (2006) [COLOR yellow]★[/COLOR] [COLOR white]7,4[/COLOR][COLOR gray]/10[/COLOR] (971)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkltYmF0aXZlbC9PLkltYmF0aXZlbC4yLjIwMDYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/2c0mcPVyWQM92vjys5pZsrmLjJv.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3FhqdmY25ajBgrGOuIMRe0brOci.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bwpDXIeZ8BLm9KUO9sfd7nZxInQ.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Thriller, Drama[/COLOR]\nPreso na Rússia, um homem depende de suas habilidades no ringue para poder salvar sua própria vida ao enfrentar um boxeador extremamente bruto.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Imbatível III: Redenção (2010) [COLOR yellow]★[/COLOR] [COLOR white]7,6[/COLOR][COLOR gray]/10[/COLOR] (1,1 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkltYmF0aXZlbC9PLkltYmF0aXZlbC4zLlJlZGVuY2FvLjIwMTAubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/2qnvv6vI6XXakSOPwOICUZH3EZ7.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/fTZlSRATSk7QJyUrpbmjScDtY8Z.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/4YrYgQW9EfDOUkUFuq9A1RqMFJ8.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller, Crime, Drama[/COLOR]\nA cadeia se torna um ringue quando oito prisioneiros disputam um campeonato internacional. O prêmio para o campeão é a liberdade e muitos dólares para o bolso dos organizadores. Boyka é um furioso russo especialista em artes marciais, pronto para tirar sangue dos adversários.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Boyka: O Imbatível (2016) [COLOR yellow]★[/COLOR] [COLOR white]7,2[/COLOR][COLOR gray]/10[/COLOR] (1,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9PLkltYmF0aXZlbC9Cb3lrYS5PLkltYmF0aXZlbC4yMDE2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/tdPDR5cAbCN161CLy6ORRPRq9Ma.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/tCsYQTkQx7vknDmTw666K1XxAdx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/efsmfWZwps17QQkCjXQrlfi1E7b.png",
+      "sinopse": "[COLOR yellow]Ação, Drama, Thriller, Crime[/COLOR]\nNo quarto capítulo da franquia de luta, Boyka está atirando para as grandes ligas quando uma morte acidental no ringue faz dele questionar tudo o que ele representa. Quando ele descobre que a esposa do homem que ele matou acidentalmente está em apuros, Boyka oferece para lutar em uma série de batalhas impossíveis para libertá-la de uma vida de servidão.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
