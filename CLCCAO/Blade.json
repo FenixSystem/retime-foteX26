@@ -1,0 +1,34 @@
+{
+  "episodios": [
+    {
+      "nome": "Blade: O Caçador de Vampiros (1998) [COLOR yellow]★[/COLOR] [COLOR white]6,9[/COLOR][COLOR gray]/10[/COLOR] (7,0 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9CbGFkZS9CbGFkZS4xOTk4Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/u6PrOGJwwQuvhoIaJL25INbS3Z8.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/7NKfxJrQn053UJeLftlx4m4NTzo.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/tTiBRKAsDt5RDD1atePLwbH1PKF.png",
+      "sinopse": "[COLOR yellow]Terror, Ação[/COLOR]\nApós ser contaminado pelo sangue de uma criatura das trevas, Blade transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Blade II: O Caçador de Vampiros (2002) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (5,4 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9CbGFkZS9CbGFkZS5JSS4yMDAyLm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/85FiSIRQpKyzNFqzUAe9RmPOdYY.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/86b0NGY1i0bt3ckhkcHxiCSMxk1.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/xwdSSs9m0xzyABDWPrO37l8dTSV.png",
+      "sinopse": "[COLOR yellow]Fantasia, Terror, Ação, Thriller[/COLOR]\nBlade é um ser meio homem, meio vampiro que é consumido pelo desejo de vingança contra os seres que atacaram sua mãe antes mesmo dele nascer e fizeram com que ele se tornasse o que é atualmente. Com isso, ao crescer Blade iniciou uma verdadeira cruzada pessoal para combater e eliminar os vampiros, mas agora uma nova raça mais poderosa chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros, ameaça eliminar ambas as raças. Visto isso, Blade se alia aos seus maiores inimigos para que, juntos, possam combater esta nova raça de seres.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Blade Trinity (2004) [COLOR yellow]★[/COLOR] [COLOR white]5,9[/COLOR][COLOR gray]/10[/COLOR] (4,5 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9CbGFkZS9CbGFkZS5UcmluaXR5LjIwMDQubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/O8iPtrxt7G4nIh5rrx4BwOwc1M.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/63eAFgJtN6ZTyFFzlAOoZLhlYqc.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/pJEnnN2aeXKbJYSfAOWv3A0bYdF.png",
+      "sinopse": "[COLOR yellow]Ação, Terror, Ficção científica[/COLOR]\nBlade, agora um homem procurado pelo FBI, deve unir forças com os Nightstalkers para enfrentar seu inimigo mais desafiador ainda: Drácula.",
+      "legenda": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9CbGFkZS9CbGFkZS5UcmluaXR5LjIwMDQuZm9yY2FkYS5zcnQ=",
+      "tipo": "filme"
+    }
+  ]
+}
