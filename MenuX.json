@@ -588,6 +588,14 @@
           "fanart": "https://image.tmdb.org/t/p/original/jahCHmGrfVg66FWhwkibjJyszHT.jpg",
           "sinopse": "[COLOR yellow]Aventura, Comédia, Ficção científica[/COLOR]\nUma série americana de ficção científica e comédia que segue as aventuras de um aluno do ensino médio, Marty McFly e um cientista excêntrico, o Dr. Emmett L. Brown, quando usam uma máquina do tempo, um DeLorean para viajar a diferentes períodos da história de Hill Valley, Califórnia.",
           "tipo": "serie"
+        },
+        {
+          "nome": "Extermínio: Coleção",
+          "url": "https://raw.githubusercontent.com/FenixSystem/retime-foteX26/refs/heads/main/CLCCAO/DeVoltaparaoFuturo.json",
+          "imagem": "https://image.tmdb.org/t/p/original/5PmzzDkwvejA9bJoKgKumAkcc91.jpg",
+          "fanart": "https://image.tmdb.org/t/p/original/oLT5tHDNzb5LfytO2g7q6dF0QkC.jpg",
+          "sinopse": "[COLOR yellow]Aventura, Comédia, Ficção científica[/COLOR]\nSérie de filmes de terror pós-apocalípticos focada em sobreviventes de uma doença transmitida pelo sangue chamada Rage que transforma os infectados em selvagens sem sentido, semelhantes a zumbis, cujas hordas dizimaram a população da Grã-Bretanha.",
+          "tipo": "serie"
         }
         
         
