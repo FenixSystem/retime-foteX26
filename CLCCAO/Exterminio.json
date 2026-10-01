@@ -1,0 +1,44 @@
+{
+  "episodios": [
+    {
+      "nome": "Extermínio (2002) [COLOR yellow]★[/COLOR] [COLOR white]7,2[/COLOR][COLOR gray]/10[/COLOR] (8,9 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9FeHRlcm1pbmlvL0V4dGVybWluaW8uMjAwMi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/pVTtJSvJoOofD1YoyPSGwWEWmJd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/vNO0SBxRCjBndNcaCHVpc9wuslY.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller, Ficção científica[/COLOR]\nUm poderoso vírus está a solta. Transmitido em uma gota de sangue e com efeito devastador em alguns segundos, o vírus mantém os infectados em um estado permanente de descontrole assassino. Dentro de 28 dias, o país está tomado e um punhado de sobreviventes inicia esforços para garantir algum futuro à raça humana, mas o que não percebem é que o vírus mortal não é a única coisa que os ameaça.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Extermínio 2 (2007) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (5,9 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9FeHRlcm1pbmlvL0V4dGVybWluaW8uMi4yMDA3Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/mZVFtNKPv3aiESKKeUDV61DaQ90.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/83ownpZPvBHJD5UVNShzQfa3LaW.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/hiHxbCNpS9qHdcJXAT3t8r02R.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller, Ficção científica[/COLOR]\nSeis meses depois de um vírus ter destruído um grande número de pessoas na Grã-Betanha, o exército americano declara que o perigo já passou e começa a reconstrução da cidade. Os refugiados retornam, mas um deles carrega um segredo mortal. O vírus não está morto e agora está mais perigoso.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Extermínio: A Evolução (2025) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (3,0 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9FeHRlcm1pbmlvL0V4dGVybWluaW8uQS5Fdm9sdWNhby4yMDI1Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/2K5LCXOqlbzRu7mWHbDnLdDQj6I.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/6WqqEjiycNvDLjbEClM1zCwIbDD.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/yoHysLuqo1ESCZmzPdV5P5AFpNy.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller, Ficção científica[/COLOR]\nJá se passaram quase três décadas desde que o vírus da raiva escapou de um laboratório de armas biológicas. Agora, sob uma quarentena rigidamente imposta, alguns conseguiram encontrar maneiras de sobreviver em meio aos infectados. Um desses grupos vive em uma pequena ilha, ligada ao continente por uma única passagem fortemente protegida. Quando um dos membros parte em uma missão rumo ao sombrio coração do continente, ele descobre segredos, maravilhas e horrores que transformaram não apenas os infectados, mas também outros sobreviventes.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Extermínio: O Templo dos Ossos (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (1,8 mil)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9jb2xlY29lcy9FeHRlcm1pbmlvL0V4dGVybWluaW8uTy5UZW1wbG8uZG9zLk9zc29zLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/eB3ZLyKG6KO8bnmdqFYchiW2mlP.png",
+      "sinopse": "[COLOR yellow]Terror, Thriller, Ficção científica[/COLOR]\nDr. Kelson se vê envolvido num novo relacionamento chocante – com consequências que podem mudar o mundo como eles o conhecem – e o encontro de Spike com Jimmy Crystal se torna um pesadelo do qual ele não consegue escapar.",
+      "legenda": "",
+      "tipo": "filme"
+    }
+  ]
+}
