@@ -1,6 +1,16 @@
 {
   "episodios": [
     {
+      "nome": "Sobrevivência (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,4[/COLOR][COLOR gray]/10[/COLOR] (192)",
+      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9Tb2JyZXZpdmVuY2lhLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/YnIV48A8z7xlC2iFWQV1oADm9w.png",
+      "sinopse": "[COLOR yellow]Thriller, Drama[/COLOR]\nO filho de um candidato a prefeito de Los Angeles é sequestrado. Agora, ele e a esposa tentam conseguir o dinheiro do resgate e tomam decisões arriscadas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "O Golpista Russo (2026) [COLOR yellow]★[/COLOR] [COLOR white]6,7[/COLOR][COLOR gray]/10[/COLOR] (9)",
       "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLkdvbHBpc3RhLlJ1c3NvLjIwMjYubWt2",
       "imagem": "https://image.tmdb.org/t/p/original/1htTohutnLXKUU30ylv6Hi8jcuT.jpg",
