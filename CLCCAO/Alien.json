@@ -1,18 +1,8 @@
 {
   "episodios": [
     {
-      "nome": "Alien: O Oitavo Passageiro (1979) [COLOR yellow]★[/COLOR] [COLOR white]8,2[/COLOR][COLOR gray]/10[/COLOR] (17,0 mil)",
-      "url": "YUhSMGNITTZMeTlpYVhSaGJtOTRPbGdvYUROQ1NHb3lWbUZCSVdwRVNYZ2xTRVJ0UUcxMVpDNXpaV1ZrYUc5emRDNWxkUzlpYVhSaGJtOTRMMlJ2ZDI1c2IyRmtjeTlEYjJ4bFkyRnZMMEZzYVdWdUwwRnNhV1Z1TGpFNU56a3ViV3Qy",
-      "imagem": "https://image.tmdb.org/t/p/original/rJEU0u6hvtqBy344z0bpI194LeQ.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/1Ghh8XEZuuwR0pjExA3rznK02td.png",
-      "sinopse": "[COLOR yellow]Terror, Ficção científica[/COLOR]\nQuando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-    {
       "nome": "Aliens: O Resgate (1986) [COLOR yellow]★[/COLOR] [COLOR white]8,0[/COLOR][COLOR gray]/10[/COLOR] (11,3 mil)",
-      "url": "YUhSMGNITTZMeTlpYVhSaGJtOTRPbGdvYUROQ1NHb3lWbUZCSVdwRVNYZ2xTRVJ0UUcxMVpDNXpaV1ZrYUc5emRDNWxkUzlpYVhSaGJtOTRMMlJ2ZDI1c2IyRmtjeTlEYjJ4bFkyRnZMMEZzYVdWdUwwRnNhV1Z1Y3k1UExsSmxjMmRoZEdVdU1UazROaTV0YTNZPQ==",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9Db2xlY2FvL0FsaWVuL0FsaWVucy5PLlJlc2dhdGUuMTk4Ni5ta3Y=",
       "imagem": "https://image.tmdb.org/t/p/original/dopA5H3VYKcTE1lDXkTwRx7uy2G.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/cZmqJyu70xnAkxhoEtuQ01IBg6F.png",
@@ -21,8 +11,18 @@
       "tipo": "filme"
     },
     {
+      "nome": "Alien: O Oitavo Passageiro (1979) [COLOR yellow]★[/COLOR] [COLOR white]8,2[/COLOR][COLOR gray]/10[/COLOR] (17,0 mil)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9Db2xlY2FvL0FsaWVuL0FsaWVuLjE5NzkubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/rJEU0u6hvtqBy344z0bpI194LeQ.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/1Ghh8XEZuuwR0pjExA3rznK02td.png",
+      "sinopse": "[COLOR yellow]Terror, Ficção científica[/COLOR]\nQuando a tripulação da sonda espacial Nostromo responde a um pedido de socorro vindo de um planeta inóspito, eles descobrem uma forma de vida mortal que se reproduz dentro de humanos. Agora, a tripulação deve lutar para permanecer viva e impedir que a criatura chegue até a Terra.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
       "nome": "Alien 3 (1992) [COLOR yellow]★[/COLOR] [COLOR white]6,4[/COLOR][COLOR gray]/10[/COLOR] (6,7 mil)",
-      "url": "YUhSMGNITTZMeTlpYVhSaGJtOTRPbGdvYUROQ1NHb3lWbUZCSVdwRVNYZ2xTRVJ0UUcxMVpDNXpaV1ZrYUc5emRDNWxkUzlpYVhSaGJtOTRMMlJ2ZDI1c2IyRmtjeTlEYjJ4bFkyRnZMMEZzYVdWdUwwRnNhV1Z1TGpNdU1UazVNaTV0YTNZPQ==",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9Db2xlY2FvL0FsaWVuL0FsaWVuLjMuMTk5Mi5ta3Y=",
       "imagem": "https://image.tmdb.org/t/p/original/e0m3kAcurYNmLBI0UVTjWg9J93L.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/lU0zVj8KcQVkPczdGGraYGiRC72.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/s6xOvAxi2oAjnMXE4FRKUmhON3A.png",
@@ -32,7 +32,7 @@
     },
     {
       "nome": "Alien: A Ressurreição (1997) [COLOR yellow]★[/COLOR] [COLOR white]6,2[/COLOR][COLOR gray]/10[/COLOR] (5,8 mil)",
-      "url": "YUhSMGNITTZMeTlpYVhSaGJtOTRPbGdvYUROQ1NHb3lWbUZCSVdwRVNYZ2xTRVJ0UUcxMVpDNXpaV1ZrYUc5emRDNWxkUzlpYVhSaGJtOTRMMlJ2ZDI1c2IyRmtjeTlEYjJ4bFkyRnZMMEZzYVdWdUwwRnNhV1Z1TGtFdVVtVnpjM1Z5Y21WcFkyRnZMakU1T1RjdWJXdDI=",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9Db2xlY2FvL0FsaWVuL0FsaWVuLkEuUmVzc3VycmVpY2FvLjE5OTcubWt2",
       "imagem": "https://image.tmdb.org/t/p/original/lBQihuqaiRFZEzQh3M5uKXfmW15.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/ikr0UILfvRerzMNoBTtJtyuWAEV.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/nEGSeo6v1qlOjR5Ydq4Sr4Hv7kS.png",
