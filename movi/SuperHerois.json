@@ -401,16 +401,6 @@
       "tipo": "filme"
     },
     {
-      "nome": "Thor: Ragnarok (2017) [COLOR yellow]★[/COLOR] [COLOR white]7,6[/COLOR][COLOR gray]/10[/COLOR] (22,7 mil)",
-      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9NYXJ2ZWxEQy9UaG9yLlJhZ25hcm9rLjIwMTgubWt2",
-      "imagem": "https://image.tmdb.org/t/p/original/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/vvd4yHi6offKUQAOswWMN3M4riU.png",
-      "sinopse": "[COLOR yellow]Ação, Aventura, Comédia, Ficção científica[/COLOR]\nThor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-    {
       "nome": "Venom (2018) [COLOR yellow]★[/COLOR] [COLOR white]6,8[/COLOR][COLOR gray]/10[/COLOR] (17,7 mil)",
       "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9NYXJ2ZWxEQy9WZW5vbS4yMDE4Lm1rdg==",
       "imagem": "https://image.tmdb.org/t/p/original/e4SJKPH8muigUI8VcZtkqWJvEz1.jpg",
@@ -429,7 +419,17 @@
       "sinopse": "[COLOR yellow]Aventura, Ação, Ficção científica[/COLOR]\nHomem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.",
       "legenda": "",
       "tipo": "filme"
-    }
+    },
+    {
+      "nome": "Thor: Ragnarok (2017) [COLOR yellow]★[/COLOR] [COLOR white]7,6[/COLOR][COLOR gray]/10[/COLOR] (22,7 mil)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy9NYXJ2ZWxEQy9UaG9yLlJhZ25hcm9rLjIwMTgubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/2K45Fp6koAVoeeYS6aMb9BeNt4F.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vLmHH8jAy8Jq8uBsLucd3592WGh.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/vvd4yHi6offKUQAOswWMN3M4riU.png",
+      "sinopse": "[COLOR yellow]Ação, Aventura, Comédia, Ficção científica[/COLOR]\nThor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.",
+      "legenda": "",
+      "tipo": "filme"
+    },
     
   ]
 }
