@@ -166,7 +166,7 @@
       "imagem": "https://image.tmdb.org/t/p/original/mTXxYgJ8UE7N6XIxIaesAqvMG4S.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/kQV9sV0IbastbU5FYxuYwxfMawz.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/mmSdtnIPk8pwL9quZoHIHdtV3xs.png",
-      "sinopse": "[COLOR yellow]Comédia, Ação, Fantasia[/COLOR]\nContinua a história do adolescente Billy Batson que, ao recitar a palavra mágica “SHAZAM!”, é transformado em seu alto ego adulto de super-herói, Shazam.",
+      "sinopse": "[COLOR yellow]Comédia, Ação, Fantasia[/COLOR]\nContinua a história do adolescente Billy Batson que, ao recitar a palavra mágica \SHAZAM!\, é transformado em seu alto ego adulto de super-herói, Shazam.",
       "legenda": "",
       "tipo": "filme"
     },
@@ -246,7 +246,7 @@
       "imagem": "https://image.tmdb.org/t/p/original/2IgZIYa8iTQuLNIcVERwXmh8pUj.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/9tBgePeLvMwX5dgiqfFbCEAUv3i.png",
-      "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura[/COLOR]\nApós os eventos de 'Vingadores: Ultimato', os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.",
+      "sinopse": "[COLOR yellow]Ficção científica, Ação, Aventura[/COLOR]\nApós os eventos de \Vingadores: Ultimato\, os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.",
       "legenda": "",
       "tipo": "filme"
     },
