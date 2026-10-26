@@ -2,64 +2,15 @@
   "episodios": [
     {
       "nome": "O Diário de Pilar na Amazônia (2026)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLkRpJWMzJWExcmlvLmRlLlBpbGFyLm5hLkFtYXpvbmlhLjIwMjYubWt2",
+      "url": "aHR0cHM6LybzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9sYW5jYW1lbnRvcy9PLkRpJWMzJWExcmlvLmRlLlBpbGFyLm5hLkFtYXpvbmlhLjIwMjYubWt2",
       "imagem": "https://image.tmdb.org/t/p/original/kFBWjlAhdGgVFYXFN6hI5Pflezy.jpg",
       "fanart": "https://image.tmdb.org/t/p/original/zcJCJnuiycqm8tkC8kpsGoksU1D.jpg",
       "clearlogo": "https://image.tmdb.org/t/p/original/yBRI0R3tpppN7FE1HKV5U4egyDU.png",
       "sinopse": "[COLOR yellow]Aventura[/COLOR]\nPilar, uma jovem curiosa e exploradora, embarca com o melhor amigo Breno e o gato Samba numa missão na floresta amazônica. Lá, eles conhecem Maiara, uma jovem ribeirinha cuja comunidade foi destruída por madeireiros. No caminho, encontram Bira, um jovem pescador que conhece bem a floresta. Pilar e seus amigos partem em busca dos pais de Maiara, até que descobrem uma quadrilha de madeireiros que estão cortando árvores ilegalmente. Com a ajuda de uma tribo indígena e dos seres mitológicos, Pilar e seus amigos conseguem deter os madeireiros, mais decididos que nunca a salvar a natureza e a reflorestar o planeta.",
       "legenda": "",
       "tipo": "filme"
-    },
-        {
-      "nome": "Alfa (2018)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvQWxmYS4yMDE4Lm1rdg==",
-      "imagem": "https://image.tmdb.org/t/p/original/bhfrjfefZYngXXbt7773roQ599N.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/Gn7CHQKw5rgQrnVQhvGnlOaD8F.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/wyJQ5xFAdbzefBjO06hAv4injsO.png",
-      "sinopse": "[COLOR yellow]Aventura, Drama[/COLOR]\nHá 20 mil anos, durante a Era do Gelo, a humanidade lutava em meio à selvageria por sobrevivência. Neste cenário, um rapaz se afasta de sua tribo e dá de cara com inimigos. Sua única chance de viver mais um dia é se aliar a uma criatura que quase o matou. Uma jornada de aprendizagem, luta, sobrevivência. Conheça a origem de um relacionamento que mudou nosso mundo para sempre.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-        {
-      "nome": "Anaconda (2025)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvQW5hY29uZGEuMjAyNS5ta3Y=",
-      "imagem": "https://image.tmdb.org/t/p/original/hRzpf8QELtzJnMt4SiDoFUmZ9KM.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/cfHwHczgqHx4LGf6a1W5xSbmCQB.png",
-      "sinopse": "[COLOR yellow]Aventura, Comédia, Terror[/COLOR]\nUma crise de meia-idade inspira Doug e Griff a irem até a floresta amazônica para refazer o filme favorito da juventude, mas tudo muda quando uma anaconda gigante de verdade aparece, transformando o cenário comicamente caótico em uma situação mortal. O filme que eles estão morrendo de vontade de fazer? Pode acabar matando-os.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-        {
-      "nome": "Dungeons & Dragons: Honra Entre Rebeldes (2023)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvRHVuZ2VvbnMuZS5EcmFnb25zLkhvbnJhLkVudHJlLlJlYmVsZGVzLjIwMjMubWt2",
-      "imagem": "https://image.tmdb.org/t/p/original/tt23D7Mkg0dHhsWn3aN0hbslaFw.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/5nHgD5bHXMHoRkbFPJOTqndYJmJ.png",
-      "sinopse": "[COLOR yellow]Aventura, Fantasia, Comédia[/COLOR]\nUm ladrão charmoso e um grupo de aventureiros improváveis empreendem um assalto épico para recuperar uma relíquia perdida, mas as coisas dão perigosamente errado quando eles entram em conflito com as pessoas erradas.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-        {
-      "nome": "King Kong (2005) [COLOR yellow]★[/COLOR] [COLOR white]6,9[/COLOR][COLOR gray]/10[/COLOR] (8,7 mil)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvMDEvS2luZy5Lb25nLjIwMDUubXA0",
-      "imagem": "https://image.tmdb.org/t/p/original/rdat3dqmakvhE2oRnUml9g5gZJg.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/bLl02c4vewuscZ7CRo2xUc1uJud.png",
-      "sinopse": "[COLOR yellow]Aventura, Drama, Ação[/COLOR]\nNova York, 1933. Ann Darrow, uma atriz de vaudeville, enfrenta dificuldades para se sustentar, como vários outros americanos durante a Grande Depressão. Ela caminha pelas ruas de Manhattan pensando na possibilidade de trabalhar em um cabaré, até que a fome a faz roubar uma maçã. Ann é salva pelo cineasta Carl Denham, que oferece a ela o papel principal em sua próxima produção. Inicialmente indecisa, Ann aceita a oferta após saber que o roteirista é o conceituado dramaturgo Jack Driscoll. Na verdade Carl está em apuros, já que o patrocínio para concluir seu filme inacabado foi cancelado e sua antiga atriz principal abandonou o projeto. Apesar dos problemas, Carl embarca a equipe e o elenco de seu filme no cargueiro fretado S.S. Venture. O objetivo da viagem é chegar na Ilha da Caveira, que tem a fama de abrigar uma raça perdida e várias criaturas consideradas extintas.",
-      "legenda": "",
-      "tipo": "filme"
-    },
-        {
-      "nome": "Mulan (2020) [COLOR yellow]★[/COLOR] [COLOR white]6,8[/COLOR][COLOR gray]/10[/COLOR] (7,1 mil)",
-      "url": "aHR0cHM6Ly90YWtlb25lX3AzMzU5NzptdXRvemlkbzQ1QGJtdy5teXNlZWRib3guc2l0ZS9wcml2YXRlL0Rvd25sb2Fkcy9CUi9vdXRyb3MvMDEvTXVsYW4uMjAyMC5ta3Y=",
-      "imagem": "https://image.tmdb.org/t/p/original/72I82eKXCadZWEYygV9GkJOQNEq.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/zMrk2G3XsnfYKiIp1NEfdtvDyBH.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/faCbi4ptTyBHDmR73FL3zHKoO6a.png",
-      "sinopse": "[COLOR yellow]Aventura, Fantasia, Ação[/COLOR]\nHua Mulan é a espirituosa e determinada filha mais velha de um honrado guerreiro. Quando o Imperador da China emite um decreto que um homem de cada família deve servir no exército imperial, Mulan decide tomar o lugar de seu pai, que está doente. Assumindo a identidade de Hua Jun, ela se disfarça de homem para combater os invasores que estão atacando sua nação, provando-se uma grande guerreira.",
-      "legenda": "",
-      "tipo": "filme"
     }
+        
 
   ]
 }
