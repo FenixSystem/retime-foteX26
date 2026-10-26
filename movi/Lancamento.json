@@ -1,35 +1,134 @@
 {
   "episodios": [
     {
-      "nome": "Matchbox - O Filme (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,9[/COLOR][COLOR gray]/10[/COLOR] (230)",
-      "url": "plugin://plugin.video.Stream_player?url=https://luluvido.com/e/5wk9v9tw5mnf",
-      "imagem": "https://image.tmdb.org/t/p/original/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
-      "sinopse": "[COLOR yellow]Ação, Comédia, Aventura[/COLOR]\nQuando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
+      "nome": "A Milícia (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,3[/COLOR][COLOR gray]/10[/COLOR] (3)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9BLk1pbGljaWEuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/2rQ71qs5zgevc241I8riBGiWrwr.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/twI5fNZrX4UnUVu8mAeO1P7VAUk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/caAAkFeRYHhh3PTqlGdvmDzVdTf.png",
+      "sinopse": "[COLOR yellow]Drama, Thriller[/COLOR]\nDaniel sonha em se juntar à milícia local com seu pai. Mas, quando seu pai se torna alvo do xerife, Daniel e seus amigos se unem para formar sua própria milícia em uma tentativa desesperada de salvá-lo.",
       "legenda": "",
       "tipo": "filme"
     },
     {
-      "nome": "Resident Evil (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,5[/COLOR][COLOR gray]/10[/COLOR] (840)",
-      "url": "plugin://plugin.video.Stream_player?url=https://luluvido.com/e/t3dd9aznlirc",
-      "imagem": "https://image.tmdb.org/t/p/original/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/4nCgOhspEbEueNh4Y5hjxRcLL2S.png",
-      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nApós testemunhar o assassinato de seu chefe bilionário e ser injustamente incriminado pelo crime, Cole Reed embarca em um navio cargueiro em uma cruzada solitária para vingar a morte do chefe. No entanto, à medida que avança em sua missão, ele descobre que está no centro de uma perigosa conspiração internacional.",
+      "nome": "Contra o Furacão (2026) [COLOR yellow]★[/COLOR] [COLOR white]5,7[/COLOR][COLOR gray]/10[/COLOR] (28)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9Db250cmEuby5GdXJhY2FvLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/dcGKOA3046777ctID911qMuNvDP.png",
+      "sinopse": "[COLOR yellow]Drama[/COLOR]\nNo meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
       "legenda": "",
       "tipo": "filme"
     },
     {
-      "nome": "teste (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,5[/COLOR][COLOR gray]/10[/COLOR] (840)",
-      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9Bcy5BdmVudHVyYXMuZGUuVGFkZW8uZS5hLkxhbXBhZGEuTSVjMyVhMWdpY2EuMjAyNi5ta3Y=",
-      "imagem": "https://image.tmdb.org/t/p/original/gVZgjKIsXZOT3cNZm5PJZBtQRaG.jpg",
-      "fanart": "https://image.tmdb.org/t/p/original/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "clearlogo": "https://image.tmdb.org/t/p/original/4nCgOhspEbEueNh4Y5hjxRcLL2S.png",
-      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nApós testemunhar o assassinato de seu chefe bilionário e ser injustamente incriminado pelo crime, Cole Reed embarca em um navio cargueiro em uma cruzada solitária para vingar a morte do chefe. No entanto, à medida que avança em sua missão, ele descobre que está no centro de uma perigosa conspiração internacional.",
+      "nome": "Cuidado com o Que Deseja (2026) [COLOR yellow]★[/COLOR] [COLOR white]6,0[/COLOR][COLOR gray]/10[/COLOR] (3)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9DdWlkYWRvLkNvbS5vLlF1ZS5EZXNlamEuMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/gTZpTXkSxHhG4i62hgAMAY1xQ8H.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/l2B2WTUqgePLN6kh9uLCYy63Pyk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/6gVpr9kJuE7JjxBPLjlchbz6uvn.png",
+      "sinopse": "[COLOR yellow]Thriller, Terror[/COLOR]\nUm escritor de terror decide realizar um experimento para seu próximo livro, pedindo à esposa que o amarre a uma cadeira e o amordace por duas horas. Porém, um imprevisto transforma a experiência em um pesadelo, colocando sua vida em perigo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Da Magia à Sedução: Feitiço de Amor (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR] (312)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9EYS5NYWdpYS5hLlNlZHVjYW8uRmVpdGljby5kZS5BbW9yLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/tGkyvxV4v42X1Fg01legQmsaSlT.png",
+      "sinopse": "[COLOR yellow]Romance, Fantasia, Comédia[/COLOR]\nO tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Idiotas (2026) [COLOR yellow]★[/COLOR] [COLOR white]6,3[/COLOR][COLOR gray]/10[/COLOR] (77)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9JZGlvdGFzLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/jPRZkZwe15RdRiNJUpn5bls7pu4.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/bX8M5hEuZD3nTay7ZzBfalea84H.png",
+      "sinopse": "[COLOR yellow]Comédia, Crime[/COLOR]\nMark e Davis são dois idiotas que aceitam um trabalho aparentemente simples: levar um adolescente rico e problemático até uma clínica de reabilitação. Só que o passageiro tem outros planos, e uma missão fácil se transforma numa jornada cada vez mais delirante, entre drogas, confusão e situações insanas que ninguém ali estava preparado para enfrentar.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Maré Escura (2026) [COLOR yellow]★[/COLOR] [COLOR white]6,6[/COLOR][COLOR gray]/10[/COLOR] (5)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9NYXJlLkVzY3VyYS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/2fPnOyt8bkVbA8fQjUCB3ZFjLHs.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/dz5kZrrHhGF9nMMVbeD3zlO1oMb.png",
+      "sinopse": "[COLOR yellow]Thriller[/COLOR]\nDe volta para a remota ilha onde cresceu, uma jovem cientista descobre uma rota de narcotráfico, e uma pessoa próxima a ela está por trás dessa operação.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Marsupilami: Confusão a Bordo (2026) [COLOR yellow]★[/COLOR] [COLOR white]6,3[/COLOR][COLOR gray]/10[/COLOR] (198)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9NYXJzdXBpbGFtaS5Db25mdXNhby5hLkJvcmRvLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/vGzmitzUQrDkAghLETCgLk4WMmD.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/qGPJ9AvOUpbpZjM6R7yqBDs4gsk.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/jxYMlXNgCEb4PnMiQFIDpIpXM6r.png",
+      "sinopse": "[COLOR yellow]Aventura, Comédia, Família[/COLOR]\nPara salvar seu emprego, David aceita transportar um pacote misterioso da América do Sul, mas tudo sai do controle quando um bebê marsupilami é libertado em um cruzeiro. Em meio à confusão, ele vive uma aventura caótica ao lado da ex, do filho e de um colega atrapalhado, redescobrindo a importância dos laços familiares.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Masterplan (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,0[/COLOR][COLOR gray]/10[/COLOR] (173)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9NYXN0ZXJwbGFuLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/fAlQZsCOCvxOj0PmFmt4i8IWR2u.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/At6dSS7TWU8qzxjqlupn10cegcF.png",
+      "sinopse": "[COLOR yellow]Ação, Thriller[/COLOR]\nQuando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Moana (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,5[/COLOR][COLOR gray]/10[/COLOR] (975)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9Nb2FuYS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/92clN62AIYMOAKaSlkJyZmGQM4R.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/nxgN0RCASpDic7bYovKE3UXabcU.png",
+      "sinopse": "[COLOR yellow]Família, Fantasia, Comédia, Aventura[/COLOR]\nNa Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Mother Mary (2026) [COLOR yellow]★[/COLOR] [COLOR white]5,6[/COLOR][COLOR gray]/10[/COLOR] (220)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9Nb3RoZXIuTWFyeS4yMDI2Lm1rdg==",
+      "imagem": "https://image.tmdb.org/t/p/original/uVcsN3yoHh7ZcJ6ecj1FJfv7dLa.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/8MHiD5Yig3Atm5SkbOcHF0azTSo.png",
+      "sinopse": "[COLOR yellow]Música, Drama, Thriller[/COLOR]\nFeridas antigas reabrem quando a icônica estrela pop Mother Mary reencontra seu melhor amigo e ex-figurinista Sam Anselm, de quem estava afastada, na véspera de sua apresentação de retorno.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "O Sorveteiro (2026) [COLOR yellow]★[/COLOR] [COLOR white]5,1[/COLOR][COLOR gray]/10[/COLOR] (201)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9PLlNvcnZldGVpcm8uMjAyNi5ta3Y=",
+      "imagem": "https://image.tmdb.org/t/p/original/8bUXuKrdYQFMdx7ogoN0f5cm8iq.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/4rALIZzOOQXayYNKn6DMj7HnL79.png",
+      "sinopse": "[COLOR yellow]Terror, Comédia, Thriller[/COLOR]\nUm sorveteiro misterioso distribui um doce amaldiçoado que transforma crianças em assassinas, sedentas por sangue e sem piedade com os adultos. Enquanto o massacre toma conta das ruas, três jovens que escaparam por pouco da maldição correm contra o tempo para descobrir a origem desse homem e impedir que a matança se espalhe, antes que não sobre ninguém vivo.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Território do Crime (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,5[/COLOR][COLOR gray]/10[/COLOR] (2)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9UZXJyaXRvcmlvLmRvLkNyaW1lLjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/pD2JIK2NdZaFnyYRMn2EuFR5KPu.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/4prxj3x8Ls5TWyebJVNeETgI2Y6.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/qgwexi1v8mi0kvMysevZz15DKWh.png",
+      "sinopse": "[COLOR yellow]Ação, Crime, Drama[/COLOR]\nEm uma cidade do norte do Brasil, diferentes forças do crime disputam o controle do território. De um lado, Gilvan, chefe de uma milícia que também comanda um programa sensacionalista. Do outro, Dino, um dos principais nomes do tráfico na região. Quando a milícia decide expandir seus domínios, uma guerra pelo poder toma conta das ruas. Em meio ao conflito, a policial Andreia começa a desconfiar das operações realizadas contra os criminosos. Ao investigar os bastidores da disputa, ela descobre que o combate ao crime pode estar servindo aos interesses de quem busca controlar a cidade.",
+      "legenda": "",
+      "tipo": "filme"
+    },
+    {
+      "nome": "Tony (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,5[/COLOR][COLOR gray]/10[/COLOR] (145)",
+      "url": "aHR0cHM6Ly9iaXRhbm94OlgoaDNCSGoyVmFBIWpESXglSERtQG11ZC5zZWVkaG9zdC5ldS9iaXRhbm94L2Rvd25sb2Fkcy8yNi9Ub255LjIwMjYubWt2",
+      "imagem": "https://image.tmdb.org/t/p/original/y2b8c7QcFzr41vGPG0xIBiIj8n2.jpg",
+      "fanart": "https://image.tmdb.org/t/p/original/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+      "clearlogo": "https://image.tmdb.org/t/p/original/2FxtH9oC4p2ZUaO8Q656MSe0YD6.png",
+      "sinopse": "[COLOR yellow]Drama, Comédia[/COLOR]\nAos 19 anos, Anthony Bourdain viaja para Provincetown e acaba entrando no mundo caótico de uma cozinha de restaurante, dando início a um verão que moldará o rumo de sua vida.",
       "legenda": "",
       "tipo": "filme"
     }
-    
   ]
 }
