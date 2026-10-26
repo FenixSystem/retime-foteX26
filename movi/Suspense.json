@@ -2,24 +2,15 @@
   "episodios": [
 {
   "nome": "Agente Zeta (2026)",
-  "url": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYubWt2",
+  "url": "SEMLINK",
   "imagem": "https://image.tmdb.org/t/p/original/zU20MrtOAYon07ULE9wFxUeaaqd.jpg",
   "fanart": "https://image.tmdb.org/t/p/original/jtO2Mm5X22QmJZH8YyUMmG0ZXOV.jpg",
   "clearlogo": "https://image.tmdb.org/t/p/original/zXkjH8aoTwXoNsWGHT3gSUm3Bgt.png",
   "sinopse": "[COLOR yellow]Ação, Suspense[/COLOR]\nQuatro ex-agentes do serviço secreto espanhol são assassinados simultaneamente ao redor do mundo. A CNI descobre que todos participaram da “Operação Ciénaga” décadas antes na Colômbia. Zeta, o melhor agente da CNI, deve encontrar e proteger o único sobrevivente em sua mais perigosa missão, até então. A agente da Colômbia, Alfa, se juntará a Zeta, e parece saber mais sobre a “Ciénaga” do que ele.",
   "legenda": "aHR0cHM6Ly90dWdhdGVhbXZvZDpQbXNwJTQwMjExMTE5NjRAY2F0LnNlZWRob3N0LmV1L3R1Z2F0ZWFtdm9kL2Rvd25sb2Fkcy8yMDI2L0FnZW50LlpldGEuMjAyNi9BZ2VudC5aZXRhLjIwMjYuc3J0",
   "tipo": "filme"
- },
- {
-  "nome": "Mar em Chamas (2021)",
-  "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4516FB0E673F45B6C7EF24CA5C0BD3BEF31CE5D3&",
-  "imagem": "https://image.tmdb.org/t/p/original/cB8NcMTwI5lnMkar7ODK0UFVUBL.jpg",
-  "fanart": "https://image.tmdb.org/t/p/original/9JLl9UYkcWbkLWWHtzuVB6fc9Qr.jpg",
-  "clearlogo": "https://image.tmdb.org/t/p/original/xtEXoMMW6azoainpVwVrQQx75A8.png",
-  "sinopse": "[COLOR yellow]Suspense, Drama[/COLOR]\nDos produtores de Terremoto. A exploração de petróleo começa a trazer consequências ambientais causando o colapso de uma plataforma. Uma piloto de submarino e pesquisadora fará de tudo para salvar o local de uma catastrofe iminente.",
-  "legenda": "",
-  "tipo": "filme"
- }   
+ }
+   
 
 
   ]
