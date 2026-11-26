@@ -1,5 +1,15 @@
 {
   "episodios": [
+    {
+    "nome": "The Slightest Touch (2026) [COLOR yellow]★[/COLOR] [COLOR white]9,0[/COLOR][COLOR gray]/10[/COLOR]",
+    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77AF2E05C56F48BA01127FC23E607503A2E69C41",
+    "imagem": "https://image.tmdb.org/t/p/original/dKdzTcCrILy0cCrjUSRiLQeaWLJ.jpg",
+    "fanart": "https://image.tmdb.org/t/p/original/8mI9P4IzYxzLSrIiMgpOzC4q0W1.jpg",
+    "clearlogo": "https://image.tmdb.org/t/p/original/9DPRj2NgbZUYX3Fr628SpuelBxo.png",
+    "sinopse": "[COLOR yellow]Documentário[/COLOR]",
+    "legenda": "https://github.com/FenixSystem/retime-foteX26/raw/refs/heads/main/vvt/tt39461889.srt",
+    "tipo": "filme"
+  },
    {
     "nome": "O Pequeno Guerreiro (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,7[/COLOR][COLOR gray]/10[/COLOR]",
     "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1CDC984092EB3B69D22E9E45C9378C3409E7D760",
