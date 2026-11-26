@@ -2,7 +2,7 @@
   "episodios": [
 {
     "nome": "The Mosquito Bowl (2026) [COLOR yellow]★[/COLOR] [COLOR white]7,1[/COLOR][COLOR gray]/10[/COLOR]",
-    "url": "magnet:?xt=urn:btih:4DAABF254C9FF51791BE5BCF8EB3A452681164FC",
+    "url": "plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DAABF254C9FF51791BE5BCF8EB3A452681164FC",
     "imagem": "https://image.tmdb.org/t/p/original/zTCY09GmAd3ZtIIiOTs2sqfVoLG.jpg",
     "fanart": "https://image.tmdb.org/t/p/original/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
     "clearlogo": "",
